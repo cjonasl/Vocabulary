@@ -1,0 +1,9 @@
+F:\Vocabulary\Vocabulary\StaticMethods\bin\Debug\netstandard2.0\StaticMethods.deps.json
+F:\Vocabulary\Vocabulary\StaticMethods\bin\Debug\netstandard2.0\StaticMethods.dll
+F:\Vocabulary\Vocabulary\StaticMethods\bin\Debug\netstandard2.0\StaticMethods.pdb
+F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.csproj.CoreCompileInputs.cache
+F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.AssemblyInfoInputs.cache
+F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.AssemblyInfo.cs
+F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.dll
+F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.pdb
+F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.csprojResolveAssemblyReference.cache

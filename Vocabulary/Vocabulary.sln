@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{32592FF8-44FC-4FD9-AC9A-DBFC0F72DE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMethods", "StaticMethods\StaticMethods.csproj", "{D395BA1C-0523-4422-9552-2E6FA6B8A8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{A9316EFB-DA97-4E81-875F-390E40AE051C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32592FF8-44FC-4FD9-AC9A-DBFC0F72DE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32592FF8-44FC-4FD9-AC9A-DBFC0F72DE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32592FF8-44FC-4FD9-AC9A-DBFC0F72DE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32592FF8-44FC-4FD9-AC9A-DBFC0F72DE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D395BA1C-0523-4422-9552-2E6FA6B8A8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D395BA1C-0523-4422-9552-2E6FA6B8A8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D395BA1C-0523-4422-9552-2E6FA6B8A8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D395BA1C-0523-4422-9552-2E6FA6B8A8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9316EFB-DA97-4E81-875F-390E40AE051C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9316EFB-DA97-4E81-875F-390E40AE051C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9316EFB-DA97-4E81-875F-390E40AE051C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9316EFB-DA97-4E81-875F-390E40AE051C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0AAE68-0997-4AA1-800A-2715972129F8}
+	EndGlobalSection
+EndGlobal
