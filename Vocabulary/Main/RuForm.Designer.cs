@@ -48,6 +48,7 @@
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both;
             this.textBox1.Size = new System.Drawing.Size(1079, 553);
             this.textBox1.TabIndex = 0;
+            this.textBox1.WordWrap = false;
             // 
             // hScrollBar1
             // 
@@ -114,7 +115,7 @@
             // buttonRun
             // 
             this.buttonRun.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonRun.Location = new System.Drawing.Point(972, 56);
+            this.buttonRun.Location = new System.Drawing.Point(972, 57);
             this.buttonRun.Name = "buttonRun";
             this.buttonRun.Size = new System.Drawing.Size(58, 23);
             this.buttonRun.TabIndex = 7;

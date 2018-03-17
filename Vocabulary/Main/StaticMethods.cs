@@ -76,10 +76,10 @@ namespace StaticMethods
             return wordsArray;
         }
 
-        public static void ReadConfig(string dir, out int choosenFile, out int currentIndex)
+        public static void ReadConfig(string dir, out string file, out int currentIndex)
         {
             string[] v = ReturnFileContents(dir + "\\Config.txt").Split(new string[] { "\r\n" }, StringSplitOptions.None);
-            choosenFile = int.Parse(v[0]);  //If v[0]=1 then it is file Vocabulary1.txt, if v[0]=2 then it is file Vocabulary2.txt etc.
+            file = v[0];
             currentIndex = int.Parse(v[1]);
         }
     }

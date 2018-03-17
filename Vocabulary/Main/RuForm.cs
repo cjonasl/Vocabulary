@@ -21,9 +21,7 @@ namespace Main
     {
         private string[] _wordsAndExplanationArray;
         private ArrayList _wordsArray;
-        private string _dir;
         private string _file;
-        private int _choosenFile;
         private int _numberOfWords;
         private bool _isInNewWordState;
 
@@ -34,13 +32,11 @@ namespace Main
             try
             {
                 InitializeComponent();
-                _dir = Directory.GetCurrentDirectory();
-                Utility.ReadConfig(_dir, out _choosenFile, out currentIndex);
-                _file = string.Format("{0}\\Vocabulary{1}.txt", _dir, _choosenFile);
+                Utility.ReadConfig(Directory.GetCurrentDirectory(), out _file, out currentIndex);
                 _wordsAndExplanationArray = Utility.ReturnWordsAndExplanationArray(_file);
                 _wordsArray = Utility.ReturnWordsArray(_wordsAndExplanationArray);
                 _numberOfWords = _wordsArray.Count;
-                this.Text = string.Format("File: Vocabulary{0}.txt (filled with {1} words)", _choosenFile.ToString(), _numberOfWords.ToString());
+                this.Text = string.Format("File: Vocabulary{0}.txt (filled with {1} words)", _file, _numberOfWords.ToString());
                 hScrollBar1.Value = 1 + currentIndex;
                 this.buttonCancel.Enabled = false;
                 this.buttonSave.Enabled = false;
@@ -85,7 +81,7 @@ namespace Main
             {
                 _isInNewWordState = false;
                 _numberOfWords++;
-                this.Text = string.Format("File: Vocabulary{0}.txt (filled with {1} words)", _choosenFile.ToString(), _numberOfWords.ToString());
+                this.Text = string.Format("File: Vocabulary{0}.txt (filled with {1} words)", _file, _numberOfWords.ToString());
             }
 
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
@@ -103,7 +99,7 @@ namespace Main
         private void Main_FormClosing(object sender, FormClosingEventArgs e)
         {
             int currentIndex = hScrollBar1.Value - 1;
-            Utility.CreateNewFile(_dir + "\\Config.txt", string.Format("{0}\r\n{1}", _choosenFile.ToString(), currentIndex.ToString()));
+            Utility.CreateNewFile(Directory.GetCurrentDirectory() + "\\Config.txt", string.Format("{0}\r\n{1}", _file, currentIndex.ToString()));
         }
 
         private void buttonRun_Click(object sender, EventArgs e)

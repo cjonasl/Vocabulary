@@ -104,3 +104,6 @@ F:\Vocabulary\Vocabulary\ConsoleApp1\obj\Release\ConsoleApp1.exe.config
 F:\Vocabulary\Vocabulary\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
 F:\Vocabulary\Vocabulary\ConsoleApp1\obj\Release\ConsoleApp1.exe
 F:\Vocabulary\Vocabulary\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Vocabulary\Vocabulary\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Release\ConsoleApp1.pdb
