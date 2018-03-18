@@ -2992,47 +2992,37 @@ Synonymer:  threatening, menacing, baleful, forbidding, sinister, inauspicious, 
 
 Exempel: There were ominous dark clouds gathering overhead, 3 (Det var olycksbådande moln som kom ovanför)
 ----- New word -----
-688. ?????
-Å Ä Ö å ä ö
+688. nasty
 
-Förklaring:
+Uttalas: nastē
 
-Uttalas:
+Adjektiv: otäck, obehaglig, vidrig, elak, ruskig, snuskig, läskig
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: unpleasant, disagreeable, disgusting, distasteful, awful, dreadful, horrible, terrible, obnoxious, wicked, evil, unkind, rude
 
-Exempel:
+Exempel: Plastic bags burn with a nasty smell, 6 (Plastpåsar brinna med en otäck lukt)
 ----- New word -----
-689. ?????
-Å Ä Ö å ä ö
+689. naughty
 
-Förklaring:
+Uttalas: nôtē
 
-Uttalas:
+Adjektiv: stygg, elak, olydig
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: disobedient, rude, improper
 
-Exempel:
+Exempel: You have been a really naughty boy, 6 (Du har varit en riktig olydig pojke)
 ----- New word -----
-690. ?????
-Å Ä Ö å ä ö
+690. puke
 
-Förklaring:
+Uttalas: pyook
 
-Uttalas:
+Substantiv: spya, kräkning
+Verb: spy, kräkas
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: vomit, throw up, be sick, cast up, chuck
 
-Exempel:
+Exempel: I had eaten to the point of puking, 8 (Jag hade ätit så mycket att jag kräktes)
+Exempel: I was sick in the night, no puke but sick to my stomach, 8 (Jag var sjuk på natten, ingen kräkning men ont i magen)
 ----- New word -----
 691. ?????
 Å Ä Ö å ä ö
