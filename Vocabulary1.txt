@@ -988,7 +988,7 @@ marknad, rättvisa
 165. quirk
 (substantiv) 1. egendomlighet (by a quirk of fate = genom en ödets nyck) 2. listig undanflykt
 ----- New word -----
-166. pledge: pant, in pledge of (som pant för), löfte
+166. pledge
 
 Substantiv: löfte, pant, skål, gisslan
 Verb: pantsätta, lova, förbinda, förpanta, belåna, dricka en skål för
@@ -996,7 +996,7 @@ Verb: pantsätta, lova, förbinda, förpanta, belåna, dricka en skål för
 Synonymer (substantiv): promise, undertaking, vow, word, word of honor, commitment, assurance, oath
 
 Exempel: Foreign secretary Boris Johnson pledged a robust response, 5 (Utrikesminister Boris Johnson lovade ett starkt svar)
-Exempel: I pledge allegiance that I will fulfill my duties, 3 (Jag lovar trovärdighet att jag ska fullgöra mina uppgifter)
+Exempel: I pledge allegiance that I will fulfill my duties, 2 (Jag lovar på heder och samvete att jag ska fullgöra mina uppgifter)
 ----- New word -----
 167. diversity
 mångfald
@@ -3024,19 +3024,19 @@ Synonymer: vomit, throw up, be sick, cast up, chuck
 Exempel: I had eaten to the point of puking, 8 (Jag hade ätit så mycket att jag kräktes)
 Exempel: I was sick in the night, no puke but sick to my stomach, 8 (Jag var sjuk på natten, ingen kräkning men ont i magen)
 ----- New word -----
-691. ?????
-Å Ä Ö å ä ö
+691. allegiance
 
-Förklaring:
+Förklaring: loyalty or commitment of a subordinate to a superior or of an individual to a group or cause
+(lojalitet eller engagemang av en underordnad till en överordnad eller en individ till en grupp eller orsak)
 
-Uttalas:
+Uttalas: əˈlējəns
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: trohet
 
-Exempel:
+
+Synonymer: loyalty, faithfulness, fidelity, obedience, homage, devotion, fealty, troth
+
+Exempel: Those wishing to receive citizenship must swear allegiance to the republic, 8 (De som vill få medborgarskap måste svära trohet mot republiken)
 ----- New word -----
 692. ?????
 Å Ä Ö å ä ö
