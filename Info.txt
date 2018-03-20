@@ -1,0 +1,3 @@
+﻿Commands:
+words: Print all words sorted
+examples: Print all sentences sorted

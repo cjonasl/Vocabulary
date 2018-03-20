@@ -7,3 +7,11 @@ F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.As
 F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.dll
 F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.pdb
 F:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.csprojResolveAssemblyReference.cache
+C:\Vocabulary\Vocabulary\StaticMethods\bin\Debug\netstandard2.0\StaticMethods.deps.json
+C:\Vocabulary\Vocabulary\StaticMethods\bin\Debug\netstandard2.0\StaticMethods.dll
+C:\Vocabulary\Vocabulary\StaticMethods\bin\Debug\netstandard2.0\StaticMethods.pdb
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.csproj.CoreCompileInputs.cache
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.AssemblyInfoInputs.cache
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.AssemblyInfo.cs
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.dll
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Debug\netstandard2.0\StaticMethods.pdb

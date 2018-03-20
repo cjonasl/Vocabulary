@@ -76,11 +76,12 @@ namespace StaticMethods
             return wordsArray;
         }
 
-        public static void ReadConfig(string dir, out string file, out int currentIndex)
+        public static void ReadConfig(string dir, out string targetVocabularyFileFullPath, out string fileNameInfoFileFullPath, out int currentIndex)
         {
             string[] v = ReturnFileContents(dir + "\\Config.txt").Split(new string[] { "\r\n" }, StringSplitOptions.None);
-            file = v[0];
-            currentIndex = int.Parse(v[1]);
+            targetVocabularyFileFullPath = v[0];
+            fileNameInfoFileFullPath = v[1];
+            currentIndex = int.Parse(v[2]);
         }
     }
 }

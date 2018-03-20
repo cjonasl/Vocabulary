@@ -705,7 +705,7 @@ Verb: Växla
 
 Exempel: There's a button which toggles between upper case, lower case and numbers, 5 (Det finns en knapp som växlar mellan stora bokstäver, små bokstäver och siffror)
 ----- New word -----
-74. legible: läslig
+74. legible
 
 Uttalas: lejəbəl
 
@@ -3094,19 +3094,17 @@ Synonymer: loyalty, faithfulness, fidelity, obedience, homage, devotion, fealty,
 
 Exempel: Those wishing to receive citizenship must swear allegiance to the republic, 8 (De som vill få medborgarskap måste svära trohet mot republiken)
 ----- New word -----
-692. ?????
-Å Ä Ö å ä ö
+692. shag
 
-Förklaring:
+Förklaring (substantiv): A carpet or rug with a long, rough pile
+Förklaring (substantiv): A thick, tangled hairstyle or mass of hair
 
-Uttalas:
+Adjektiv: lurvig
+Substantiv: päls, ragg
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
 
-Exempel:
+Exempel: Wall-to-wall shag carpet, 2
+Exempel: Her hair was cut short in a boyish shag, 8
 ----- New word -----
 693. ?????
 Å Ä Ö å ä ö

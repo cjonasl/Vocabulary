@@ -6,3 +6,12 @@ F:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.
 F:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.AssemblyInfo.cs
 F:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.dll
 F:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.pdb
+C:\Vocabulary\Vocabulary\StaticMethods\bin\Release\netstandard2.0\StaticMethods.deps.json
+C:\Vocabulary\Vocabulary\StaticMethods\bin\Release\netstandard2.0\StaticMethods.dll
+C:\Vocabulary\Vocabulary\StaticMethods\bin\Release\netstandard2.0\StaticMethods.pdb
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.csprojResolveAssemblyReference.cache
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.csproj.CoreCompileInputs.cache
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.AssemblyInfoInputs.cache
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.AssemblyInfo.cs
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.dll
+C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.pdb
