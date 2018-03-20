@@ -716,19 +716,66 @@ Synonymer: readable, easy to read, easily deciphered, clear, plain, neat, deciph
 Exempel: The original paper is scarcely legible, 5 (Det ursprungliga papperet är knappt läsbart)
 ----- New word -----
 75. taint
-fläcka
+
+Förklaring (substantiv): A trace of a bad or undesirable quality or substance
+(trace, touch, suggestion, hint, tinge, stain, blot, blemish, stigma, black mark)
+
+Förklaring (verb): Contaminate or pollute something (förorena eller släppa ut något)
+(contaminate, pollute, adulterate, infect, blight, spoil, soil, ruin, destroy, befoul)
+
+Substantiv: bismak, fläck, spår, fördärv, besmittelse
+Verb: fläcka, förpesta, skämma, besmitta, vanära
+
+Exempel: The taint of corruption that adhered to the regime, 2 (Vanäran av korruption som var körknippat med regimen)
+Exempel: The air was tainted by fumes from the cars, 4 (Luften var förorenad av bilarnas avgaser)
+
 ----- New word -----
 76. unwieldy
-tungrodd
+
+Förklaring: Difficult to carry or move because of its size, shape, or weight
+
+Uttalas: ənˈwēldē
+
+Adjektiv: tungrodd, klumpig, ohanterlig
+
+Synonymer: cumbersome, unmanageable, unmaneuverable, awkward, clumsy, massive, heavy
+
+Exempel: The first mechanical clocks were large and unwieldy, 8
+(De första mekaniska klockorna var stora och klumpiga)
+
 ----- New word -----
 77. swatch
-provbit; provkarta
+
+Förklaring (substantiv): A small sample of fabric intended to demonstrate the look of a larger piece
+Förklaring (verb): Apply a sample of (paint, makeup, etc.) to a surface or one's skin to test or demonstrate the color
+
+Substantiv: provbit, provkarta
+
+Exempel: We come to the house with all our materials, colour and fabric swatches, 13
+(Vi kommer till huset med allt vårt material, färger och tygprov)
 ----- New word -----
 78. emboss
-to decorate an object, especially with letters, using special tools which make a raised mark on its surface, She handed me a business card with her name neatly embossed on it, buckla ut
+
+Förklaring: To decorate an object, especially with letters, using special tools which make a raised
+mark on its surface
+
+Verb: prägla
+
+Exempel: She handed me a business card with her name neatly embossed on it, 11
+(Hon gav mig ett visitkort med namnet prydligt präglat på det)
 ----- New word -----
 79. ramification
-1. följd, konsekvenser, förgrening, utlöpning, a development or consequence growing out of and sometimes complicating a problem, plan, or statement 2. The act or process of branching out or dividing into branches
+
+Förklaring: A consequence of an action or event, especially when complex or unwelcome
+Förklaring: A development or consequence growing out of and sometimes complicating a problem, plan, or statement
+Förklaring: The act or process of branching out or dividing into branches
+
+Substantiv: följd, konsekvenser, förgrening, utlöpning
+
+Synonymer: onsequence, result, aftermath, outcome, effect, upshot, development, implication
+
+Exempel: Any change is bound to have legal ramifications, 8
+(Varje förändring kommer få rättsliga konsekvenser)
 ----- New word -----
 80. oblong
 avlång, oval, långsmal, rektangulär
@@ -1251,7 +1298,16 @@ predika
 1. omkomma 2. gå förlorad; förstöras; avtyna, vissna bort
 ----- New word -----
 248. immense
-1. ofantlig, enorm 2. storartad, jättebra
+
+Förklaring: Extremely large or great, especially in scale or degree
+
+Uttalas: iˈmens
+
+Adjektiv: ofantlig, enorm, storartad, jättebra, kolossal, väldig, utmärkt
+
+Synonymer: huge, vast, massive, enormous, gigantic, colossal, great, very large/big, grand, imperial
+
+Exempel: The cost of restoration has been immense, 7 (Kostnaden för restaurering har blivit enorm)
 ----- New word -----
 249. eternity
 evighet, oändlighet, ändlöshet, odödlighet
