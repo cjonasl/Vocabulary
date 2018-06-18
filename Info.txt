@@ -1,3 +1,4 @@
 ﻿Commands:
+f {word}: Find a word
 words: Print all words sorted
 examples: Print all sentences sorted

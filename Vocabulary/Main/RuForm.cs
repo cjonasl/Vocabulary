@@ -1,17 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-using System.Diagnostics;
-using RuFramework.RuConfigManager;
-using System.Globalization;
-using System.Reflection;
 using System.Collections;
 using StaticMethods;
 
@@ -20,18 +10,17 @@ namespace Main
     public partial class Main : Form
     {
         private string[] _wordsAndExplanationArray;
-        private ArrayList _wordsArray;
+        private ArrayList _wordsArray, _exampleNotMasked, _exampleMasked, _translated;
         private string _targetVocabularyFileFullPath;
         private string _fileNameInfoFileFullPath;
         private string _infoText;      
-        string _newWord;
         private int _numberOfWords;
-        private bool _isInNewWordState;
         private bool _infoTextIsShown;
 
         public Main()
         {
             int currentIndex;
+            string errorMessage;
 
             try
             {
@@ -42,6 +31,12 @@ namespace Main
                 _wordsAndExplanationArray = Utility.ReturnWordsAndExplanationArray(_targetVocabularyFileFullPath);
                 _wordsArray = Utility.ReturnWordsArray(_wordsAndExplanationArray);
                 _numberOfWords = _wordsArray.Count;
+
+                if (!Utility.ExempelsAreOk(Utility.ReturnFileContents(_targetVocabularyFileFullPath), out errorMessage, out _exampleNotMasked, out _exampleMasked, out _translated))
+                {
+                    throw new Exception(errorMessage);
+                }
+
                 this.Text = string.Format("File: Vocabulary{0}.txt (filled with {1} words)", _targetVocabularyFileFullPath, _numberOfWords.ToString());
                 hScrollBar1.Value = 1 + currentIndex;
                 this.buttonCancel.Enabled = false;
@@ -49,7 +44,6 @@ namespace Main
                 this.textBox1.Text = _wordsAndExplanationArray[hScrollBar1.Value - 1];
                 this.label1.Text = hScrollBar1.Value.ToString();
                 this.textBox1.Select(0, 0);
-                _isInNewWordState = false;
                 this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             }
             catch(Exception e)
@@ -86,22 +80,6 @@ namespace Main
                 _wordsAndExplanationArray[hScrollBar1.Value - 1] = this.textBox1.Text;
                 Utility.Print(_targetVocabularyFileFullPath, _wordsAndExplanationArray);
                 this.hScrollBar1.Enabled = true;
-
-                if (_isInNewWordState)
-                {
-                    _isInNewWordState = false;
-                    _numberOfWords++;
-
-                    if (_wordsArray.IndexOf(_newWord) >= 0)
-                    {
-                        throw new Exception("_wordsArray.IndexOf(_newWord) >= 0");
-                    }
-
-                    _wordsArray.Add(_newWord);
-
-                    this.Text = string.Format("File: Vocabulary{0}.txt (filled with {1} words)", _targetVocabularyFileFullPath, _numberOfWords.ToString());
-                }
-
                 this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             }
             else
@@ -135,9 +113,9 @@ namespace Main
             Utility.CreateNewFile(Directory.GetCurrentDirectory() + "\\Config.txt", string.Format("{0}\r\n{1}\r\n{2}", _targetVocabularyFileFullPath, _fileNameInfoFileFullPath, currentIndex.ToString()));
         }
 
-        private void Command_NewWord()
+        private void Command_NewWord(string newWord)
         {
-            int index = _wordsArray.IndexOf(_newWord);
+            int index = _wordsArray.IndexOf(newWord);
 
             if (index >= 0)
             {
@@ -148,9 +126,11 @@ namespace Main
             {
                 if (MessageBox.Show("The word does not exist. Add the word?", "Information", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
-                    _wordsAndExplanationArray[_numberOfWords] = _wordsAndExplanationArray[_numberOfWords].Replace("?????", _newWord);
-                    this.hScrollBar1.Value = 1 + _numberOfWords;
-                    _isInNewWordState = true;
+                    _wordsArray.Add(newWord);
+                    _numberOfWords++;
+                    _wordsAndExplanationArray[_numberOfWords - 1] = _wordsAndExplanationArray[_numberOfWords - 1].Replace("?????", newWord);
+                    this.hScrollBar1.Value = _numberOfWords;                
+                    Utility.Print(_targetVocabularyFileFullPath, _wordsAndExplanationArray);
                     hScrollBar1_Scroll(null, null);
                 }
             }
@@ -177,15 +157,13 @@ namespace Main
             switch(command)
             {
                 case "f":
-                    if ((v.Length == 1) || string.IsNullOrEmpty(v[1].Trim()))
+                    if (v.Length != 2)
                     {
-                        MessageBox.Show("A word is not given!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("Incorrect given parameter for command f. It should be f, one blank and then the word.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                     else
                     {
-                        _newWord = v[1].Trim();
-                        Command_NewWord();
-
+                        Command_NewWord(v[1].Trim());
                     }
                     break;
             }

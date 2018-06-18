@@ -205,8 +205,9 @@ C:\Vocabulary\Vocabulary\ConsoleApp1\bin\Debug\System.Xml.XPath.dll
 C:\Vocabulary\Vocabulary\ConsoleApp1\bin\Debug\System.Xml.XPath.XDocument.dll
 C:\Vocabulary\Vocabulary\ConsoleApp1\bin\Debug\StaticMethods.dll
 C:\Vocabulary\Vocabulary\ConsoleApp1\bin\Debug\StaticMethods.pdb
-C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
 C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
 C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Vocabulary\Vocabulary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

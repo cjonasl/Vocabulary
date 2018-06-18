@@ -18,7 +18,7 @@ Uttlas: Jårn
 Substantiv: gäspning, gap, svalg
 Verb: gäspa, gapa, öppna sig
 
-Exempel: He began yawning and looking at his watch, 3 (Han började gäspa och titta på klockan)
+Exempel: e began yawning and looking at his watch, 3 (Han började gäspa och titta på klockan)
 ----- New word -----
 3. long
 
@@ -44,7 +44,7 @@ Adjektiv: hög, imponerande, ståtligt, upphöjd, ädel, högdragen, överlägse
 Synonymer: tall, high, giant, towering, soaring, skyscraping
 
 Exempel: A lofty tower, 3 (ett ståtligt torn)
-Exempel: The elegant square was shaded by lofty palms, 8
+Exempel: The elegant square was shaded by lofty palms, 8 (Det eleganta torget skuggades av ståtliga palmer)
 ----- New word -----
 6. cumbersome
 
@@ -52,7 +52,7 @@ Adjektiv: besvärlig, ohanterlig
 
 Synonymer: unwieldy, unmanageable, awkward, clumsy, inconvenient, incommodious
 
-Exempel: That is an organizations with cumbersome hierarchical structures, 6
+Exempel: That is an organizations with cumbersome hierarchical structures, 6 (Det är en organisation med besvärliga hierarkiska strukturer)
 ----- New word -----
 7. pertain
 
@@ -60,7 +60,7 @@ Verb: tillhöra, hänföra sig till, gälla
 
 Synonymer: concern, relate to, be related to, be connected with, be relevant to, regard
 
-Exempel: This is a matter pertaining to the organization of government, 5
+Exempel: This is a matter pertaining to the organization of government, 5 (Det här är en fråga som rör regeringens organisation)
 ----- New word -----
 8. audit
 
@@ -69,9 +69,9 @@ Förklaring: An audit is a systematic and independent examination of books. Cond
 Substantiv: granskning, revision, granskning av räkenskaper
 Verb: granska, revidera
 
-Synonymer (verb):  inspect, examine, survey, go through, scrutinize, check, probe, vet, investigate
+Synonymer (verb): inspect, examine, survey, go through, scrutinize, check, probe, vet, investigate
 
-Exempel: Audits can be expected to detect every fraud, 1
+Exempel: Audits can be expected to detect every fraud, 1 (Revisioner kan förväntas upptäcka varje bedrägeri)
 ----- New word -----
 9. behead:
 
@@ -81,7 +81,7 @@ Verb: halshugga (Ifrån Daniels läxa)
 
 Synonymer: decapitate, cut/chop/lop someone's head off, guillotine
 
-Exempel: Mary was beheaded at Fotheringhay, 5
+Exempel: Mary was beheaded at Fotheringhay, 5 (Maria blev halshuggen på Fotheringhay)
 ----- New word -----
 10. dungeon
 
@@ -91,7 +91,7 @@ Substantiv: fångtorn, fängelse, underjordisk fängelsehåla (Ifrån Daniels l�
 
 Synonymer: underground prison, oubliette, cell, jail, lockup, skookum house
 
-Exempel: A dungeon is a room or cell in which prisoners are held, 2
+Exempel: A dungeon is a room or cell in which prisoners are held, 2 (En fängelsehåla är ett rum eller en cell där fångar hålls)
 ----- New word -----
 11. chime
 
@@ -102,7 +102,7 @@ Verb: klinga, ringa
 
 Synonymer (verb): ring, peal, toll, sound, ding, dong, clang, boom, bong, knell; strike, sound
 
-Exempel: His poem chimes with our modern experience of loss, 3
+Exempel: The clock chimed eight, 3 (Klockan slog åtta)
 ----- New word -----
 12. soar
 
@@ -112,7 +112,7 @@ Verb: flyga (sväva) högt, stiga
 
 Synonymer: fly, wing, ascend, climb, rise, take off, take flight
 
-Exempel: Prices are soaring, 3
+Exempel: Prices are soaring, 3 (Priserna ökar)
 ----- New word -----
 13. zealous
 
@@ -138,7 +138,7 @@ Adjektiv: genomträngande, pervasive smell
 
 Synonymer: revalent, pervading, permeating, extensive, ubiquitous, omnipresent, universal
 
-Exempel: He has a pervasive smell, 4
+Exempel: He has a pervasive smell, 4 (Han har en genomträngande lukt)
 ----- New word -----
 16. pursue
 
@@ -146,7 +146,7 @@ Verb: förfölja, sträva efter, fullfölja, jaga efter, utöva
 
 Synonymer: follow, run after, chase, hunt, stalk, track, trail, shadow, hound, course, tail
 
-Exempel: The officer pursued the van
+Exempel: The officer pursued the van, 3 (Polisen följde efter en skåpbil)
 ----- New word -----
 17. assess
 
@@ -154,7 +154,7 @@ Verb: fastställa, uppskatta, värdera, analysera, beskatta
 
 Synonymer: synonyms: evaluate, judge, gauge, rate, estimate, appraise, consider
 
-Exempel: The committee must assess the relative importance of the issues, 4
+Exempel: The committee must assess the relative importance of the issues, 4 (Utskottet måste bedöma problemets relativa betydelse)
 ----- New word -----
 18. peer
 
@@ -164,8 +164,8 @@ Substantiv like, jämlike, adelsman, peer group (kamratgrupp)
 Synonymer (substantiv): aristocrat, lord, lady, peer of the realm, peeress, noble, nobleman, noblewoman
 Synonymer (verb): look closely, try to see, narrow one's eyes, screw up one's eyes
 
-Exempel (substantiv): Six members are hereditary peers, 5 (Sex medlemmar är ärftliga kamrater)
-Exempel (verb): Blake opened up his eyes trying to peer through the fog, 8 (Blake öppnade ögonen och försökte sticka genom dimma)
+Exempel: Six members are hereditary peers, 5 (Sex medlemmar är ärftliga kamrater)
+Exempel: Blake opened up his eyes trying to peer through the fog, 8 (Blake öppnade ögonen och försökte sticka genom dimma)
 ----- New word -----
 19. goblet
 
@@ -173,7 +173,7 @@ Förklaring: A drinking glass with a foot and a stem
 
 Substantiv: glas på fot, bägare
 
-Exempel: Harry Potter and the goblets of wine, 5
+Exempel: Harry Potter and the goblets of wine, 5 (Harry Potter och bägaren av vin)
 ----- New word -----
 20. decease
 
@@ -182,8 +182,8 @@ Verb: dö, avlida
 
 Synonymer (substantiv): death, dying, demise, end, passing, loss of life, quietus, curtains, croaking, snuffing
 
-Exempel: Dominic will live for another few years but as soon as he deceases his daughter will take his position, 13
-Exempel: The deceased looked very pale, 2
+Exempel: Dominic will live for another few years but as soon as he deceases his daughter will take his position, 13 (Dominic kommer att leva i ytterligare några år men så snart han avlider kommer hans dotter ta hans position)
+Exempel: The deceased looked very pale, 2 (Den avlidne såg väldigt blek ut)
 ----- New word -----
 21. disease
 
@@ -191,7 +191,7 @@ Substantiv: sjukdom, bortgång
 
 Synonymer: illness, sickness, ill health, infection, ailment, malady, disorder, complaint, affliction
 
-Exempel: Bacterial meningitis is a rare disease, 6
+Exempel: Bacterial meningitis is a rare disease, 6 (Bakteriell meningit är en sällsynt sjukdom)
 ----- New word -----
 22. dismiss
 
@@ -199,13 +199,13 @@ Verb: avskeda, skicka bort, avfärda, avslå
 
 Synonymer: send away, let go, disband, dissolve, discharge
 
-Exempel: He was dismissed from his work and can not come back, 3
+Exempel: He was dismissed from his work and can not come back, 3 (Han avskedades från sitt arbete och kan inte komma tillbaka)
 ----- New word -----
 23. suspend
 
 Verb: avstänga, uppskjuta
 
-Exempel: He was suspended from school for 3 months, 2
+Exempel: He was suspended from school for 3 months, 2 (Han stängdes av från skolan i tre månader)
 ----- New word -----
 24. pitcher
 
@@ -213,7 +213,7 @@ Substantiv: tillbringare, kruka, kanna
 
 Synonymer: jug, ewer, jar, creamer
 
-Exempel: The pitcher contains a nice flower, 2
+Exempel: The pitcher contains a nice flower, 2 (Krukan innehåller en fin blomma)
 ----- New word -----
 25. jug
 
@@ -222,8 +222,7 @@ Verb: steka, bura in
 
 Synonymer (substantiv): pitcher, carafe, flask, flagon, bottle, decanter, ewer, crock, jar, urn, amphora
 
-Exempel: The jug contains one litre of water, 2
------ New word -----
+Exempel: The jug contains one litre of water, 2 (Tillbringaren innehåller en liter vatten)
 26. inherent
 
 Adjektiv: inneboende, naturlig, medfödd
@@ -238,8 +237,8 @@ Adjektiv: framstupa, raklång, utsträckt, benägen, they are prone to accidents
 
 Synonymer: susceptible, vulnerable, subject, open, liable, given, predisposed, likely, disposed
 
-Exempel: I was lying prone on a foam mattress (Jag låg framstupa på en skummadrass)
-Exempel: Drunk drivers are prone to errors and accidents
+Exempel: I was lying prone on a foam mattress, 4 (Jag låg framstupa på en skummadrass)
+Exempel: Drunk drivers are prone to errors and accidents, 4 (Fulla förare är benägna till fel och olyckor)
 ----- New word -----
 28. intrinsic
 
@@ -247,7 +246,7 @@ Adjektiv: inre, inneboende, egentlig, verklig, reell, väsentlig
 
 Synonymer: inherent, innate, inborn, inbred, congenital, connate, natural, deep-roote
 
-Exempel: The intrinsic power of that animal is amazing, 2
+Exempel: The intrinsic power of that animal is amazing, 2 (Den inneboende kraften i det djuret är otrolig)
 ----- New word -----
 29. obscure
 
@@ -258,7 +257,7 @@ Synonymer (adjektiv):  unclear, uncertain, unknown, in doubt, doubtful, dubious,
 Synonymer (verb): hide, conceal, cover, veil, shroud, screen, mask, cloak, cast a shadow over
 
 Exempel: An obscure corner, 2 (Ett dunkelt hörn)
-Exempel: An obscure passage in the book, 2, (En svårfattlig del i boken)
+Exempel: An obscure passage in the book, 2 (En svårfattlig del i boken)
 Exempel: An obscure French artist, 2 (En okänd fransk artist)
 Exempel: His origins and parentage are obscure, 6 (Hans ursprung och föräldraskap är oklar)
 Exempel: Gray clouds obscure the sun, 3 (Gråa moln döljer solen)
@@ -343,7 +342,7 @@ Adjektiv: efterföljande, senare, påföljande
 Synonymer: following, ensuing, succeeding, later, future, coming, to come, next, latter, ulterior, puisne
 
 Exempel: The theory was developed subsequent to the earthquake of 1906, 5 (Teorin utvecklades efter jordbävningen 1906)
-Exempel: Preceding president was Obama, current is Trump and subsequent will probably be another man, 9 (Förevarande president var Obama, nuvarande är Trump och efterföljande kommer troligen att vara en annan man)
+Exempel: Preceding president was Obama current is Trump and subsequent will probably be another man, 9 (Förevarande president var Obama nuvarande är Trump och efterföljande kommer troligen att vara en annan man)
 ----- New word -----
 38. precede
 
@@ -383,7 +382,7 @@ Verb: röra upp, snurra
 
 Synonymer (verb): stir, agitate, beat, whip, whisk
 
-Exempel: Mothers made butter from milk, they mixed the milk in a butter churn, 13 (Mödrar gjorde smör från mjölk, de blandade mjölken i en smörkanna)
+Exempel: Mothers mixed the milk in a butter churn, 8 (Mödrar blandade mjölken i en smörkanna)
 Exempel: The cream is ripened before it is churned, 8 (Man låter grädden mogna innan den blandas)
 Exempel: The propeller churned round very fast, 3 (Propellern snurrade runt mycket snabbt)
 Exempel: He churns out a dozen articles a week, 2 (Han spottar ut ett dussin artiklar i veckan)
@@ -400,7 +399,7 @@ Synonymer (verb): pull, jerk, tug, twist, twitch, pinch, squeeze, adjust, modify
 
 Exempel: He gave my butt an affectionate tweak from time to time, 6 (Han gav min bak ett tillgivet nyp lite då och då)
 Exempel: He tweaked the boy's ear, 2 (Han vred om örat på pojken)
-Exempel: You need to tweak that code a bit (Du måste förbättra den koden lite)
+Exempel: You need to tweak that code a bit, 4 (Du måste förbättra den koden lite)
 ----- New word -----
 43. spurious
 
@@ -428,16 +427,16 @@ Verb: utveckla, i detalj utarbeta, göra detaljerad, genomarbeta, komplicera,
 Synonymer (adjektiv): complicated, complex, intricate, involved, detailed, painstaking, careful, tortuous
 Synonymer (verb): deal with thoroughly, work through, develop, elaborate, expand, expound, form, explica
 
-Exempel: This was definitely an elaborate design, 5
-Exempel: The key idea of the book is expressed in the title and elaborated in the text, 13
+Exempel: This was definitely an elaborate design, 5 (Detta var definitivt en i detalj genomförd design)
+Exempel: The key idea of the book is expressed in the title and elaborated in the text, 13 (Bokens huvudidé uttrycks i titeln och utarbetas i texten)
 ----- New word -----
 46. succinct
 
 Adjektiv: koncis, kortfattad
 
-Synonymer:  concise, short (and sweet), brief, compact, condensed, crisp, laconic, terse
+Synonymer: concise, short (and sweet), brief, compact, condensed, crisp, laconic, terse
 
-Exempel: Use short, succinct sentences
+Exempel: Use succinct sentences, 2 (Använd korta meningar)
 ----- New word -----
 47. transcend
 
@@ -455,8 +454,8 @@ Adjektiv: framträdande, framskjutande, framskjuten, bemärkt, berömd, utståen
 
 Synonymer: important, well-known, leading, eminent, distinguished, notable, noteworthy, noted,  protuberant, protruding, projecting, jutting (out), standing out, sticking out, proud
 
-Exempel: She was a prominent member of the city council, 4
-Exempel: She has big prominent eyes like a lobster, 4
+Exempel: She was a prominent member of the city council, 4 (Hon var en framstående medlem av kommunfullmäktige)
+Exempel: She has big prominent eyes like a lobster, 4 (Hon har stora framskjutande ögon som en hummer)
 ----- New word -----
 49. malleable
 
@@ -464,13 +463,13 @@ Adjektiv: smidig, formbar
 
 Synonymer: pliable, ductile, plastic, pliant, soft, workable
 
-Exempel: It is made of malleable steel, 5
+Exempel: It is made of malleable steel, 5 (Det är gjort av formbart stål)
 ----- New word -----
 50. perusal 
 
 Substantiv: genomläsning
 
-Exempel: I continued my perusal of the instructions, 4
+Exempel: I continued my perusal of the instructions, 4 (Jag fortsatte min genomläsning av instruktionerna)
 ----- New word -----
 51. prevail
 
@@ -555,7 +554,7 @@ Exempel: She immersed herself in her work, 2 (Hon fördjupade sig i sitt arbete)
 
 Verb: övervintra, gå i ide
 
-Exempel: Hedgehogs are active only at night, and some species hibernate in the winter, 10 (Igelkottar är bara aktiva på natten, och vissa arter går i ide vintertid)
+Exempel: Hedgehogs are active only at night and some species hibernate in the winter, 10 (Igelkottar är bara aktiva på natten och vissa arter går i ide vintertid)
 ----- New word -----
 59. disclose
 
@@ -649,7 +648,7 @@ Konjunktion: om än
 Synonymer: although, even though
 
 Exempel: Clear albeit cold weather, 2 (Klart om än kallt väder)
-Exempel: He was making progress, albeit rather slowly, 5 (Han gjorde framsteg, om än ganska långsamt)
+Exempel: He was making progress albeit rather slowly, 5 (Han gjorde framsteg om än ganska långsamt)
 ----- New word -----
 69. sponge
 
@@ -703,7 +702,7 @@ Förklaring (verb): Switch from one effect, feature, or state to another by usin
 Substantiv: avlång knapp, pinne
 Verb: Växla
 
-Exempel: There's a button which toggles between upper case, lower case and numbers, 5 (Det finns en knapp som växlar mellan stora bokstäver, små bokstäver och siffror)
+Exempel: There's a button which toggles between upper case lower case and numbers, 5 (Det finns en knapp som växlar mellan stora bokstäver små bokstäver och siffror)
 ----- New word -----
 74. legible
 
@@ -740,8 +739,7 @@ Adjektiv: tungrodd, klumpig, ohanterlig
 
 Synonymer: cumbersome, unmanageable, unmaneuverable, awkward, clumsy, massive, heavy
 
-Exempel: The first mechanical clocks were large and unwieldy, 8
-(De första mekaniska klockorna var stora och klumpiga)
+Exempel: The first mechanical clocks were large and unwieldy, 8 (De första mekaniska klockorna var stora och klumpiga)
 
 ----- New word -----
 77. swatch
@@ -751,8 +749,7 @@ Förklaring (verb): Apply a sample of (paint, makeup, etc.) to a surface or one'
 
 Substantiv: provbit, provkarta
 
-Exempel: We come to the house with all our materials, colour and fabric swatches, 13
-(Vi kommer till huset med allt vårt material, färger och tygprov)
+Exempel: We come to the house with all our materials colour and fabric swatches, 13 (Vi kommer till huset med allt vårt material färger och tygprov)
 ----- New word -----
 78. emboss
 
@@ -761,8 +758,7 @@ mark on its surface
 
 Verb: prägla
 
-Exempel: She handed me a business card with her name neatly embossed on it, 11
-(Hon gav mig ett visitkort med namnet prydligt präglat på det)
+Exempel: She handed me a business card with her name neatly embossed on it, 11 (Hon gav mig ett visitkort med namnet prydligt präglat på det)
 ----- New word -----
 79. ramification
 
@@ -774,17 +770,32 @@ Substantiv: följd, konsekvenser, förgrening, utlöpning
 
 Synonymer: onsequence, result, aftermath, outcome, effect, upshot, development, implication
 
-Exempel: Any change is bound to have legal ramifications, 8
-(Varje förändring kommer få rättsliga konsekvenser)
+Exempel: Any change is bound to have legal ramifications, 8 (Varje förändring kommer få rättsliga konsekvenser)
 ----- New word -----
 80. oblong
-avlång, oval, långsmal, rektangulär
+
+Adjektiv: avlång, oval, långsmal, rektangulär
+Substantiv: avlång figur, rektangel
+
+Exempel: A table of oblong shape stood midway between the drawing-room walls, 4 (Ett bord med avlång form stod mitt emellan vardagsrumsväggarna)
 ----- New word -----
 81. meticulous
-minutiös, mycket noggran
+
+Förklaring: Showing great attention to detail; very careful and precise
+
+Adjektiv: noggrann, minutiös, petig
+
+Synonymer: careful, conscientious, diligent, scrupulous, punctilious, painstaking, accurate, thorough
+
+Exempel: He has always been so meticulous about his appearance, 6 (Han har alltid varit så noggrann med sitt utseende)
+
 ----- New word -----
 82. gutter
-avloppsränna, avloppsrör, rännsten, takränna
+
+Substantiv: avloppsränna, avloppsrör, rännsten, takränna
+Verb: flyta, strömma
+
+Exempel: I recall considering grabbing the gutter on the roof edge, 6 (Jag kom ihåg att jag övervägde att ta tag i takrännan på takkanten)
 ----- New word -----
 83. prompt
 1. snabb, omgående 2. teater, sufflering, viskning [från sufflören], 3. driva (he was prompted by patriotism) 4. ge anledning till, orsaka (what prompted his resignation?)
@@ -1169,7 +1180,7 @@ Verb: veta
 Synonymer: intelligence, shrewdness, astuteness, cleverness, canniness, sense, common sense
 
 Exempel: He does not lack perception or native wit, 8 (Han saknar inte uppfattning eller förstånd)
-Exempel: How to keep my wits about me when everyone around me is losing theirs, 5 (Hur jag ska hålla uppe förståndet när alla andra förlorar  deras)
+Exempel: How to keep my wits about me when everyone around me is losing theirs, 5 (Hur jag ska hålla uppe förståndet när alla andra förlorar deras)
 ----- New word -----
 206. succumb
 duka under, ge efter
@@ -1319,7 +1330,7 @@ allsidig, mångsidig
 luftdrag, fångst, klunk, tappning av våtvarur ut kärl (beer on draught), a current of air (usually coming into a room or vehicle), the act of moving a load by drawing or pulling
 ----- New word -----
 252. unprecedented
-(adjektiv) exempellös, utan motstycke, oöverträffad, makalös
+(adjektiv) utan motstycke, oöverträffad, makalös
 ----- New word -----
 253. fend of
 avvärja, parera, hålla undan
@@ -1577,7 +1588,7 @@ impulsiv, uppbrusande, förhastad, överilad (an impetuous remark)
 
 Adjektiv: yr, yr i huvudet, omtumlad, vimmelkantig, svindlande
 
-Exempel: A giddy height, 2
+Exempel: A giddy height, 2 (En svindlande höjd)
 
 Synonymer: dizzy, lightheaded, faint, weak, vertiginous, unsteady, shaky, wobbly, woozy
 ----- New word -----
@@ -2114,12 +2125,12 @@ bur
 ----- New word -----
 499. fragrance
 
-Förklaring: Uttlas med å
+Adjektiv: välluktande, doftande
+Substantiv: vällukt, doft
 
-Substantiv: gäspning, gap, svalg
-Verb: gäspa, gapa, öppna sig
+Synonymer (substantiv): sweet smell, scent, perfume, bouquet, aroma, redolence
 
-Exempel: He began yawning and looking at his watch
+Exempel: The fragrance of fresh-ground coffee is fantastic, 2 (Doften av färskt kaffe är fantastiskt)
 ----- New word -----
 500. remorse
 samvetskval, ånger
@@ -3106,131 +3117,115 @@ Substantiv: päls, ragg
 Exempel: Wall-to-wall shag carpet, 2
 Exempel: Her hair was cut short in a boyish shag, 8
 ----- New word -----
-693. ?????
-Å Ä Ö å ä ö
+693. fussy
 
-Förklaring:
+Uttalas: fəsē
 
-Uttalas:
+Adjektiv: kinkig, petig, noga
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: finicky, particular, overparticular, fastidious, discriminating, selective, dainty, spiny
 
-Exempel:
+Exempel: He is very fussy about what he eats, 4 (Han är väldigt noga med vad han äter)
 ----- New word -----
-694. ?????
-Å Ä Ö å ä ö
+694. siege
 
-Förklaring:
+Förklaring: a military operation in which enemy forces surround a town or building, cutting
+off essential supplies, with the aim of compelling the surrender of those inside
 
-Uttalas:
+Uttalas: sej
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: belägring, lång besvärlig period
 
-Exempel:
+Synonymer: blockade, encirclement
+
+Exempel: Verdun had withstood a siege of ten weeks, 3 (Verdun hade motstått en belägring i tio veckor)
 ----- New word -----
-695. ?????
-Å Ä Ö å ä ö
+695. levitate
 
-Förklaring:
+Förklaring: Rise or cause to rise and hover in the air, especially by means of supernatural or magical power
 
-Uttalas:
+Uttalas: levətāt
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: få att sväva
 
-Exempel:
+Synonymer: float, rise, rise into the air, hover, be suspended, glide, hang, fly, soar up
+
+Exempel: He seems to levitate about three inches off the ground, 4 (Han verkar sväva tre centimeter från marken)
 ----- New word -----
-696. ?????
-Å Ä Ö å ä ö
+696. excise
 
-Förklaring:
+Uttalas: ikˈsīz
 
-Uttalas:
+Verb: skära bort, stryka, avlägsna
+Substantiv: skatt
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer (skära bort): cut away, pare off, prescind, excise, lop
+Synonymer (stryka): delete, iron, stroke, paint, spread, excise
+Synonymer (avlägsna): remove, eliminate, strike, excise, take off, oust
 
-Exempel:
+Exempel: The precision with which that surgeon can excise brain tumors is fantastic, 7 (Precisionen med vilken den kirurgen kan avlägsna hjärntumörer är fantastisk)
 ----- New word -----
-697. ?????
-Å Ä Ö å ä ö
+697. slash
 
-Förklaring:
+Förklaring: A cut made with a wide, sweeping stroke
+Förklaring: Cut (something) with a violent sweeping movement, typically using a knife or sword.
 
-Uttalas:
+Substantiv: snedstreck, skåra, hugg, strimma
+Verb: sabla ner, rista upp, piska, göra skåror, drastiskt skära ner
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer (skåra): cut
+Synonymer (hugg): grab, stab, cut, slash, chop, twinge
+Synonymer (sabla ner): tear to pieces, clobber, knock
+Synonymer (piska): whip, lash, flog, beat, cane
+Synonymer (rista upp): cut (open), gash, slit, split open
 
-Exempel:
+Exempel: The man took a mighty slash at his head with a large sword, 6 (Mannen tog ett mäktigt hugg på huvudet med ett stort svärd)
+Exempel: A tire was slashed on my car, 4 (Ett däck skärdes upp på min bil)
 ----- New word -----
-698. ?????
-Å Ä Ö å ä ö
+698. statutory
 
-Förklaring:
+Uttalas: staCHəˌtôrē
 
-Uttalas:
+Adjektiv: lagstadgad
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel:
+Exempel: Your statutory rights are not affected, 2 (Dina lagstadgade rättigheter påverkas inte)
 ----- New word -----
-699. ?????
-Å Ä Ö å ä ö
+699. keen
 
-Förklaring:
+Uttalas: kēn
 
-Uttalas:
+Adjektiv: angelägen, hård, ivrig, entusiastisk, lyhörd, skarp, vass, genomträngande, intensiv, djup, stark
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: eager, anxious, intent, impatient, determined, ambitious
 
-Exempel:
+Exempel: I am keen to get this done, 3 (Jag är angelägen om att få det här gjort)
 ----- New word -----
-700. ?????
-Å Ä Ö å ä ö
+700. spate
 
-Förklaring:
+Förklaring: A large number of similar things or events appearing or occurring in quick succession
 
-Uttalas:
+Uttalas: spāt
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: ström, högt vatten
 
-Exempel:
+Synonymer: series, succession, run, cluster, string, rash, epidemic, outbreak, wave, flurry, rush
+
+Exempel: There has been a spate of attacks against tourists in the city, 5 (Det har förekommit en uppsjö av attacker mot turister i staden)
 ----- New word -----
-701. ?????
-Å Ä Ö å ä ö
+701. imprint
 
-Förklaring:
+Förklaring (substantiv): A mark made by pressing something onto a softer substance so that its outline is reproduced
+Förklaring (substantiv): A printer's or publisher's name, address, and other details in a book or other printed item
+Förklaring (verb) Impress or stamp (a mark or outline) on a surface or body
 
-Uttalas:
+Substantiv: avtryck, märke, förläggarens namn, tryckeriets namn
+Verb: prägla, inpränta, stämpla, trycka in, märka, avtrycka
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer (substantiv): impression, print, mark, indentation
+Synonymer (verb): stamp, print, impress, mark, emboss, brand, inscribe, etch
 
-Exempel:
+Exempel: Tire marks were imprinted in the snow, 4 (Däckmarkeringar var avtryckta i snön)
+Exempel: He made imprints of the keys in bars of soap, 3 (Han gjorde avtryck av nycklarna i tvål)
 ----- New word -----
 702. ?????
 Å Ä Ö å ä ö
@@ -3244,7 +3239,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 703. ?????
 Å Ä Ö å ä ö
@@ -3258,7 +3253,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 704. ?????
 Å Ä Ö å ä ö
@@ -3272,7 +3267,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 705. ?????
 Å Ä Ö å ä ö
@@ -3286,7 +3281,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 706. ?????
 Å Ä Ö å ä ö
@@ -3300,7 +3295,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 707. ?????
 Å Ä Ö å ä ö
@@ -3314,7 +3309,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 708. ?????
 Å Ä Ö å ä ö
@@ -3328,7 +3323,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 709. ?????
 Å Ä Ö å ä ö
@@ -3342,7 +3337,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 710. ?????
 Å Ä Ö å ä ö
@@ -3356,7 +3351,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 711. ?????
 Å Ä Ö å ä ö
@@ -3370,7 +3365,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 712. ?????
 Å Ä Ö å ä ö
@@ -3384,7 +3379,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 713. ?????
 Å Ä Ö å ä ö
@@ -3398,7 +3393,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 714. ?????
 Å Ä Ö å ä ö
@@ -3412,7 +3407,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 715. ?????
 Å Ä Ö å ä ö
@@ -3426,7 +3421,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 716. ?????
 Å Ä Ö å ä ö
@@ -3440,7 +3435,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 717. ?????
 Å Ä Ö å ä ö
@@ -3454,7 +3449,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 718. ?????
 Å Ä Ö å ä ö
@@ -3468,7 +3463,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 719. ?????
 Å Ä Ö å ä ö
@@ -3482,7 +3477,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 720. ?????
 Å Ä Ö å ä ö
@@ -3496,7 +3491,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 721. ?????
 Å Ä Ö å ä ö
@@ -3510,7 +3505,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 722. ?????
 Å Ä Ö å ä ö
@@ -3524,7 +3519,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 723. ?????
 Å Ä Ö å ä ö
@@ -3538,7 +3533,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 724. ?????
 Å Ä Ö å ä ö
@@ -3552,7 +3547,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 725. ?????
 Å Ä Ö å ä ö
@@ -3566,7 +3561,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 726. ?????
 Å Ä Ö å ä ö
@@ -3580,7 +3575,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 727. ?????
 Å Ä Ö å ä ö
@@ -3594,7 +3589,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 728. ?????
 Å Ä Ö å ä ö
@@ -3608,7 +3603,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 729. ?????
 Å Ä Ö å ä ö
@@ -3622,7 +3617,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 730. ?????
 Å Ä Ö å ä ö
@@ -3636,7 +3631,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 731. ?????
 Å Ä Ö å ä ö
@@ -3650,7 +3645,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 732. ?????
 Å Ä Ö å ä ö
@@ -3664,7 +3659,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 733. ?????
 Å Ä Ö å ä ö
@@ -3678,7 +3673,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 734. ?????
 Å Ä Ö å ä ö
@@ -3692,7 +3687,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 735. ?????
 Å Ä Ö å ä ö
@@ -3706,7 +3701,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 736. ?????
 Å Ä Ö å ä ö
@@ -3720,7 +3715,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 737. ?????
 Å Ä Ö å ä ö
@@ -3734,7 +3729,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 738. ?????
 Å Ä Ö å ä ö
@@ -3748,7 +3743,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 739. ?????
 Å Ä Ö å ä ö
@@ -3762,7 +3757,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 740. ?????
 Å Ä Ö å ä ö
@@ -3776,7 +3771,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 741. ?????
 Å Ä Ö å ä ö
@@ -3790,7 +3785,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 742. ?????
 Å Ä Ö å ä ö
@@ -3804,7 +3799,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 743. ?????
 Å Ä Ö å ä ö
@@ -3818,7 +3813,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 744. ?????
 Å Ä Ö å ä ö
@@ -3832,7 +3827,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 745. ?????
 Å Ä Ö å ä ö
@@ -3846,7 +3841,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 746. ?????
 Å Ä Ö å ä ö
@@ -3860,7 +3855,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 747. ?????
 Å Ä Ö å ä ö
@@ -3874,7 +3869,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 748. ?????
 Å Ä Ö å ä ö
@@ -3888,7 +3883,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 749. ?????
 Å Ä Ö å ä ö
@@ -3902,7 +3897,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 750. ?????
 Å Ä Ö å ä ö
@@ -3916,7 +3911,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 751. ?????
 Å Ä Ö å ä ö
@@ -3930,7 +3925,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 752. ?????
 Å Ä Ö å ä ö
@@ -3944,7 +3939,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 753. ?????
 Å Ä Ö å ä ö
@@ -3958,7 +3953,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 754. ?????
 Å Ä Ö å ä ö
@@ -3972,7 +3967,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 755. ?????
 Å Ä Ö å ä ö
@@ -3986,7 +3981,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 756. ?????
 Å Ä Ö å ä ö
@@ -4000,7 +3995,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 757. ?????
 Å Ä Ö å ä ö
@@ -4014,7 +4009,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 758. ?????
 Å Ä Ö å ä ö
@@ -4028,7 +4023,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 759. ?????
 Å Ä Ö å ä ö
@@ -4042,7 +4037,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 760. ?????
 Å Ä Ö å ä ö
@@ -4056,7 +4051,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 761. ?????
 Å Ä Ö å ä ö
@@ -4070,7 +4065,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 762. ?????
 Å Ä Ö å ä ö
@@ -4084,7 +4079,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 763. ?????
 Å Ä Ö å ä ö
@@ -4098,7 +4093,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 764. ?????
 Å Ä Ö å ä ö
@@ -4112,7 +4107,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 765. ?????
 Å Ä Ö å ä ö
@@ -4126,7 +4121,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 766. ?????
 Å Ä Ö å ä ö
@@ -4140,7 +4135,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 767. ?????
 Å Ä Ö å ä ö
@@ -4154,7 +4149,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 768. ?????
 Å Ä Ö å ä ö
@@ -4168,7 +4163,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 769. ?????
 Å Ä Ö å ä ö
@@ -4182,7 +4177,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 770. ?????
 Å Ä Ö å ä ö
@@ -4196,7 +4191,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 771. ?????
 Å Ä Ö å ä ö
@@ -4210,7 +4205,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 772. ?????
 Å Ä Ö å ä ö
@@ -4224,7 +4219,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 773. ?????
 Å Ä Ö å ä ö
@@ -4238,7 +4233,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 774. ?????
 Å Ä Ö å ä ö
@@ -4252,7 +4247,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 775. ?????
 Å Ä Ö å ä ö
@@ -4266,7 +4261,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 776. ?????
 Å Ä Ö å ä ö
@@ -4280,7 +4275,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 777. ?????
 Å Ä Ö å ä ö
@@ -4294,7 +4289,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 778. ?????
 Å Ä Ö å ä ö
@@ -4308,7 +4303,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 779. ?????
 Å Ä Ö å ä ö
@@ -4322,7 +4317,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 780. ?????
 Å Ä Ö å ä ö
@@ -4336,7 +4331,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 781. ?????
 Å Ä Ö å ä ö
@@ -4350,7 +4345,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 782. ?????
 Å Ä Ö å ä ö
@@ -4364,7 +4359,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 783. ?????
 Å Ä Ö å ä ö
@@ -4378,7 +4373,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 784. ?????
 Å Ä Ö å ä ö
@@ -4392,7 +4387,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 785. ?????
 Å Ä Ö å ä ö
@@ -4406,7 +4401,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 786. ?????
 Å Ä Ö å ä ö
@@ -4420,7 +4415,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 787. ?????
 Å Ä Ö å ä ö
@@ -4434,7 +4429,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 788. ?????
 Å Ä Ö å ä ö
@@ -4448,7 +4443,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 789. ?????
 Å Ä Ö å ä ö
@@ -4462,7 +4457,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 790. ?????
 Å Ä Ö å ä ö
@@ -4476,7 +4471,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 791. ?????
 Å Ä Ö å ä ö
@@ -4490,7 +4485,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 792. ?????
 Å Ä Ö å ä ö
@@ -4504,7 +4499,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 793. ?????
 Å Ä Ö å ä ö
@@ -4518,7 +4513,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 794. ?????
 Å Ä Ö å ä ö
@@ -4532,7 +4527,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 795. ?????
 Å Ä Ö å ä ö
@@ -4546,7 +4541,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 796. ?????
 Å Ä Ö å ä ö
@@ -4560,7 +4555,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 797. ?????
 Å Ä Ö å ä ö
@@ -4574,7 +4569,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 798. ?????
 Å Ä Ö å ä ö
@@ -4588,7 +4583,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 799. ?????
 Å Ä Ö å ä ö
@@ -4602,7 +4597,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 800. ?????
 Å Ä Ö å ä ö
@@ -4616,7 +4611,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 801. ?????
 Å Ä Ö å ä ö
@@ -4630,7 +4625,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 802. ?????
 Å Ä Ö å ä ö
@@ -4644,7 +4639,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 803. ?????
 Å Ä Ö å ä ö
@@ -4658,7 +4653,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 804. ?????
 Å Ä Ö å ä ö
@@ -4672,7 +4667,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 805. ?????
 Å Ä Ö å ä ö
@@ -4686,7 +4681,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 806. ?????
 Å Ä Ö å ä ö
@@ -4700,7 +4695,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 807. ?????
 Å Ä Ö å ä ö
@@ -4714,7 +4709,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 808. ?????
 Å Ä Ö å ä ö
@@ -4728,7 +4723,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 809. ?????
 Å Ä Ö å ä ö
@@ -4742,7 +4737,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 810. ?????
 Å Ä Ö å ä ö
@@ -4756,7 +4751,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 811. ?????
 Å Ä Ö å ä ö
@@ -4770,7 +4765,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 812. ?????
 Å Ä Ö å ä ö
@@ -4784,7 +4779,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 813. ?????
 Å Ä Ö å ä ö
@@ -4798,7 +4793,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 814. ?????
 Å Ä Ö å ä ö
@@ -4812,7 +4807,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 815. ?????
 Å Ä Ö å ä ö
@@ -4826,7 +4821,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 816. ?????
 Å Ä Ö å ä ö
@@ -4840,7 +4835,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 817. ?????
 Å Ä Ö å ä ö
@@ -4854,7 +4849,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 818. ?????
 Å Ä Ö å ä ö
@@ -4868,7 +4863,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 819. ?????
 Å Ä Ö å ä ö
@@ -4882,7 +4877,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 820. ?????
 Å Ä Ö å ä ö
@@ -4896,7 +4891,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 821. ?????
 Å Ä Ö å ä ö
@@ -4910,7 +4905,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 822. ?????
 Å Ä Ö å ä ö
@@ -4924,7 +4919,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 823. ?????
 Å Ä Ö å ä ö
@@ -4938,7 +4933,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 824. ?????
 Å Ä Ö å ä ö
@@ -4952,7 +4947,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 825. ?????
 Å Ä Ö å ä ö
@@ -4966,7 +4961,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 826. ?????
 Å Ä Ö å ä ö
@@ -4980,7 +4975,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 827. ?????
 Å Ä Ö å ä ö
@@ -4994,7 +4989,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 828. ?????
 Å Ä Ö å ä ö
@@ -5008,7 +5003,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 829. ?????
 Å Ä Ö å ä ö
@@ -5022,7 +5017,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 830. ?????
 Å Ä Ö å ä ö
@@ -5036,7 +5031,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 831. ?????
 Å Ä Ö å ä ö
@@ -5050,7 +5045,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 832. ?????
 Å Ä Ö å ä ö
@@ -5064,7 +5059,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 833. ?????
 Å Ä Ö å ä ö
@@ -5078,7 +5073,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 834. ?????
 Å Ä Ö å ä ö
@@ -5092,7 +5087,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 835. ?????
 Å Ä Ö å ä ö
@@ -5106,7 +5101,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 836. ?????
 Å Ä Ö å ä ö
@@ -5120,7 +5115,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 837. ?????
 Å Ä Ö å ä ö
@@ -5134,7 +5129,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 838. ?????
 Å Ä Ö å ä ö
@@ -5148,7 +5143,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 839. ?????
 Å Ä Ö å ä ö
@@ -5162,7 +5157,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 840. ?????
 Å Ä Ö å ä ö
@@ -5176,7 +5171,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 841. ?????
 Å Ä Ö å ä ö
@@ -5190,7 +5185,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 842. ?????
 Å Ä Ö å ä ö
@@ -5204,7 +5199,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 843. ?????
 Å Ä Ö å ä ö
@@ -5218,7 +5213,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 844. ?????
 Å Ä Ö å ä ö
@@ -5232,7 +5227,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 845. ?????
 Å Ä Ö å ä ö
@@ -5246,7 +5241,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 846. ?????
 Å Ä Ö å ä ö
@@ -5260,7 +5255,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 847. ?????
 Å Ä Ö å ä ö
@@ -5274,7 +5269,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 848. ?????
 Å Ä Ö å ä ö
@@ -5288,7 +5283,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 849. ?????
 Å Ä Ö å ä ö
@@ -5302,7 +5297,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 850. ?????
 Å Ä Ö å ä ö
@@ -5316,7 +5311,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 851. ?????
 Å Ä Ö å ä ö
@@ -5330,7 +5325,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 852. ?????
 Å Ä Ö å ä ö
@@ -5344,7 +5339,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 853. ?????
 Å Ä Ö å ä ö
@@ -5358,7 +5353,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 854. ?????
 Å Ä Ö å ä ö
@@ -5372,7 +5367,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 855. ?????
 Å Ä Ö å ä ö
@@ -5386,7 +5381,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 856. ?????
 Å Ä Ö å ä ö
@@ -5400,7 +5395,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 857. ?????
 Å Ä Ö å ä ö
@@ -5414,7 +5409,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 858. ?????
 Å Ä Ö å ä ö
@@ -5428,7 +5423,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 859. ?????
 Å Ä Ö å ä ö
@@ -5442,7 +5437,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 860. ?????
 Å Ä Ö å ä ö
@@ -5456,7 +5451,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 861. ?????
 Å Ä Ö å ä ö
@@ -5470,7 +5465,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 862. ?????
 Å Ä Ö å ä ö
@@ -5484,7 +5479,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 863. ?????
 Å Ä Ö å ä ö
@@ -5498,7 +5493,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 864. ?????
 Å Ä Ö å ä ö
@@ -5512,7 +5507,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 865. ?????
 Å Ä Ö å ä ö
@@ -5526,7 +5521,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 866. ?????
 Å Ä Ö å ä ö
@@ -5540,7 +5535,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 867. ?????
 Å Ä Ö å ä ö
@@ -5554,7 +5549,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 868. ?????
 Å Ä Ö å ä ö
@@ -5568,7 +5563,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 869. ?????
 Å Ä Ö å ä ö
@@ -5582,7 +5577,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 870. ?????
 Å Ä Ö å ä ö
@@ -5596,7 +5591,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 871. ?????
 Å Ä Ö å ä ö
@@ -5610,7 +5605,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 872. ?????
 Å Ä Ö å ä ö
@@ -5624,7 +5619,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 873. ?????
 Å Ä Ö å ä ö
@@ -5638,7 +5633,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 874. ?????
 Å Ä Ö å ä ö
@@ -5652,7 +5647,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 875. ?????
 Å Ä Ö å ä ö
@@ -5666,7 +5661,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 876. ?????
 Å Ä Ö å ä ö
@@ -5680,7 +5675,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 877. ?????
 Å Ä Ö å ä ö
@@ -5694,7 +5689,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 878. ?????
 Å Ä Ö å ä ö
@@ -5708,7 +5703,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 879. ?????
 Å Ä Ö å ä ö
@@ -5722,7 +5717,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 880. ?????
 Å Ä Ö å ä ö
@@ -5736,7 +5731,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 881. ?????
 Å Ä Ö å ä ö
@@ -5750,7 +5745,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 882. ?????
 Å Ä Ö å ä ö
@@ -5764,7 +5759,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 883. ?????
 Å Ä Ö å ä ö
@@ -5778,7 +5773,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 884. ?????
 Å Ä Ö å ä ö
@@ -5792,7 +5787,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 885. ?????
 Å Ä Ö å ä ö
@@ -5806,7 +5801,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 886. ?????
 Å Ä Ö å ä ö
@@ -5820,7 +5815,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 887. ?????
 Å Ä Ö å ä ö
@@ -5834,7 +5829,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 888. ?????
 Å Ä Ö å ä ö
@@ -5848,7 +5843,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 889. ?????
 Å Ä Ö å ä ö
@@ -5862,7 +5857,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 890. ?????
 Å Ä Ö å ä ö
@@ -5876,7 +5871,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 891. ?????
 Å Ä Ö å ä ö
@@ -5890,7 +5885,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 892. ?????
 Å Ä Ö å ä ö
@@ -5904,7 +5899,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 893. ?????
 Å Ä Ö å ä ö
@@ -5918,7 +5913,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 894. ?????
 Å Ä Ö å ä ö
@@ -5932,7 +5927,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 895. ?????
 Å Ä Ö å ä ö
@@ -5946,7 +5941,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 896. ?????
 Å Ä Ö å ä ö
@@ -5960,7 +5955,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 897. ?????
 Å Ä Ö å ä ö
@@ -5974,7 +5969,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 898. ?????
 Å Ä Ö å ä ö
@@ -5988,7 +5983,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 899. ?????
 Å Ä Ö å ä ö
@@ -6002,7 +5997,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 900. ?????
 Å Ä Ö å ä ö
@@ -6016,7 +6011,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 901. ?????
 Å Ä Ö å ä ö
@@ -6030,7 +6025,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 902. ?????
 Å Ä Ö å ä ö
@@ -6044,7 +6039,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 903. ?????
 Å Ä Ö å ä ö
@@ -6058,7 +6053,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 904. ?????
 Å Ä Ö å ä ö
@@ -6072,7 +6067,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 905. ?????
 Å Ä Ö å ä ö
@@ -6086,7 +6081,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 906. ?????
 Å Ä Ö å ä ö
@@ -6100,7 +6095,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 907. ?????
 Å Ä Ö å ä ö
@@ -6114,7 +6109,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 908. ?????
 Å Ä Ö å ä ö
@@ -6128,7 +6123,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 909. ?????
 Å Ä Ö å ä ö
@@ -6142,7 +6137,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 910. ?????
 Å Ä Ö å ä ö
@@ -6156,7 +6151,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 911. ?????
 Å Ä Ö å ä ö
@@ -6170,7 +6165,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 912. ?????
 Å Ä Ö å ä ö
@@ -6184,7 +6179,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 913. ?????
 Å Ä Ö å ä ö
@@ -6198,7 +6193,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 914. ?????
 Å Ä Ö å ä ö
@@ -6212,7 +6207,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 915. ?????
 Å Ä Ö å ä ö
@@ -6226,7 +6221,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 916. ?????
 Å Ä Ö å ä ö
@@ -6240,7 +6235,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 917. ?????
 Å Ä Ö å ä ö
@@ -6254,7 +6249,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 918. ?????
 Å Ä Ö å ä ö
@@ -6268,7 +6263,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 919. ?????
 Å Ä Ö å ä ö
@@ -6282,7 +6277,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 920. ?????
 Å Ä Ö å ä ö
@@ -6296,7 +6291,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 921. ?????
 Å Ä Ö å ä ö
@@ -6310,7 +6305,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 922. ?????
 Å Ä Ö å ä ö
@@ -6324,7 +6319,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 923. ?????
 Å Ä Ö å ä ö
@@ -6338,7 +6333,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 924. ?????
 Å Ä Ö å ä ö
@@ -6352,7 +6347,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 925. ?????
 Å Ä Ö å ä ö
@@ -6366,7 +6361,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 926. ?????
 Å Ä Ö å ä ö
@@ -6380,7 +6375,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 927. ?????
 Å Ä Ö å ä ö
@@ -6394,7 +6389,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 928. ?????
 Å Ä Ö å ä ö
@@ -6408,7 +6403,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 929. ?????
 Å Ä Ö å ä ö
@@ -6422,7 +6417,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 930. ?????
 Å Ä Ö å ä ö
@@ -6436,7 +6431,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 931. ?????
 Å Ä Ö å ä ö
@@ -6450,7 +6445,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 932. ?????
 Å Ä Ö å ä ö
@@ -6464,7 +6459,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 933. ?????
 Å Ä Ö å ä ö
@@ -6478,7 +6473,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 934. ?????
 Å Ä Ö å ä ö
@@ -6492,7 +6487,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 935. ?????
 Å Ä Ö å ä ö
@@ -6506,7 +6501,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 936. ?????
 Å Ä Ö å ä ö
@@ -6520,7 +6515,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 937. ?????
 Å Ä Ö å ä ö
@@ -6534,7 +6529,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 938. ?????
 Å Ä Ö å ä ö
@@ -6548,7 +6543,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 939. ?????
 Å Ä Ö å ä ö
@@ -6562,7 +6557,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 940. ?????
 Å Ä Ö å ä ö
@@ -6576,7 +6571,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 941. ?????
 Å Ä Ö å ä ö
@@ -6590,7 +6585,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 942. ?????
 Å Ä Ö å ä ö
@@ -6604,7 +6599,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 943. ?????
 Å Ä Ö å ä ö
@@ -6618,7 +6613,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 944. ?????
 Å Ä Ö å ä ö
@@ -6632,7 +6627,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 945. ?????
 Å Ä Ö å ä ö
@@ -6646,7 +6641,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 946. ?????
 Å Ä Ö å ä ö
@@ -6660,7 +6655,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 947. ?????
 Å Ä Ö å ä ö
@@ -6674,7 +6669,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 948. ?????
 Å Ä Ö å ä ö
@@ -6688,7 +6683,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 949. ?????
 Å Ä Ö å ä ö
@@ -6702,7 +6697,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 950. ?????
 Å Ä Ö å ä ö
@@ -6716,7 +6711,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 951. ?????
 Å Ä Ö å ä ö
@@ -6730,7 +6725,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 952. ?????
 Å Ä Ö å ä ö
@@ -6744,7 +6739,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 953. ?????
 Å Ä Ö å ä ö
@@ -6758,7 +6753,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 954. ?????
 Å Ä Ö å ä ö
@@ -6772,7 +6767,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 955. ?????
 Å Ä Ö å ä ö
@@ -6786,7 +6781,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 956. ?????
 Å Ä Ö å ä ö
@@ -6800,7 +6795,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 957. ?????
 Å Ä Ö å ä ö
@@ -6814,7 +6809,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 958. ?????
 Å Ä Ö å ä ö
@@ -6828,7 +6823,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 959. ?????
 Å Ä Ö å ä ö
@@ -6842,7 +6837,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 960. ?????
 Å Ä Ö å ä ö
@@ -6856,7 +6851,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 961. ?????
 Å Ä Ö å ä ö
@@ -6870,7 +6865,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 962. ?????
 Å Ä Ö å ä ö
@@ -6884,7 +6879,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 963. ?????
 Å Ä Ö å ä ö
@@ -6898,7 +6893,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 964. ?????
 Å Ä Ö å ä ö
@@ -6912,7 +6907,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 965. ?????
 Å Ä Ö å ä ö
@@ -6926,7 +6921,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 966. ?????
 Å Ä Ö å ä ö
@@ -6940,7 +6935,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 967. ?????
 Å Ä Ö å ä ö
@@ -6954,7 +6949,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 968. ?????
 Å Ä Ö å ä ö
@@ -6968,7 +6963,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 969. ?????
 Å Ä Ö å ä ö
@@ -6982,7 +6977,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 970. ?????
 Å Ä Ö å ä ö
@@ -6996,7 +6991,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 971. ?????
 Å Ä Ö å ä ö
@@ -7010,7 +7005,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 972. ?????
 Å Ä Ö å ä ö
@@ -7024,7 +7019,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 973. ?????
 Å Ä Ö å ä ö
@@ -7038,7 +7033,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 974. ?????
 Å Ä Ö å ä ö
@@ -7052,7 +7047,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 975. ?????
 Å Ä Ö å ä ö
@@ -7066,7 +7061,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 976. ?????
 Å Ä Ö å ä ö
@@ -7080,7 +7075,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 977. ?????
 Å Ä Ö å ä ö
@@ -7094,7 +7089,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 978. ?????
 Å Ä Ö å ä ö
@@ -7108,7 +7103,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 979. ?????
 Å Ä Ö å ä ö
@@ -7122,7 +7117,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 980. ?????
 Å Ä Ö å ä ö
@@ -7136,7 +7131,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 981. ?????
 Å Ä Ö å ä ö
@@ -7150,7 +7145,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 982. ?????
 Å Ä Ö å ä ö
@@ -7164,7 +7159,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 983. ?????
 Å Ä Ö å ä ö
@@ -7178,7 +7173,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 984. ?????
 Å Ä Ö å ä ö
@@ -7192,7 +7187,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 985. ?????
 Å Ä Ö å ä ö
@@ -7206,7 +7201,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 986. ?????
 Å Ä Ö å ä ö
@@ -7220,7 +7215,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 987. ?????
 Å Ä Ö å ä ö
@@ -7234,7 +7229,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 988. ?????
 Å Ä Ö å ä ö
@@ -7248,7 +7243,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 989. ?????
 Å Ä Ö å ä ö
@@ -7262,7 +7257,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 990. ?????
 Å Ä Ö å ä ö
@@ -7276,7 +7271,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 991. ?????
 Å Ä Ö å ä ö
@@ -7290,7 +7285,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 992. ?????
 Å Ä Ö å ä ö
@@ -7304,7 +7299,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 993. ?????
 Å Ä Ö å ä ö
@@ -7318,7 +7313,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 994. ?????
 Å Ä Ö å ä ö
@@ -7332,7 +7327,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 995. ?????
 Å Ä Ö å ä ö
@@ -7346,7 +7341,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 996. ?????
 Å Ä Ö å ä ö
@@ -7360,7 +7355,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 997. ?????
 Å Ä Ö å ä ö
@@ -7374,7 +7369,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 998. ?????
 Å Ä Ö å ä ö
@@ -7388,7 +7383,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 999. ?????
 Å Ä Ö å ä ö
@@ -7402,7 +7397,7 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
 ----- New word -----
 1000. ?????
 Å Ä Ö å ä ö
@@ -7416,4 +7411,4 @@ Adverb:
 Substantiv:
 Verb:
 
-Exempel:
+Exempel: Word, 1 ()
