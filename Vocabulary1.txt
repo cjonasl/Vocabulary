@@ -2281,7 +2281,7 @@ Synonymer (substantiv): : authorization, order, license, permit, document, writ,
 Synonymer (verb):  justify, vindicate, call for, sanction, validate, permit, authorize, deserve, excuse
 
 Exempel: The court issued a warrant for his arrest, 5 (Domstolen utfärdade en arresteringsorder för hans arrestering)
-Exempel: If your Dad is feeling bad enough to warrant medical attention, he needs to see a doctor, 9 (Om din pappa känner sig tillräckligt sjuk för att vara berättiga till läkarvård behöver han se en läkare)
+Exempel: If your Dad is feeling bad enough to warrant medical attention he needs to see a doctor, 9 (Om din pappa känner sig tillräckligt sjuk för att vara berättiga till läkarvård behöver han se en läkare)
 Exempel: I need a warrant that this painting is not a fake, 4 (I need a warrant that this painting is not a fake)
 ----- New word -----
 543. augment
@@ -2428,7 +2428,7 @@ Verb: påstå
 
 Synonymer: claim, assert, charge, accuse, declare, state, contend, argue, affirm, maintain
 
-Exempel: He alleged that he had been assaulted, 2
+Exempel: He alleged that he had been assaulted, 2 (Han påstod att han hade överfallits)
 ----- New word -----
 590. precipitation
 nederbörd
@@ -2590,7 +2590,7 @@ sorg, bedrövelse, smärta (substantiv)
 
 Adjektiv: elegant, slät, blank, välmående
 
-Exempel: he was tall with sleek dark hair, 5
+Exempel: He was tall with sleek dark hair, 5 (Han var lång med snyggt mörkt hår)
 
 Synonymer: smooth, glossy, shiny, shining, lustrous, silken, silky
 ----- New word -----
@@ -2598,7 +2598,7 @@ Synonymer: smooth, glossy, shiny, shining, lustrous, silken, silky
 
 Adjektiv: smutsig, snuskig, sjaskig, eländig
 
-Exempel: The grubby face of a young boy, 2
+Exempel: The grubby face of a young boy, 2 (Ett smutsigt ansikte av en liten pojke)
 
 Synonymer: dirty, grimy, filthy, mucky, unwashed, stained, soiled, smeared, spotted, muddy
 ----- New word -----
@@ -2610,7 +2610,7 @@ Verb: supa
 Synonymer (substantiv): alcohol, alcoholic drink, liquor, drink, spirits, intoxicants, grog, firewater, rotgut
 Synonymer (verb): drink, tipple, imbibe, indulge, hit the bottle, knock a few back, swill, chug
 
-Exempel: I wonder where he is hidden his booze, 8
+Exempel: I wonder where he is hidden his booze, 8 (Jag undrar var han döljer sin sprit)
 ----- New word -----
 643. cruise
 
@@ -2620,7 +2620,7 @@ Verb: kryssa, långsamt glida fram
 Synonymer (substantiv): boat trip, sea trip, voyage, journey
 Synonymer (verb): sail, voyage, journey
 
-Exempel: They were cruising off the California coast, 3
+Exempel: They were cruising off the California coast, 3 (De kryssade utanför Kalifornien kusten)
 ----- New word -----
 644. slight
 
@@ -2632,7 +2632,7 @@ Synonymer (adjektiv): small, modest, tiny, minute, inappreciable, negligible, in
 Synonymer (substantiv): insult, affront, snub, rebuff, put-down, brush-off, dig
 Synonymer (verb): insult, snub, rebuff, repulse, spurn, treat disrespectfully
 
-Exempel: When I am practicing I feel like I am slighting my family, 10
+Exempel: When I am practicing I feel like I am slighting my family, 10 (När jag tränar känner jag att jag förringar min familj)
 ----- New word -----
 645. oblige
 
@@ -2640,7 +2640,7 @@ Verb: tvinga
 
 Synonymer: require, compel, bind, constrain, obligate, leave with no option but, force
 
-Exempel: If I go to that restaurant I am obliged to say hello to everyone I know, 9
+Exempel: If I go to that restaurant I am obliged to say hello to everyone I know, 9 (Om jag går till den restaurangen är jag skyldig att säga hej till alla jag känner)
 ----- New word -----
 646. fraud
 
@@ -2648,13 +2648,13 @@ Substantiv: bedrägeri, bluff
 
 Synonymer: raudulence, cheating, swindling, embezzlement, deceit, deception
 
-Exempel: He was convicted of fraud, 5
+Exempel: He was convicted of fraud, 5 (Han dömdes för bedrägeri)
 ----- New word -----
 647. kettle
 
 Substantiv: vattenkokare, kittel, panna
 
-Exempel: A kettle is specialized for boiling water, 2
+Exempel: A kettle is specialized for boiling water, 2 (En vattenkokare är gjord för att koka vatten)
 ----- New word -----
 648. entitle
 
@@ -2694,7 +2694,7 @@ Förklaring: A collection of documents about a particular person, event, or subj
 
 Synonymer: file, report, case history, account, notes, document(s), documentation, data
 
-Exempel: We have a dossier on him
+Exempel: We have a dossier on him, 3 (Vi har dokument på honom)
 ----- New word -----
 653. grievance
 
@@ -2757,7 +2757,7 @@ Verb: plundra, röva
 
 Synonymer (verb): plunder, pillage, despoil, ransack, sack, raid, rifle, rob, burgle, burglarize
 
-Exempel: In previous centuries, conquerors were known to pillage, loot, rape and burn, 9 (Under tidigare århundraden var erövrarna kända för att skövla, plundra, våldta och bränna)
+Exempel: In previous centuries conquerors were known to pillage loot rape and burn, 9 (Under tidigare århundraden var erövrarna kända för att skövla plundra våldta och bränna)
 ----- New word -----
 659. ferocious
 
@@ -2821,7 +2821,7 @@ Förklaring: 3. Arrange (pages of type) so that they will be in the correct orde
 
 Verb: påtvinga, tvinga, lura
 
-Exempel: foist, force, inflict, press, urge, saddle someone with, land someone with, take advantage of, exploit, take liberties with, treat unfairly, bother, trouble
+Synonymer: foist, force, inflict, press, urge, saddle someone with, land someone with, take advantage of, exploit, take liberties with, treat unfairly, bother, trouble
 
 Exempel: This gave him fewer opportunities to impose his game on me, 7 (Detta gav honom färre möjligheter påtvinga sitt spel på mig)
 ----- New word -----
@@ -2928,7 +2928,7 @@ Synonymer (verb): discern, feel, observe, notice, recognize, pick up (on), be aw
 
 Exempel: The bear has a keen sense of smell that enables it to hunt at dusk, 6 (Björnen har en stark luktsinne som gör det möjligt att jaga i skymningen)
 Exempel: She had the sense of being a political outsider, 4 (Hon hade en känsla av att vara en politisk outsider)
-Exempel: With the first frost, they could sense a change in the days, 7 (Med den första frosten kunde de känna en förändring i dagarna)
+Exempel: With the first frost they could sense a change in the days, 7 (Med den första frosten kunde de känna en förändring i dagarna)
 Exempel: The crowd senses a turning point, 3 (Publiken känner av en vändpunkt)
 ----- New word -----
 676. fidgety
@@ -2939,7 +2939,7 @@ Adjektiv: rastlös, nervös
 
 Synonymer: restless, restive, on edge, uneasy, antsy, nervous, keyed up, anxious
 
-Exempel: I thought I was just superstitious, fidgety, and nervous, 7 (Jag trodde att jag bara var vidskeplig, rastlös och nervös)
+Exempel: I thought I was just superstitious fidgety and nervous, 7 (Jag trodde att jag bara var vidskeplig rastlös och nervös)
 ----- New word -----
 677. debilitating
 
@@ -2975,7 +2975,7 @@ Adjektiv: modig, tapper
 
 Synonymer: brave, plucky, fearless, valiant, valorous, intrepid, heroic, lionhearted, bold, daring
 
-Exempel: Stephen Hawking, courageous superstar of science, dies at 76, 3 (Stephen Hawking, modig superstjärna har avlidit vid en ålder av 76 år)
+Exempel: Stephen Hawking courageous superstar of science dies at 76, 3 (Stephen Hawking modig superstjärna har avlidit vid en ålder av 76 år)
 ----- New word -----
 681. upheaval
 
@@ -3089,7 +3089,7 @@ Verb: spy, kräkas
 Synonymer: vomit, throw up, be sick, cast up, chuck
 
 Exempel: I had eaten to the point of puking, 8 (Jag hade ätit så mycket att jag kräktes)
-Exempel: I was sick in the night, no puke but sick to my stomach, 8 (Jag var sjuk på natten, ingen kräkning men ont i magen)
+Exempel: I was sick in the night no puke but sick to my stomach, 8 (Jag var sjuk på natten ingen kräkning men ont i magen)
 ----- New word -----
 691. allegiance
 
@@ -3113,9 +3113,8 @@ Förklaring (substantiv): A thick, tangled hairstyle or mass of hair
 Adjektiv: lurvig
 Substantiv: päls, ragg
 
-
-Exempel: Wall-to-wall shag carpet, 2
-Exempel: Her hair was cut short in a boyish shag, 8
+Exempel: Wall-to-wall shag carpet, 2 (Vägg ryamatta)
+Exempel: Her hair was cut short in a boyish shag, 8 (Hennes hår var klippt kort i pojkaktig hårstil)
 ----- New word -----
 693. fussy
 

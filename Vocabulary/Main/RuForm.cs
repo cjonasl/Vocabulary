@@ -48,8 +48,18 @@ namespace Main
             }
             catch(Exception e)
             {
+                this.buttonSave.Enabled = false;
+                this.buttonCancel.Enabled = false;
+                this.buttonRun.Enabled = false;
+                this.buttonInfo.Enabled = false;
+                this.buttonBack.Enabled = false;
+                this.hScrollBar1.Enabled = false;
+                this.textBoxCommand.Enabled = false;
+                this.label1.Enabled = false;
+                this.labelFindWord.Enabled = false;
                 this.textBox1.ForeColor = Color.Red;
-                this.textBox1.Text = string.Format("An error occured! e.Message = {0}", e.Message);
+                this.textBox1.ReadOnly = true;
+                this.textBox1.Text = string.Format("An error occured! e.Message:\r\n{0}", e.Message);
                 this.textBox1.Select(0, 0);
             }
         }
