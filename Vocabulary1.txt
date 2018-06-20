@@ -73,7 +73,7 @@ Synonymer (verb): inspect, examine, survey, go through, scrutinize, check, probe
 
 Exempel: Audits can be expected to detect every fraud, 1 (Revisioner kan förväntas upptäcka varje bedrägeri)
 ----- New word -----
-9. behead:
+9. behead
 
 Förklaring: Cut off the head of (someone), typically as a form of execution.
 
@@ -81,7 +81,7 @@ Verb: halshugga (Ifrån Daniels läxa)
 
 Synonymer: decapitate, cut/chop/lop someone's head off, guillotine
 
-Exempel: Mary was beheaded at Fotheringhay, 5 (Maria blev halshuggen på Fotheringhay)
+Exempel: Mary was beheaded at Fotheringhay, 3 (Maria blev halshuggen på Fotheringhay)
 ----- New word -----
 10. dungeon
 
@@ -231,7 +231,7 @@ Synonymer: intrinsic, innate, immanent, built-in, indwelling, inborn, ingrained,
 
 Exempel: Any form of mountaineering has its inherent dangers, 7 (Varje form av bergsklättring har sina inneboende faror)
 ----- New word -----
-27. prone:
+27. prone
 
 Adjektiv: framstupa, raklång, utsträckt, benägen, they are prone to accidents, prone to errors
 
@@ -284,7 +284,7 @@ Synonymer (verb): move restlessly, wriggle, squirm, twitch, jiggle, shuffle, be 
 Exempel: She occasionally fidgeted with her watch, 3 (Hon pillade ibland nervöst med sin klocka)
 Exempel: He disturbed other people with convulsive fidgets, 7 (han störde andra människor med krampaktig oro)
 ----- New word -----
-32. anticipate:
+32. anticipate
 
 Verb: förutse, ana, vänta sig, räkna med, se fram emot, föregripa, föregå, tillmötesgå, förekomma, uppfylla, ta ut på förhand (i förskott)
 
@@ -293,7 +293,7 @@ Synonymer: expect, foresee, predict, be prepared for, bargain on, reckon on
 Exempel: I anticipate great pleasure, 4 (Jag förväntar mig stort nöje)
 Exempel: I will anticipate his needs, 3 (Jag kommer att uppfylla hans behov)
 ----- New word -----
-33. apprehend: 1. gripa, anhålla, apprehend a thief 2. uppfatta, begripa 3. frukta, befara
+33. apprehend
 
 Förklaring: Arrest (someone) for a crime, or understand or perceive
 
@@ -2271,8 +2271,6 @@ Exempel: The project was originally conceived in 1977, 5 (Projektet var ursprung
 Exempel: It is difficult but conceivable, 5 (Det är svårt men möjligt/begripligt)
 ----- New word -----
 542. warrant
-
-1. motivera, berättiga (verb) 2. berättigande, garanti (substantiv)
 
 Substantiv: berättigande, fullmakt, rätt, garanti, bevis, häktningsorder, arresteringsorder
 Verb: motivera, garantera, berättiga, ansvara, borga för

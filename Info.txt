@@ -1,4 +1,6 @@
 ﻿Commands:
 f {word}: Find a word
-words: Print all words sorted
-examples: Print all sentences sorted
+p1 {max row length}: Prints all words comma separated
+eum: Prints all examples unmasked
+em: Prints all examples masked
+et: Prints all examples translated

@@ -82,6 +82,18 @@ namespace StaticMethods
             CreateNewFile(fileNameFullPath, sb.ToString());
         }
 
+        public static string ReturnString(ArrayList v)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            for (int i = 0; i < v.Count; i++)
+            {
+                sb.Append(string.Format("{0}\r\n", (string)v[i]));
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
         public static string[] ReturnWordsAndExplanationArray(string fileNameFullPath)
         {
             return ReturnFileContents(fileNameFullPath).Split(new string[] { "\r\n----- New word -----\r\n" }, StringSplitOptions.None);
@@ -231,20 +243,54 @@ namespace StaticMethods
             return sb.ToString().TrimEnd();
         }
 
-        public static bool ExempelsAreOk(string text, out string errorMessage, out ArrayList ExempelNotMasked, out ArrayList ExempelMasked, out ArrayList translated)
+        public static int ReturnNumber(string row)
         {
-            string[] v, englishWords, rows = text.Split(new string[] { "\r\n" }, StringSplitOptions.None);
+            int returnValue = -1;
+
+            if ((string.IsNullOrEmpty(row)) || (!char.IsDigit(row[0])))
+            {
+                throw new Exception("Error in method ReturnNumber!");
+            }
+
+            int dotIndex = row.IndexOf('.');
+
+            if (dotIndex == -1)
+            {
+                throw new Exception("Error in method ReturnNumber! Can't find a dot!");
+            }
+
+            string str = row.Substring(0, dotIndex);
+
+            if (!int.TryParse(str, out returnValue))
+            {
+                throw new Exception("Error in method ReturnNumber! Can't find a valid number!");
+            }
+
+            return returnValue;
+        }
+
+        public static bool ExempelsAreOk(string text, out string errorMessage, out ArrayList exempelunmasked, out ArrayList exempelMasked, out ArrayList exempelTranslated)
+        {
+            string[] v, englishWords, rows = text.Split(new string[] { "\r\n" }, StringSplitOptions.RemoveEmptyEntries);
             string str;
             bool oneComma, oneLeftparentheses, oneRightparentheses, returnValue;
-            int indexComma, indexLeftparentheses, indexRightparentheses, indexWord, numberOfErrors = 0;
+            int i, indexComma, indexLeftparentheses, indexRightparentheses, indexWord, numberOfErrors = 0, currentNumber = 0;
+            bool exempelExists = true;
             StringBuilder sb = new StringBuilder("");
 
-            ExempelNotMasked = new ArrayList();
-            ExempelMasked = new ArrayList();
-            translated = new ArrayList();
+            exempelunmasked = new ArrayList();
+            exempelMasked = new ArrayList();
+            exempelTranslated = new ArrayList();
 
-            for (int i = 1; i <= rows.Length; i++)
+            i = 1;
+
+            while (exempelExists)
             {
+                if (char.IsDigit(rows[i - 1][0]))
+                {
+                    currentNumber = ReturnNumber(rows[i - 1]);
+                }
+
                 if (rows[i - 1].ToLower().IndexOf("exempel") >= 0)
                 {
                     if ((rows[i - 1].Length < 10) || (rows[i - 1].Substring(0, 9) != "Exempel: "))  //Exempel: StartWord
@@ -331,9 +377,18 @@ namespace StaticMethods
                                         {
                                             if (numberOfErrors == 0)
                                             {
-                                                ExempelNotMasked.Add(ReturnExempel(englishWords, indexWord, false));
-                                                ExempelMasked.Add(ReturnExempel(englishWords, indexWord, true));
-                                                translated.Add(rows[i - 1].Substring(1 + indexLeftparentheses, indexRightparentheses - 1 - indexLeftparentheses).Trim());
+                                                str = ReturnExempel(englishWords, indexWord, false);
+
+                                                if (str != "[Word]")
+                                                {
+                                                    exempelunmasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), str));
+                                                    exempelMasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), ReturnExempel(englishWords, indexWord, true)));
+                                                    exempelTranslated.Add(string.Format("{0}. {1}", currentNumber.ToString(), rows[i - 1].Substring(1 + indexLeftparentheses, indexRightparentheses - 1 - indexLeftparentheses).Trim()));
+                                                }
+                                                else
+                                                {
+                                                    exempelExists = false;
+                                                }
                                             }
                                         }
                                     }
@@ -341,6 +396,13 @@ namespace StaticMethods
                             }
                         }
                     }
+                }
+
+                i++;
+
+                if (i > rows.Length)
+                {
+                    exempelExists = false;
                 }
             }
 

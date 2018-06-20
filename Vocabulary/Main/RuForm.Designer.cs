@@ -38,6 +38,7 @@
             this.buttonRun = new System.Windows.Forms.Button();
             this.buttonInfo = new System.Windows.Forms.Button();
             this.buttonBack = new System.Windows.Forms.Button();
+            this.buttonPrint = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -79,7 +80,7 @@
             this.buttonSave.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSave.Location = new System.Drawing.Point(12, 56);
             this.buttonSave.Name = "buttonSave";
-            this.buttonSave.Size = new System.Drawing.Size(68, 23);
+            this.buttonSave.Size = new System.Drawing.Size(64, 23);
             this.buttonSave.TabIndex = 3;
             this.buttonSave.Text = "Save";
             this.buttonSave.UseVisualStyleBackColor = true;
@@ -88,9 +89,9 @@
             // buttonCancel
             // 
             this.buttonCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonCancel.Location = new System.Drawing.Point(99, 56);
+            this.buttonCancel.Location = new System.Drawing.Point(82, 56);
             this.buttonCancel.Name = "buttonCancel";
-            this.buttonCancel.Size = new System.Drawing.Size(68, 23);
+            this.buttonCancel.Size = new System.Drawing.Size(64, 23);
             this.buttonCancel.TabIndex = 4;
             this.buttonCancel.Text = "Cancel";
             this.buttonCancel.UseVisualStyleBackColor = true;
@@ -128,9 +129,9 @@
             // buttonInfo
             // 
             this.buttonInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonInfo.Location = new System.Drawing.Point(186, 56);
+            this.buttonInfo.Location = new System.Drawing.Point(152, 56);
             this.buttonInfo.Name = "buttonInfo";
-            this.buttonInfo.Size = new System.Drawing.Size(68, 23);
+            this.buttonInfo.Size = new System.Drawing.Size(64, 23);
             this.buttonInfo.TabIndex = 8;
             this.buttonInfo.Text = "Info";
             this.buttonInfo.UseVisualStyleBackColor = true;
@@ -139,13 +140,24 @@
             // buttonBack
             // 
             this.buttonBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonBack.Location = new System.Drawing.Point(273, 56);
+            this.buttonBack.Location = new System.Drawing.Point(222, 56);
             this.buttonBack.Name = "buttonBack";
-            this.buttonBack.Size = new System.Drawing.Size(68, 23);
+            this.buttonBack.Size = new System.Drawing.Size(64, 23);
             this.buttonBack.TabIndex = 9;
             this.buttonBack.Text = "Back";
             this.buttonBack.UseVisualStyleBackColor = true;
             this.buttonBack.Click += new System.EventHandler(this.buttonBack_Click);
+            // 
+            // buttonPrint
+            // 
+            this.buttonPrint.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonPrint.Location = new System.Drawing.Point(292, 56);
+            this.buttonPrint.Name = "buttonPrint";
+            this.buttonPrint.Size = new System.Drawing.Size(64, 23);
+            this.buttonPrint.TabIndex = 10;
+            this.buttonPrint.Text = "Print";
+            this.buttonPrint.UseVisualStyleBackColor = true;
+            this.buttonPrint.Click += new System.EventHandler(this.buttonPrint_Click);
             // 
             // Main
             // 
@@ -153,6 +165,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(1103, 666);
+            this.Controls.Add(this.buttonPrint);
             this.Controls.Add(this.buttonBack);
             this.Controls.Add(this.buttonInfo);
             this.Controls.Add(this.buttonRun);
@@ -184,6 +197,7 @@
         private System.Windows.Forms.Button buttonRun;
         private System.Windows.Forms.Button buttonInfo;
         private System.Windows.Forms.Button buttonBack;
+        private System.Windows.Forms.Button buttonPrint;
     }
 }
 
