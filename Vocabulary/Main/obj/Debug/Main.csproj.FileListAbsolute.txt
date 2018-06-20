@@ -76,5 +76,4 @@ C:\Vocabulary\Vocabulary\Main\obj\Debug\en-US\Main.resources.dll
 C:\Vocabulary\Vocabulary\Main\obj\Debug\de-DE\Main.resources.dll
 C:\Vocabulary\Vocabulary\Main\obj\Debug\Main.exe
 C:\Vocabulary\Vocabulary\Main\obj\Debug\Main.pdb
-C:\Vocabulary\Vocabulary\Main\obj\Debug\Main.csprojAssemblyReference.cache
 C:\Vocabulary\Vocabulary\Main\obj\Debug\Main.csproj.CopyComplete

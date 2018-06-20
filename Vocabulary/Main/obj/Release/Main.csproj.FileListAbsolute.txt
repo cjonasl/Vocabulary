@@ -77,3 +77,4 @@ C:\Vocabulary\Vocabulary\Main\obj\Release\en-US\Main.resources.dll
 C:\Vocabulary\Vocabulary\Main\obj\Release\de-DE\Main.resources.dll
 C:\Vocabulary\Vocabulary\Main\obj\Release\Main.exe
 C:\Vocabulary\Vocabulary\Main\obj\Release\Main.pdb
+C:\Vocabulary\Vocabulary\Main\obj\Release\Main.csproj.CopyComplete

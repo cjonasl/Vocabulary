@@ -34,12 +34,51 @@ namespace ConsoleApp1
             return str;
         }
 
+        public static string[] ReturnRows(string str)
+        {
+            return str.Split(new string[] { "\r\n" } , StringSplitOptions.None );
+        }
+
+        public static string AssenblyRows(string[] rows)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            for(int i = 0; i < rows.Length; i++)
+            {
+                sb.Append(string.Format("{0}\r\n", rows[i].Trim()));
+            }
+
+            return sb.ToString();
+        }
+
+        public static void CreateNewVersionOfVocabularyFile()
+        {
+            string fileContent = ReturnFileContents("C:\\Vocabulary\\Vocabulary1.txt");
+            string[] rows = ReturnRows(fileContent);
+
+            for(int i = 0; i < rows.Length; i++)
+            {
+                if ((rows[i].Length > "Exempel: ".Length) && (rows[i].StartsWith("Exempel:")))
+                {
+                    rows[i] = rows[i].Replace(',', ';');
+                }
+            }
+
+            string newFileContent = AssenblyRows(rows);
+
+            CreateNewFile("C:\\tmp\\Vocabulary1.txt", newFileContent);
+        }
+
         static void Main(string[] args)
         {
             string fileContents, w, e, str, dir = @"F:\English\";
             string[] v, words = new string[1000];
             int[] intArray;
             int i, j, index, wordNumber;
+            string str1, str2, str3;
+
+            //CreateNewVersionOfVocabularyFile();
+            //return;
 
             ArrayList word, explanation, numberWord, wordExplanation;
 

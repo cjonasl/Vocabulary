@@ -94,6 +94,18 @@ namespace StaticMethods
             return sb.ToString().TrimEnd();
         }
 
+        public static string ReturnStringArrayListContainIntegers(ArrayList v)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            for (int i = 0; i < v.Count; i++)
+            {
+                sb.Append(string.Format("{0}\r\n", v[i].ToString()));
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
         public static string[] ReturnWordsAndExplanationArray(string fileNameFullPath)
         {
             return ReturnFileContents(fileNameFullPath).Split(new string[] { "\r\n----- New word -----\r\n" }, StringSplitOptions.None);
@@ -121,7 +133,7 @@ namespace StaticMethods
                 wordsArray.Add(wordsAndExplanationArray[i].Substring(2 + idx2, idx3 - idx2 - 2).Trim());
 
                 i++;
-                idx1 = wordsAndExplanationArray[i].IndexOf("?????");
+                idx1 = wordsAndExplanationArray[i].IndexOf("?????");          
             }
 
             return wordsArray;
@@ -193,7 +205,7 @@ namespace StaticMethods
 
             while ((i <= v.Length) && (!commaFound))
             {
-                if (v[i].EndsWith(","))
+                if (v[i].EndsWith(";"))
                 {
                     commaFound = true;
                 }
@@ -269,26 +281,31 @@ namespace StaticMethods
             return returnValue;
         }
 
-        public static bool ExempelsAreOk(string text, out string errorMessage, out ArrayList exempelunmasked, out ArrayList exempelMasked, out ArrayList exempelTranslated)
+        public static bool ExempelsAreOk(string text, out string errorMessage, out ArrayList exempelUnmasked, out ArrayList exempelMasked, out ArrayList exempelTranslated)
         {
             string[] v, englishWords, rows = text.Split(new string[] { "\r\n" }, StringSplitOptions.RemoveEmptyEntries);
             string str;
-            bool oneComma, oneLeftparentheses, oneRightparentheses, returnValue;
-            int i, indexComma, indexLeftparentheses, indexRightparentheses, indexWord, numberOfErrors = 0, currentNumber = 0;
+            bool oneSemicolon, oneLeftparentheses, oneRightparentheses, returnValue;
+            int i, indexComma, indexLeftparentheses, indexRightparentheses, indexWord, numberOfErrors = 0, currentNumber = 0, lastRowIndexHasNumber;
             bool exempelExists = true;
             StringBuilder sb = new StringBuilder("");
 
-            exempelunmasked = new ArrayList();
+            exempelUnmasked = new ArrayList();
             exempelMasked = new ArrayList();
             exempelTranslated = new ArrayList();
 
+            //ArrayList debugNumbering = new ArrayList();
+
+            lastRowIndexHasNumber = -10;
             i = 1;
 
             while (exempelExists)
             {
-                if (char.IsDigit(rows[i - 1][0]))
+                if ((char.IsDigit(rows[i - 1][0])) && ((i - 1 - lastRowIndexHasNumber) > 1))
                 {
                     currentNumber = ReturnNumber(rows[i - 1]);
+                    //debugNumbering.Add(currentNumber);
+                    //lastRowIndexHasNumber = i - 1;
                 }
 
                 if (rows[i - 1].ToLower().IndexOf("exempel") >= 0)
@@ -313,13 +330,13 @@ namespace StaticMethods
                         }
                         else
                         {
-                            oneComma = HasOneParticularChar(rows[i - 1], ',', out indexComma);
+                            oneSemicolon = HasOneParticularChar(rows[i - 1], ';', out indexComma);
                             oneLeftparentheses = HasOneParticularChar(rows[i - 1], '(', out indexLeftparentheses);
                             oneRightparentheses = HasOneParticularChar(rows[i - 1], ')', out indexRightparentheses);
 
-                            if (!oneComma)
+                            if (!oneSemicolon)
                             {
-                                sb.Append(string.Format("Row {0}, Exempel error: Not exactly one comma\r\n", i.ToString()));
+                                sb.Append(string.Format("Row {0}, Exempel error: Not exactly one semi colon\r\n", i.ToString()));
                                 numberOfErrors++;
                             }
                             else if (!oneLeftparentheses)
@@ -381,7 +398,7 @@ namespace StaticMethods
 
                                                 if (str != "[Word]")
                                                 {
-                                                    exempelunmasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), str));
+                                                    exempelUnmasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), str));
                                                     exempelMasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), ReturnExempel(englishWords, indexWord, true)));
                                                     exempelTranslated.Add(string.Format("{0}. {1}", currentNumber.ToString(), rows[i - 1].Substring(1 + indexLeftparentheses, indexRightparentheses - 1 - indexLeftparentheses).Trim()));
                                                 }
@@ -416,6 +433,8 @@ namespace StaticMethods
             }
 
             errorMessage = sb.ToString().TrimEnd();
+
+            //CreateNewFile("C:\\tmp\\CheckNumbering.txt", ReturnStringArrayListContainIntegers(debugNumbering));
 
             return returnValue;
         }

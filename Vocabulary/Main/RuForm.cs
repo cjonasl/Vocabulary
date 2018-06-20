@@ -11,7 +11,7 @@ namespace Main
     public partial class Main : Form
     {
         private string[] _wordsAndExplanationArray;
-        private ArrayList _wordsArray, _exempelunmasked, _exempelMasked, _exempelTranslated;
+        private ArrayList _wordsArray, _exempelUnmasked, _exempelMasked, _exempelTranslated;
         private string _targetVocabularyFileFullPath;
         private string _fileNameInfoFileFullPath;
         private string _infoText;      
@@ -33,7 +33,7 @@ namespace Main
                 _wordsArray = Utility.ReturnWordsArray(_wordsAndExplanationArray);
                 _numberOfWords = _wordsArray.Count;
 
-                if (!Utility.ExempelsAreOk(Utility.ReturnFileContents(_targetVocabularyFileFullPath), out errorMessage, out _exempelunmasked, out _exempelMasked, out _exempelTranslated))
+                if (!Utility.ExempelsAreOk(Utility.ReturnFileContents(_targetVocabularyFileFullPath), out errorMessage, out _exempelUnmasked, out _exempelMasked, out _exempelTranslated))
                 {
                     throw new Exception(errorMessage);
                 }
@@ -206,7 +206,7 @@ namespace Main
 
         private void Command_eum()
         {
-            string str = Utility.ReturnString(_exempelunmasked);
+            string str = Utility.ReturnString(_exempelUnmasked);
             Print(str);
         }
 
