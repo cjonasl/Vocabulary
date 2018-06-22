@@ -82,23 +82,52 @@ namespace Main
             this.hScrollBar1.Enabled = false;
         }
 
+        private bool TestExempelsAreOk()
+        {
+            bool returnValue = true;
+            string errorMessage;
+            ArrayList exempelUnmasked, exempelMasked, exempelTranslated;
+
+            try
+            {
+                if (!Utility.ExempelsAreOk(this.textBox1.Text, out errorMessage, out exempelUnmasked, out exempelMasked, out exempelTranslated))
+                {
+                    returnValue = false;
+                }
+            }
+            catch
+            {
+                returnValue = false;
+            }
+
+            return returnValue;
+        }
+
         private void buttonSave_Click(object sender, EventArgs e)
         {
-            this.buttonCancel.Enabled = false;
-            this.buttonSave.Enabled = false;
-
             if (!_infoTextIsShown)
             {
-                _wordsAndExplanationArray[hScrollBar1.Value - 1] = this.textBox1.Text;
-                Utility.Print(_targetVocabularyFileFullPath, _wordsAndExplanationArray);
-                this.hScrollBar1.Enabled = true;
-                this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+                if (!TestExempelsAreOk())
+                {
+                    MessageBox.Show("Can't save because there is something wrong!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                else
+                {
+                    _wordsAndExplanationArray[hScrollBar1.Value - 1] = this.textBox1.Text;
+                    Utility.Print(_targetVocabularyFileFullPath, _wordsAndExplanationArray);
+                    this.hScrollBar1.Enabled = true;
+                    this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+                }
             }
             else
             {
                _infoText = this.textBox1.Text;
                Utility.CreateNewFile(_fileNameInfoFileFullPath, _infoText);
             }
+
+            this.buttonCancel.Enabled = false;
+            this.buttonSave.Enabled = false;
         }
 
         private void buttonCancel_Click(object sender, EventArgs e)

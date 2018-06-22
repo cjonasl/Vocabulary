@@ -43,7 +43,7 @@ Adjektiv: hög, imponerande, ståtligt, upphöjd, ädel, högdragen, överlägse
 
 Synonymer: tall, high, giant, towering, soaring, skyscraping
 
-Exempel: A lofty tower; 3 (ett ståtligt torn)
+Exempel: A lofty tower; 2 (ett ståtligt torn)
 Exempel: The elegant square was shaded by lofty palms; 8 (Det eleganta torget skuggades av ståtliga palmer)
 ----- New word -----
 6. cumbersome
@@ -1557,7 +1557,14 @@ fängsla, spärra in
 (uttalas sid) avträda, avstå, överlåta (cede a territory)
 ----- New word -----
 327. defiant
-(adjektiv) utmanande, trotsig
+
+Uttalas: diˈfīənt
+
+Adjektiv: utmanande, trotsig
+
+Synonymer: intransigent, resistant, obstinate, uncooperative, noncompliant, recalcitrant, obstreperous, truculent, dissenting, disobedient, insubordinate, subversive, rebellious, mutinous, feisty, unruly
+
+Exempel: She was in a defiant mood; 5 (Hon var på ett trotsigt humör)
 ----- New word -----
 328. clergy
 (substantiv) prästerskap, präster
@@ -3248,47 +3255,39 @@ Synonymer: grisly, gruesome, violent, bloody, brutal, savage, ghastly, frightful
 
 Exempel: Yesterday I watched a gory horror film; 5 (Igår tittade jag på en blodig skräckfilm)
 ----- New word -----
-704. ?????
-Å Ä Ö å ä ö
+704. scowl
 
-Förklaring:
+Förklaring: An angry or bad-tempered expression. Frown in an angry or bad-tempered way
 
-Uttalas:
+Uttalas: skoul
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: bister uppsyn, rynkad panna
+Verb: se bister ut, rynka ögonbrynen
 
-Exempel: Word; 1 ()
+Synonymer (substantiv): frown, glower, glare, grimace, black look, dirty look
+Synonymer (verb): glower at, frown at, glare at, grimace at, lower at, look daggers at
+
+Exempel: Trump appears with his arms crossed and a defiant scowl across his face; 10 (Trump framträder med armarna korsade och ett trotsig bister uppsyn över hans ansikte)
 ----- New word -----
-705. ?????
-Å Ä Ö å ä ö
+705. shatter
 
-Förklaring:
+Förklaring: Break or cause to break suddenly and violently into pieces. Upset (someone) greatly
 
-Uttalas:
+Uttalas: ˈSHatər
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: splittras, krossa, splittra, bryta sönder, omintetgöra, förstöra, rubba
 
-Exempel: Word; 1 ()
+Synonymer (break): smash, break, splinter, crack, fracture, fragment, disintegrate, shiver, bust
+Synonymer (upset): devastate, shock, stun, daze, traumatize, crush, distress
+
+Exempel: Glasses shattered and bottles exploded; 2 (Glas krossades och flaskor exploderade)
+Exempel: Everyone was shattered by the news; 3 (Alla var förkrossade av nyheterna)
 ----- New word -----
-706. ?????
-Å Ä Ö å ä ö
+706. obsessed
 
-Förklaring:
+Adjektiv: besatt
 
-Uttalas:
-
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: He was obsessed by tennis; 3 (Han var besatt av tennis)
 ----- New word -----
 707. ?????
 Å Ä Ö å ä ö

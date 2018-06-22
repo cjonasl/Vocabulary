@@ -299,112 +299,125 @@ namespace StaticMethods
             lastRowIndexHasNumber = -10;
             i = 1;
 
-            while (exempelExists)
-            {
-                if ((char.IsDigit(rows[i - 1][0])) && ((i - 1 - lastRowIndexHasNumber) > 1))
-                {
-                    currentNumber = ReturnNumber(rows[i - 1]);
-                    //debugNumbering.Add(currentNumber);
-                    //lastRowIndexHasNumber = i - 1;
-                }
+            //For debugging purpose only
+            //int debugRow = 1283; 
+            //string currentRowToDebug;
 
-                if (rows[i - 1].ToLower().IndexOf("exempel") >= 0)
+            try
+            {
+
+                while (exempelExists)
                 {
-                    if ((rows[i - 1].Length < 10) || (rows[i - 1].Substring(0, 9) != "Exempel: "))  //Exempel: StartWord
+                    //if (i == debugRow)
+                    //{
+                    //    currentRowToDebug = rows[i - 1];
+                    //}
+
+                    if ((char.IsDigit(rows[i - 1][0])) && ((i - 1 - lastRowIndexHasNumber) > 1))
                     {
-                        sb.Append(string.Format("Row {0}, Exempel error: ((rows[i - 1].Length < 10) || (rows[i - 1].Substring(0, 9) != \"Exempel: \"))\r\n", i.ToString()));
-                        numberOfErrors++;
+                        currentNumber = ReturnNumber(rows[i - 1]);
+                        //debugNumbering.Add(currentNumber);
+                        //lastRowIndexHasNumber = i - 1;
                     }
-                    else if (rows[i - 1].ToLower().Substring(1).IndexOf("exempel") >= 0)
+
+                    if (rows[i - 1].ToLower().IndexOf("exempel") >= 0)
                     {
-                        sb.Append(string.Format("Row {0}, Exempel error: (rows[i - 1].ToLower().Substring(1).IndexOf(\"Exempel\") >= 0)\r\n", i.ToString()));
-                        numberOfErrors++;
-                    }
-                    else
-                    {
-                        v = rows[i - 1].Split(' ');
-                        if (HasEmptyWord(v))
+                        if ((rows[i - 1].Length < 10) || (rows[i - 1].Substring(0, 9) != "Exempel: "))  //Exempel: StartWord
                         {
-                            sb.Append(string.Format("Row {0}, Exempel error: Empty word exists\r\n", i.ToString()));
+                            sb.Append(string.Format("Row {0}, Exempel error: ((rows[i - 1].Length < 10) || (rows[i - 1].Substring(0, 9) != \"Exempel: \"))\r\n", i.ToString()));
+                            numberOfErrors++;
+                        }
+                        else if (rows[i - 1].ToLower().Substring(1).IndexOf("exempel") >= 0)
+                        {
+                            sb.Append(string.Format("Row {0}, Exempel error: (rows[i - 1].ToLower().Substring(1).IndexOf(\"Exempel\") >= 0)\r\n", i.ToString()));
                             numberOfErrors++;
                         }
                         else
                         {
-                            oneSemicolon = HasOneParticularChar(rows[i - 1], ';', out indexComma);
-                            oneLeftparentheses = HasOneParticularChar(rows[i - 1], '(', out indexLeftparentheses);
-                            oneRightparentheses = HasOneParticularChar(rows[i - 1], ')', out indexRightparentheses);
-
-                            if (!oneSemicolon)
+                            v = rows[i - 1].Split(' ');
+                            if (HasEmptyWord(v))
                             {
-                                sb.Append(string.Format("Row {0}, Exempel error: Not exactly one semi colon\r\n", i.ToString()));
-                                numberOfErrors++;
-                            }
-                            else if (!oneLeftparentheses)
-                            {
-                                sb.Append(string.Format("Row {0}, Exempel error: Not exactly one left parentheses\r\n", i.ToString()));
-                                numberOfErrors++;
-                            }
-                            else if (!oneRightparentheses)
-                            {
-                                sb.Append(string.Format("Row {0}, Exempel error: Not exactly one right parentheses\r\n", i.ToString()));
+                                sb.Append(string.Format("Row {0}, Exempel error: Empty word exists\r\n", i.ToString()));
                                 numberOfErrors++;
                             }
                             else
                             {
-                                bool b = ((indexComma < indexLeftparentheses) && (indexComma < indexRightparentheses) && (indexLeftparentheses < indexRightparentheses));
+                                oneSemicolon = HasOneParticularChar(rows[i - 1], ';', out indexComma);
+                                oneLeftparentheses = HasOneParticularChar(rows[i - 1], '(', out indexLeftparentheses);
+                                oneRightparentheses = HasOneParticularChar(rows[i - 1], ')', out indexRightparentheses);
 
-                                if (!b)
+                                if (!oneSemicolon)
                                 {
-                                    sb.Append(string.Format("Row {0}, Exempel error: comma, left parentheses and right parentheses do not come in right order: ,()\r\n", i.ToString()));
+                                    sb.Append(string.Format("Row {0}, Exempel error: Not exactly one semi colon\r\n", i.ToString()));
                                     numberOfErrors++;
                                 }
-                                else if (rows[i - 1][1 + indexComma] != ' ')
+                                else if (!oneLeftparentheses)
                                 {
-                                    sb.Append(string.Format("Row {0}, Exempel error: Not blank after comma\r\n", i.ToString()));
+                                    sb.Append(string.Format("Row {0}, Exempel error: Not exactly one left parentheses\r\n", i.ToString()));
                                     numberOfErrors++;
                                 }
-                                else if (rows[i - 1][indexLeftparentheses - 1] != ' ')
+                                else if (!oneRightparentheses)
                                 {
-                                    sb.Append(string.Format("Row {0}, Exempel error: Not blank before left parentheses\r\n", i.ToString()));
-                                    numberOfErrors++;
-                                }
-                                else if (rows[i - 1].Length != (indexRightparentheses + 1))
-                                {
-                                    sb.Append(string.Format("Row {0}, Exempel error: Not new line after right parentheses\r\n", i.ToString()));
+                                    sb.Append(string.Format("Row {0}, Exempel error: Not exactly one right parentheses\r\n", i.ToString()));
                                     numberOfErrors++;
                                 }
                                 else
                                 {
-                                    str = rows[i - 1].Substring(2 + indexComma, indexLeftparentheses - 1 - 2 - indexComma);
-                                    if (!int.TryParse(str, out indexWord))
+                                    bool b = ((indexComma < indexLeftparentheses) && (indexComma < indexRightparentheses) && (indexLeftparentheses < indexRightparentheses));
+
+                                    if (!b)
                                     {
-                                        sb.Append(string.Format("Row {0}, Exempel error: Not an integer after comma\r\n", i.ToString()));
+                                        sb.Append(string.Format("Row {0}, Exempel error: comma, left parentheses and right parentheses do not come in right order: ,()\r\n", i.ToString()));
+                                        numberOfErrors++;
+                                    }
+                                    else if (rows[i - 1][1 + indexComma] != ' ')
+                                    {
+                                        sb.Append(string.Format("Row {0}, Exempel error: Not blank after comma\r\n", i.ToString()));
+                                        numberOfErrors++;
+                                    }
+                                    else if (rows[i - 1][indexLeftparentheses - 1] != ' ')
+                                    {
+                                        sb.Append(string.Format("Row {0}, Exempel error: Not blank before left parentheses\r\n", i.ToString()));
+                                        numberOfErrors++;
+                                    }
+                                    else if (rows[i - 1].Length != (indexRightparentheses + 1))
+                                    {
+                                        sb.Append(string.Format("Row {0}, Exempel error: Not new line after right parentheses\r\n", i.ToString()));
                                         numberOfErrors++;
                                     }
                                     else
                                     {
-                                        englishWords = ReturnEnglishWords(v);
-                                        indexWord--;
-                                        if ((indexWord < 0) || (indexWord > (englishWords.Length - 1)))
+                                        str = rows[i - 1].Substring(2 + indexComma, indexLeftparentheses - 1 - 2 - indexComma);
+                                        if (!int.TryParse(str, out indexWord))
                                         {
-                                            sb.Append(string.Format("Row {0}, Exempel error: ((idx < 0) || (idx > (englishWords.Length - 1)))\r\n", i.ToString()));
+                                            sb.Append(string.Format("Row {0}, Exempel error: Not an integer after comma\r\n", i.ToString()));
                                             numberOfErrors++;
                                         }
                                         else
                                         {
-                                            if (numberOfErrors == 0)
+                                            englishWords = ReturnEnglishWords(v);
+                                            indexWord--;
+                                            if ((indexWord < 0) || (indexWord > (englishWords.Length - 1)))
                                             {
-                                                str = ReturnExempel(englishWords, indexWord, false);
+                                                sb.Append(string.Format("Row {0}, Exempel error: ((idx < 0) || (idx > (englishWords.Length - 1)))\r\n", i.ToString()));
+                                                numberOfErrors++;
+                                            }
+                                            else
+                                            {
+                                                if (numberOfErrors == 0)
+                                                {
+                                                    str = ReturnExempel(englishWords, indexWord, false);
 
-                                                if (str != "[Word]")
-                                                {
-                                                    exempelUnmasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), str));
-                                                    exempelMasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), ReturnExempel(englishWords, indexWord, true)));
-                                                    exempelTranslated.Add(string.Format("{0}. {1}", currentNumber.ToString(), rows[i - 1].Substring(1 + indexLeftparentheses, indexRightparentheses - 1 - indexLeftparentheses).Trim()));
-                                                }
-                                                else
-                                                {
-                                                    exempelExists = false;
+                                                    if (str != "[Word]")
+                                                    {
+                                                        exempelUnmasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), str));
+                                                        exempelMasked.Add(string.Format("{0}. {1}", currentNumber.ToString(), ReturnExempel(englishWords, indexWord, true)));
+                                                        exempelTranslated.Add(string.Format("{0}. {1}", currentNumber.ToString(), rows[i - 1].Substring(1 + indexLeftparentheses, indexRightparentheses - 1 - indexLeftparentheses).Trim()));
+                                                    }
+                                                    else
+                                                    {
+                                                        exempelExists = false;
+                                                    }
                                                 }
                                             }
                                         }
@@ -413,14 +426,18 @@ namespace StaticMethods
                             }
                         }
                     }
-                }
 
-                i++;
+                    i++;
 
-                if (i > rows.Length)
-                {
-                    exempelExists = false;
+                    if (i > rows.Length)
+                    {
+                        exempelExists = false;
+                    }
                 }
+            }
+            catch(Exception e)
+            {
+                throw new Exception(string.Format("Error in method ExempelsAreOk when processing row {0}. error message: {1}", i.ToString(), e.Message));
             }
 
             if (numberOfErrors == 0)
