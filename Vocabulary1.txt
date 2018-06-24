@@ -8,7 +8,7 @@ Verb: längta
 
 Synonymer: long for, pine for, crave
 
-Exempel: His heart yearned towards her; 2 (Han brann av läntan efter henne)
+Exempel: His heart yearned towards her; 3 (Han brann av läntan efter henne)
 Exempel: She yearned for a glimpse of him; 2 (Hon längtade efter en glimt av honom)
 ----- New word -----
 2. yawn
@@ -44,7 +44,7 @@ Adjektiv: hög, imponerande, ståtligt, upphöjd, ädel, högdragen, överlägse
 Synonymer: tall, high, giant, towering, soaring, skyscraping
 
 Exempel: A lofty tower; 2 (ett ståtligt torn)
-Exempel: The elegant square was shaded by lofty palms; 8 (Det eleganta torget skuggades av ståtliga palmer)
+Exempel: The elegant square was shaded by lofty palms; 7 (Det eleganta torget skuggades av ståtliga palmer)
 ----- New word -----
 6. cumbersome
 
@@ -375,7 +375,7 @@ Verb: krypa, smyga
 
 Exempel: The baby crawled back to mother; 3 (Barnet kröp tillbaka till mamma)
 ----- New word -----
-41. churn:
+41. churn
 
 Förklaring: A machine or container in which butter is made by agitating milk or cream (En maskin eller behållare där smör framställs genom omrörning av mjölk eller grädde)
 
@@ -389,7 +389,7 @@ Exempel: The cream is ripened before it is churned; 8 (Man låter grädden mogna
 Exempel: The propeller churned round very fast; 3 (Propellern snurrade runt mycket snabbt)
 Exempel: He churns out a dozen articles a week; 2 (Han spottar ut ett dussin artiklar i veckan)
 ----- New word -----
-42. tweak:
+42. tweak
 
 Förklaring: A fine adjustment to a mechanism or system, or twist or pull (something) sharply
 
@@ -3165,11 +3165,11 @@ Uttalas: ikˈsīz
 Verb: skära bort, stryka, avlägsna
 Substantiv: skatt
 
-Synonymer (skära bort): cut away, pare off, prescind, excise, lop
-Synonymer (stryka): delete, iron, stroke, paint, spread, excise
-Synonymer (avlägsna): remove, eliminate, strike, excise, take off, oust
+Synonymer (skära bort): cut away, pare off, prescind, lop
+Synonymer (stryka): delete, iron, stroke, paint, spread
+Synonymer (avlägsna): remove, eliminate, strike, take off, oust
 
-Exempel: The precision with which that surgeon can excise brain tumors is fantastic; 7 (Precisionen med vilken den kirurgen kan avlägsna hjärntumörer är fantastisk)
+Exempel: The precision with which that surgeon can excise brain tumors is fantastic; 8 (Precisionen med vilken den kirurgen kan avlägsna hjärntumörer är fantastisk)
 ----- New word -----
 697. slash
 
@@ -3289,19 +3289,17 @@ Adjektiv: besatt
 
 Exempel: He was obsessed by tennis; 3 (Han var besatt av tennis)
 ----- New word -----
-707. ?????
-Å Ä Ö å ä ö
+707. soggy
 
-Förklaring:
+Förklaring: Wet and soft
 
-Uttalas:
+Uttalas: sägē
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Adjektiv: fuktig, blöt, trög
 
-Exempel: Word; 1 ()
+Synonymer: damp, moist, humid, wet, sluggish, mushy, squashy, pulpy, slushy, squishy, swampy, marshy, boggy, miry,
+
+Exempel: The sandbags were soggy and split open; 4 (Sandsäckarna var fuktiga och delvis öppna)
 ----- New word -----
 708. ?????
 Å Ä Ö å ä ö
