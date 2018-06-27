@@ -15,3 +15,12 @@ C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.
 C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.AssemblyInfo.cs
 C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.dll
 C:\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.pdb
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\bin\Release\netstandard2.0\StaticMethods.deps.json
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\bin\Release\netstandard2.0\StaticMethods.dll
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\bin\Release\netstandard2.0\StaticMethods.pdb
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.csprojResolveAssemblyReference.cache
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.csproj.CoreCompileInputs.cache
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.AssemblyInfoInputs.cache
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.AssemblyInfo.cs
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.dll
+C:\git_cjonasl\Vocabulary\Vocabulary\StaticMethods\obj\Release\netstandard2.0\StaticMethods.pdb

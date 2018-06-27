@@ -348,6 +348,11 @@ namespace Main
             {
                 this.textBox1.ReadOnly = false;
             }
+
+            if (_infoTextIsShown)
+            {
+                _infoTextIsShown = false;
+            }
         }
 
         private void Print(string text)
