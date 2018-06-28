@@ -1,4 +1,4 @@
-﻿Commands:
+﻿tmp Commands:
 f {word}: Find a word
 p1 {max row length}: Prints all words comma separated
 eum: Prints all examples unmasked
