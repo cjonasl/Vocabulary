@@ -94,6 +94,20 @@ namespace StaticMethods
             return sb.ToString().TrimEnd();
         }
 
+        public static string ReturnString(Main.LocationSizeOfMainFormAndTextBox locationSizeOfMainFormAndTextBox)
+        {
+            return string.Format("{0} {1} {2} {3} {4} {5} {6} {7}",
+                locationSizeOfMainFormAndTextBox.mlx,
+                locationSizeOfMainFormAndTextBox.mly,
+                locationSizeOfMainFormAndTextBox.msw,
+                locationSizeOfMainFormAndTextBox.msh,
+                locationSizeOfMainFormAndTextBox.tlx,
+                locationSizeOfMainFormAndTextBox.tly,
+                locationSizeOfMainFormAndTextBox.tsw,
+                locationSizeOfMainFormAndTextBox.tsh
+                );
+        }
+
         public static string ReturnStringArrayListContainIntegers(ArrayList v)
         {
             StringBuilder sb = new StringBuilder();
@@ -139,12 +153,22 @@ namespace StaticMethods
             return wordsArray;
         }
 
-        public static void ReadConfig(string dir, out string targetVocabularyFileFullPath, out string fileNameInfoFileFullPath, out int currentIndex)
+        public static void ReadConfig(string dir, out string targetVocabularyFileFullPath, out string fileNameInfoFileFullPath, out int currentIndex, out Main.LocationSizeOfMainFormAndTextBox locationSizeOfMainFormAndTextBox)
         {
             string[] v = ReturnFileContents(dir + "\\Config.txt").Split(new string[] { "\r\n" }, StringSplitOptions.None);
             targetVocabularyFileFullPath = v[0];
             fileNameInfoFileFullPath = v[1];
             currentIndex = int.Parse(v[2]);
+            string[] ls = v[3].Split(' ');
+            locationSizeOfMainFormAndTextBox = new Main.LocationSizeOfMainFormAndTextBox();
+            locationSizeOfMainFormAndTextBox.mlx = int.Parse(ls[0]);
+            locationSizeOfMainFormAndTextBox.mly = int.Parse(ls[1]);
+            locationSizeOfMainFormAndTextBox.msw = int.Parse(ls[2]);
+            locationSizeOfMainFormAndTextBox.msh = int.Parse(ls[3]);
+            locationSizeOfMainFormAndTextBox.tlx = int.Parse(ls[4]);
+            locationSizeOfMainFormAndTextBox.tly = int.Parse(ls[5]);
+            locationSizeOfMainFormAndTextBox.tsw = int.Parse(ls[6]);
+            locationSizeOfMainFormAndTextBox.tsh = int.Parse(ls[7]);
         }
 
         public static bool HasEmptyWord(string[] v)

@@ -1,3 +1,4 @@
-﻿C:\github_cjonasl\Vocabulary\Vocabulary1.txt
-C:\github_cjonasl\Vocabulary\Info.txt
-745
+﻿C:\git_cjonasl\Vocabulary\Vocabulary1.txt
+C:\git_cjonasl\Vocabulary\Info.txt
+26
+-8 -8 1456 876 100 140 1300 553

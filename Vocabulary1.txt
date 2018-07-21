@@ -2,7 +2,7 @@
 
 Förklaring: Have an intense feeling of longing for something, typically something that one has lost or been separated from
 
-Uttlas: Jörn
+Uttalas: Jörn
 
 Verb: längta
 
@@ -13,7 +13,7 @@ Exempel: She yearned for a glimpse of him; 2 (Hon längtade efter en glimt av ho
 ----- New word -----
 2. yawn
 
-Uttlas: Jårn
+Uttalas: Jårn
 
 Substantiv: gäspning, gap, svalg
 Verb: gäspa, gapa, öppna sig
@@ -237,7 +237,7 @@ Exempel: Any form of mountaineering has its inherent dangers; 7 (Varje form av b
 ----- New word -----
 27. prone
 
-Adjektiv: framstupa, raklång, utsträckt, benägen, they are prone to accidents, prone to errors
+Adjektiv: framstupa, raklång, utsträckt, benägen
 
 Synonymer: susceptible, vulnerable, subject, open, liable, given, predisposed, likely, disposed
 
@@ -2315,7 +2315,17 @@ dödsannons (obituary [notice])
 (verb) 1. fria till, uppvakta 2. söka vinna, sträva efter
 ----- New word -----
 472. scorn
-(substantiv) förakt, hån
+
+Uttalas: skôrn
+
+Substantiv: förakt, hån
+Verb: förakta, förhåna, rata, ogilla
+
+Synonymer (substantiv): contempt, derision, contemptuousness, disdain, derisiveness, mockery, sneering
+Synonymer (verb): deride, hold in contempt, treat with contempt, pour/heap scorn on, look down on
+
+Exempel: I do not wish to become the object of scorn; 10 (Jag vill inte bli föremål för hån)
+Exempel: I was routinely ridiculed and scorned by conservatives and liberals alike; 6 (Jag blev rutinmässigt förlöjligad och hånad av konservativa och liberaler)
 ----- New word -----
 473. intrude
 (verb) tränga sig på, komma objuden (intruder=inkräktare (substantiv))
@@ -3364,7 +3374,7 @@ Exempel: They're in a flap over who's going to take Henry's lectures; 4 (De är 
 
 Förklaring: A place of residence; a house or home (home, house, place of residence, accommodations, quarters, lodgings, domicile)
 
-Uttlasas: əˈbōd
+Uttalas: əˈbōd
 
 Substantiv: boning, hemvist
 
@@ -3574,6 +3584,8 @@ Exempel: Tire marks were imprinted in the snow; 4 (Däckmarkeringar var avtryckt
 Exempel: He made imprints of the keys in bars of soap; 3 (Han gjorde avtryck av nycklarna i tvål)
 ----- New word -----
 702. pawn
+
+Uttalas: pôn
 
 Substantiv: bonde, bricka, pant, verktyg, redskap
 Verb: pantsätta, sätta i pant

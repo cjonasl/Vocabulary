@@ -1,3 +1,4 @@
 ﻿C:\github_cjonasl\Vocabulary\Vocabulary1.txt
 C:\github_cjonasl\Vocabulary\Info.txt
 699
+171 100 1119 705 12 101 1079 553

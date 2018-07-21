@@ -79,7 +79,6 @@ C:\Vocabulary\Vocabulary\Main\obj\Release\Main.exe
 C:\Vocabulary\Vocabulary\Main\obj\Release\Main.pdb
 C:\Vocabulary\Vocabulary\Main\obj\Release\Main.csproj.CopyComplete
 C:\Vocabulary\Vocabulary\Main\obj\Release\Main.csprojAssemblyReference.cache
-C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Release\Config.txt
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Release\RuForm1.chm
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Release\Main.exe.config
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Release\Main.exe
@@ -103,7 +102,6 @@ C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Release\System.Threading.Tasks.Dat
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Release\Microsoft.VisualStudio.GraphModel.dll
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Release\stdole.dll
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Release\Microsoft.MSXML.dll
-C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\Main.Resources.Menu.resources
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\RuFramework.RuConfigManager.AppSettingsDialog.resources
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\Main.RuConfigManager.Resources.PropertyGrid.resources
@@ -119,3 +117,4 @@ C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\en-US\Main.resources.dll
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\de-DE\Main.resources.dll
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\Main.exe
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\Main.pdb
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Release\Main.csproj.CopyComplete

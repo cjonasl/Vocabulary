@@ -16,7 +16,9 @@ namespace Main
         private string _fileNameInfoFileFullPath;
         private string _infoText;      
         private int _numberOfWords;
-        private bool _infoTextIsShown;
+        private bool _infoTextIsShown, _applicationRandomSampleOfVocabularieIsRunning;
+        private LocationSizeOfMainFormAndTextBox _locationSizeOfMainFormAndTextBox;
+        private StudyRandomSampleOfVocabularies _studyRandomSampleOfVocabularies;
 
         public Main()
         {
@@ -27,7 +29,8 @@ namespace Main
             {
                 InitializeComponent();
                 
-                Utility.ReadConfig(Directory.GetCurrentDirectory(), out _targetVocabularyFileFullPath, out _fileNameInfoFileFullPath, out currentIndex);
+                Utility.ReadConfig(Directory.GetCurrentDirectory(), out _targetVocabularyFileFullPath, out _fileNameInfoFileFullPath, out currentIndex, out _locationSizeOfMainFormAndTextBox);
+                UpdateLocationAndSiseForMainFormAndTextBox();
                 _infoText = Utility.ReturnFileContents(_fileNameInfoFileFullPath);
                 _wordsAndExplanationArray = Utility.ReturnWordsAndExplanationArray(_targetVocabularyFileFullPath);
                 _wordsArray = Utility.ReturnWordsArray(_wordsAndExplanationArray);
@@ -47,6 +50,8 @@ namespace Main
                 this.label1.Text = hScrollBar1.Value.ToString();
                 this.textBox1.Select(0, 0);
                 this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+
+                _applicationRandomSampleOfVocabularieIsRunning = false;
             }
             catch(Exception e)
             {
@@ -68,7 +73,11 @@ namespace Main
 
         private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
         {
-            this.textBox1.TextChanged -= new System.EventHandler(this.textBox1_TextChanged);
+            if (!_applicationRandomSampleOfVocabularieIsRunning)
+            {
+                this.textBox1.TextChanged -= new System.EventHandler(this.textBox1_TextChanged);
+            }
+
             this.label1.Text = hScrollBar1.Value.ToString();
             this.textBox1.Text = _wordsAndExplanationArray[hScrollBar1.Value - 1];
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
@@ -151,7 +160,7 @@ namespace Main
         private void Main_FormClosing(object sender, FormClosingEventArgs e)
         {
             int currentIndex = hScrollBar1.Value - 1;
-            Utility.CreateNewFile(Directory.GetCurrentDirectory() + "\\Config.txt", string.Format("{0}\r\n{1}\r\n{2}", _targetVocabularyFileFullPath, _fileNameInfoFileFullPath, currentIndex.ToString()));
+            Utility.CreateNewFile(Directory.GetCurrentDirectory() + "\\Config.txt", string.Format("{0}\r\n{1}\r\n{2}\r\n{3}", _targetVocabularyFileFullPath, _fileNameInfoFileFullPath, currentIndex.ToString(), Utility.ReturnString(_locationSizeOfMainFormAndTextBox)));
         }
 
         private void Command_NewWord(string newWord)
@@ -245,8 +254,92 @@ namespace Main
             Print(str);
         }
 
+        private void Command_ls()
+        {
+            string message = string.Format("Main form: (lx,ly,w,h)=({0},{1},{2},{3})\r\nTextbox: (lx,ly,w,h)=({4},{5},{6},{7})",
+                this.Location.X.ToString(),
+                this.Location.Y.ToString(),
+                this.Size.Width.ToString(),
+                this.Size.Height.ToString(),
+                this.textBox1.Location.X.ToString(),
+                this.textBox1.Location.Y.ToString(),
+                this.textBox1.Size.Width.ToString(),
+                this.textBox1.Size.Height.ToString());
+
+            MessageBox.Show(message, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void UpdateLocationAndSiseForMainFormAndTextBox()
+        {
+            this.Location = new Point(_locationSizeOfMainFormAndTextBox.mlx, _locationSizeOfMainFormAndTextBox.mly);
+            this.Size = new Size(_locationSizeOfMainFormAndTextBox.msw, _locationSizeOfMainFormAndTextBox.msh);
+            this.textBox1.Location = new Point(_locationSizeOfMainFormAndTextBox.tlx, _locationSizeOfMainFormAndTextBox.tly);
+            this.textBox1.Size = new Size(_locationSizeOfMainFormAndTextBox.tsw, _locationSizeOfMainFormAndTextBox.tsh);
+        }
+
+        private void Command_sls(string[] v)
+        {
+            try
+            {
+                _locationSizeOfMainFormAndTextBox.mlx = int.Parse(v[1]);
+                _locationSizeOfMainFormAndTextBox.mly = int.Parse(v[2]);
+                _locationSizeOfMainFormAndTextBox.msw = int.Parse(v[3]);
+                _locationSizeOfMainFormAndTextBox.msh = int.Parse(v[4]);
+                _locationSizeOfMainFormAndTextBox.tlx = int.Parse(v[5]);
+                _locationSizeOfMainFormAndTextBox.tly = int.Parse(v[6]);
+                _locationSizeOfMainFormAndTextBox.tsw = int.Parse(v[7]);
+                _locationSizeOfMainFormAndTextBox.tsh = int.Parse(v[8]);
+                UpdateLocationAndSiseForMainFormAndTextBox();
+            }
+            catch(Exception e)
+            {
+                MessageBox.Show("An error occured when the command was executed. Error message:\r\n" + e.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private int ReturnNumberOfEntriesWithAtLeastOneExempel()
+        {
+            int numberOfEntriesWithAtLeastOneExempel = 0;
+
+            for (int i = 0; i < _wordsArray.Count; i++)
+            {
+                if (_wordsAndExplanationArray[i].IndexOf("Exempel: ") >= 0)
+                {
+                    numberOfEntriesWithAtLeastOneExempel++;
+                }
+            }
+
+            return numberOfEntriesWithAtLeastOneExempel;
+        }
+
+        private void Command_we()
+        {
+            int numberOfEntriesWithAtLeastOneExempel = ReturnNumberOfEntriesWithAtLeastOneExempel();
+            MessageBox.Show("Number of entries with at least one Exempel = " + numberOfEntriesWithAtLeastOneExempel.ToString(), "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void Command_study()
+        {
+            int n, total;
+            bool isFinished;
+
+            this.textBox1.Text = _studyRandomSampleOfVocabularies.Next(out n, out total, out isFinished);
+            this.Text = string.Format("Show {0} of {1}", n.ToString(), total.ToString());
+
+            if (isFinished)
+            {
+                this.buttonRun.Enabled = false;
+            }
+        }
+
         private void buttonRun_Click(object sender, EventArgs e)
         {
+            if (_applicationRandomSampleOfVocabularieIsRunning)
+            {
+                Command_study();
+                return;
+            }
+
             string str = this.textBoxCommand.Text.Trim();
             int n;
 
@@ -312,6 +405,97 @@ namespace Main
                         Command_et();
                     }
                     break;
+                case "ls": //ls (= Show location and size of of main form and textbox)
+                    if (v.Length != 1)
+                    {
+                        MessageBox.Show("Command \"ls\" should not have any parameters!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        Command_ls();
+                    }
+                    break;
+                case "sls": //sls (= Set location and size of of main form and textbox)
+                    if (v.Length != 9)
+                    {
+                        MessageBox.Show("Command \"sls\" should have 8 parameters!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        Command_sls(v);
+                    }
+                    break;
+                case "we": //we (= With example, number of entries in array wordsAndExplanationArray with at least on "Exempel: "
+                    if (v.Length != 1)
+                    {
+                        MessageBox.Show("Command \"we\" should not have any parameters!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        Command_we();
+                    }
+                    break;
+                case "study": //study fromWord (an integer) toWord (an integer) showWordFirst (true or false)
+                    if (v.Length != 4)
+                    {
+                        MessageBox.Show("Command \"study\" should have 3 parameters!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        int from, to, numberOfEntriesWithAtLeastOneExempel;
+                        bool showWordFirst;
+
+                        numberOfEntriesWithAtLeastOneExempel = ReturnNumberOfEntriesWithAtLeastOneExempel();
+
+                        if (!int.TryParse(v[1], out from))
+                        {
+                            MessageBox.Show("First parameter is not a valid integer!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            return;
+                        }
+
+                        if ((from < 1) || (from > numberOfEntriesWithAtLeastOneExempel))
+                        {
+                            MessageBox.Show(string.Format("First parameter must be an integer between 1 and {0}!", numberOfEntriesWithAtLeastOneExempel.ToString()), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            return;
+                        }
+
+                        if (!int.TryParse(v[2], out to))
+                        {
+                            MessageBox.Show("Second parameter is not a valid integer!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            return;
+                        }
+
+                        if (to < from)
+                        {
+                            MessageBox.Show(string.Format("Second parameter must be less than first parameter!", numberOfEntriesWithAtLeastOneExempel.ToString()), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            return;
+                        }
+
+                        if (to > numberOfEntriesWithAtLeastOneExempel)
+                        {
+                            MessageBox.Show(string.Format("Second parameter must be less than or equal to {0}!", numberOfEntriesWithAtLeastOneExempel.ToString()), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            return;
+                        }
+
+                        if (!bool.TryParse(v[3], out showWordFirst))
+                        {
+                            MessageBox.Show(string.Format("Third parameter must be true or false!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error));
+                            return;
+                        }
+
+                        _studyRandomSampleOfVocabularies = new StudyRandomSampleOfVocabularies(_wordsAndExplanationArray, _wordsArray, from, to, showWordFirst);
+                        this.hScrollBar1.Enabled = false;
+                        this.label1.Enabled = false;
+                        this.textBoxCommand.Enabled = false;
+                        this.buttonInfo.Enabled = false;
+                        this.buttonBack.Enabled = true;
+                        this.buttonPrint.Enabled = false;
+                        this.textBox1.TextChanged -= new System.EventHandler(this.textBox1_TextChanged);
+                        _applicationRandomSampleOfVocabularieIsRunning = true;
+
+                        Command_study();
+                    }
+                    break;
                 default:
                     MessageBox.Show(string.Format("The command \"{0}\" does not exist!", command), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     break;
@@ -353,6 +537,20 @@ namespace Main
             {
                 _infoTextIsShown = false;
             }
+
+            if (_applicationRandomSampleOfVocabularieIsRunning)
+            {
+                _applicationRandomSampleOfVocabularieIsRunning = false;
+                _studyRandomSampleOfVocabularies = null;
+                buttonPrint.Enabled = true;
+
+                if (!this.buttonRun.Enabled)
+                {
+                    this.buttonRun.Enabled = true;
+                }
+            }
+
+            this.textBox1.Select(0, 0);
         }
 
         private void Print(string text)
@@ -369,5 +567,10 @@ namespace Main
             this.buttonInfo.Enabled = false;
             this.buttonBack.Enabled = true;
         }
+    }
+
+    public struct LocationSizeOfMainFormAndTextBox
+    {
+        public int mlx, mly, msw, msh, tlx, tly, tsw, tsh;
     }
 }

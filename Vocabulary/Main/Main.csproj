@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppSettings.cs" />
+    <Compile Include="RandomSequenceOfIntegers.cs" />
     <Compile Include="Resources\Menu.en-US.Designer.cs">
       <DependentUpon>Menu.en-US.resx</DependentUpon>
       <AutoGen>True</AutoGen>
@@ -106,6 +107,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticMethods.cs" />
+    <Compile Include="StudyRandomSampleOfVocabularies.cs" />
     <Compile Include="UserTypes\Address.cs" />
     <EmbeddedResource Include="Resources\Menu.en-US.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -165,9 +167,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\KR_neu.png" />
-    <Content Include="Config.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Config.txt" />
     <Content Include="KR.ico" />
     <Content Include="RuSplash\RuSplash.dll" />
     <Content Include="RuSplash\TextDisignerCSLibrary.dll" />

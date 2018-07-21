@@ -4,3 +4,6 @@ p1 {max row length}: Prints all words comma separated
 eum: Prints all examples unmasked
 em: Prints all examples masked
 et: Prints all examples translated
+ls: Show location and size for main form and textbox
+sls: Set location and size for main form and textbox, 8 blank separated integers: locationMainFormX, locationMainFormY, sizeMainFormWidth, sizeMainFormHeight, locationTextBoxX, locationTextBoxY, SizeTextBoxWidth, SizeTextBoxHeight
+study: study fromWord (an integer) toWord (an integer) showWordFirst (true or false)
