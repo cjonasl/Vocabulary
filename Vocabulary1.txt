@@ -1240,13 +1240,32 @@ kör (obs uttalas kvaier)
 1. klapp, lätt slag 2. klick, klimp (pat of butter) 3. trippande, tassande (the pat of bare feet) 4. klappa (People always ask to pat my dog)
 ----- New word -----
 161. daunt
-skrämma
+
+Förklaring: make (someone) feel intimidated or apprehensive (Göra så någon känner sig skrämd eller orolig)
+
+Uttalas: dänt, dônt
+
+Verb: skrämma
+
+Synonymer: scare, frighten, intimidate, startle, terrify
+
+Exempel: Some people are daunted by new technology; 4 (Vissa människor blir skrämda av ny teknik)
 ----- New word -----
 162. perseverance
 ihärdighet, uthållighet
 ----- New word -----
 163. haunt
-1. spöka i (på, hos), hemsöka, husera 2. ofta besöka 3. tillhåll, vistelseort, favoritställe
+
+Förklaring:
+A place frequented by a specified person or group of people (substantiv, dvs. tillhåll, vistelseort)
+Manifest itself at (a place) regularly (verb, dvs. spöka)
+
+Uttalas: hänt, hônt
+
+Synonymer (tillhåll): hangout, stomping ground, stamping ground, meeting place, territory, domain, resort
+
+Exempel: I revisited my old haunts; 5 (Jag besökte mina gamla tillhåll på nytt)
+Exempel: It is a gray lady who haunts the chapel; 7 (Det är en grå dam som spökar i kapellet)
 ----- New word -----
 164. fair
 marknad, rättvisa
@@ -1695,13 +1714,39 @@ förspel, upptakt, inledning
 olovlig, otillåten, olaglig
 ----- New word -----
 299. purge
-rensa, purge away (rensa bort)
+
+Förklaring:
+An abrupt or violent removal of a group of people from an organization or place (substantiv)
+Rid (someone) of an unwanted feeling, memory, or condition, typically giving a sense of cathartic release (verb: Befria (någon) av en oönskad känsla, minne eller tillstånd, vilket typiskt ger en känsla av katartisk frisättning)
+
+Uttalas: pərj
+
+Substantiv: utrensning, rening, laxermedel
+Verb: rena, rensa ut, laxera, rentvå
+
+Synonymer (substantiv): removal, expulsion, ejection, exclusion, eviction, dismissal, sacking, ousting
+Synonymer (verb): cleanse, clear, purify, wash, shrive, absolve
+
+Exempel: A purge of the ruling class is absolutely necessary; 2 (En utrensning av den styrande klassen är absolut nödvändig)
+Exempel: Bob had helped purge Martha of the terrible guilt that had haunted her; 4 (Bob hade hjälpt Martha rensa bort den fruktansvärda skuld som hade hemsökt henne)
 ----- New word -----
 300. disburse
 betala ut; lägga ut [pengar]
 ----- New word -----
 301. grace
-1. bordsbön 2. hedra (grace a person with a visit) 3. charm, elegans 4. älskvärdhet (with [a] good grace, [på ett] älskvärt [sätt])
+
+Förklaring: Simple elegance or refinement of movement (substantiv)
+Förklaring: Do honor or credit to (someone or something) by one's presence (verb)
+
+Uttalas: grās
+
+Substantiv: charm, elegans, frist, anstånd, bordsbön, förslag
+Verb: pryda, smycka
+
+Synonymer (simple elegance): elegance, poise, gracefulness, finesse, suppleness, agility, nimbleness
+Synonymer (do honor): dignify, distinguish, honor, favor, enhance, ennoble, glorify, elevate, aggrandize
+
+Exempel: She moved through the water with effortless grace; 8 (Hon rörde sig genom vattnet ledig elegans)
 ----- New word -----
 302. slander
 förtal (substantiv), förtala (verb)
@@ -2334,7 +2379,17 @@ Exempel: I was routinely ridiculed and scorned by conservatives and liberals ali
 (substantiv) blåmärke
 ----- New word -----
 475. oust
-(verb) driva bort, köra bort, avlägsna (from från), tränga undan, tränga ut (tennis: Melzer Ousted)
+
+Förklaring: Drive out or expel (someone) from a position or place
+
+Uttalas: oust
+
+Verb: kasta ut, avlägsna, fördriva, köpa bort, tränga undan
+
+Synonymer: drive out, expel, force out, throw out, remove (from office/power), eject, get rid of
+
+Exempel: Melzer ousted in second round of the tournament; 2 (Melzer slogs ut i andra omgången av turneringen)
+Exempel: Parents ousted from mansion after giving their kids £600m; 2 (Föräldrar kastades ut från herrgården efter att ha givit sina barn 600 miljoner pund)
 ----- New word -----
 476. spell
 1. stava (verb) 2. omgång, tur (substantiv) 3. förtrollning, förhäxning (tennis: Hewitt Overcomes Federer Spell = Hewitt övervann Federers förhäxning)
@@ -2609,7 +2664,20 @@ krigisk
 dyster
 ----- New word -----
 548. wobble
-vingla
+
+Förklaring:
+An unsteady movement from side to side (substantiv)
+Move unsteadily from side to sid (verb)
+
+Uttalas: ˈwäbəl
+
+Substantiv: vacklande, vaggning
+Verb: vingla, vackla, vagga, darra, skaka
+
+Synonymer (substantiv): rock, cradle, swing, totter, teeter, sway, shake, quake, jolt, shiver, concuss
+Synonymer (verb): rock, teeter, jiggle, sway, seesaw, shake, stagger
+
+Exempel: The table wobbles where the leg is too short; 3 (Bordet vinglar där benet är för kort)
 ----- New word -----
 549. wedge
 kil, trekant
@@ -4144,75 +4212,70 @@ Synonymer (verb): romote, market, sell, retail, advertise, publicize, push, plug
 Exempel: This is stores that offers an astonishing range of merchandise; 10 (Det här är butiker som erbjuder ett överraskande utbud av varor)
 Exempel: This is a new breakfast food can easily be merchandised; 10 (Detta är en ny frukostmat som lätt kan marknadsföra)
 ----- New word -----
-747. ?????
-Å Ä Ö å ä ö
+747. lure
 
 Förklaring:
+Something that tempts or is used to tempt a person or animal to do something (substantiv)
+Tempt (a person or an animal) to do something or to go somewhere, especially by offering some form of reward (verb)
 
-Uttalas:
+Uttlas: lo͝or
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: bete, lockbete, fiskedrag, lockelse, frestelse
+Verb: locka, lura
 
-Exempel: Word; 1 ()
+Synonymer (substantiv): bait, pasture, tusk
+Synonymer (verb): tempt, entice, attract, induce, coax, persuade, inveigle, allure, seduce, fool, trick, deceive, cheat, befool
+
+Exempel: This article is about how families are being lured into homes that are impossible to sell; 9 (Denna artikel handlar om hur familjer lockas till hem som är omöjliga att sälja)
 ----- New word -----
-748. ?????
-Å Ä Ö å ä ö
+748. potential
 
 Förklaring:
+Having or showing the capacity to become or develop into something in the future (adjektiv)
+Latent qualities or abilities that may be developed and lead to future success or usefulness (substantiv)
 
-Uttalas:
+Uttalas: pəˈtenCHəl
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Adjektiv: möjlig
+Substantiv: möjligheter
 
-Exempel: Word; 1 ()
+Synonymer (adjektiv): possible, likely, prospective, future, probable, latent, inherent, undeveloped
+Synonymer (verb): possibilities, potentiality, prospects, promise, capability, capacity
+
+Exempel: The sales department told us about some potential customers; 8 (Försäljningsavdelningen berättade om några möjlig kunder)
+Exempel: He is a young broadcaster with great potential; 8 (Han är en ung reporter med stora möjligheter)
 ----- New word -----
-749. ?????
-Å Ä Ö å ä ö
+749. verdict
 
-Förklaring:
+Förklaring: A decision on a disputed issue in a civil or criminal case or an inquest
 
-Uttalas:
+Uttalas: ˈvərdikt
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: dom, utslag, utlåtande
 
-Exempel: Word; 1 ()
+Synonymer: judgment, adjudication, decision, finding, ruling, decree, resolution, sentence
+
+Exempel: The jury returned a verdict of "not guilty"; 5 (Utslaget från juryn blev "icke skyldig")
 ----- New word -----
-750. ?????
-Å Ä Ö å ä ö
+750. trespasser
 
-Förklaring:
+Förklaring: A person entering someone's land or property without permission.
 
-Uttalas:
+Uttlas: ˈtrespəsər
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: inkräktare, lagbrytare
 
-Exempel: Word; 1 ()
+Synonymer: intruder, invader, usurper, violator, offender, law-breaker, interloper, encroacher
+
+Exempel: It is a private property and trespasser will be prosecuted; 7 (Det är en privat egendom och inkräktare kommer att åtalas)
 ----- New word -----
-751. ?????
-Å Ä Ö å ä ö
+751. riddle
 
-Förklaring:
+Uttlas: ˈridl
 
-Uttalas:
+Substantiv: gåta, rebus, genomborra, skada
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: While I was waiting I solved a funny riddle; 9 (Medan jag väntade löste jag en rolig gåta)
 ----- New word -----
 752. ?????
 Å Ä Ö å ä ö
