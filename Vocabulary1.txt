@@ -1570,7 +1570,18 @@ evighet, oändlighet, ändlöshet, odödlighet
 allsidig, mångsidig
 ----- New word -----
 251. draught
-luftdrag, fångst, klunk, tappning av våtvarur ut kärl (beer on draught), a current of air (usually coming into a room or vehicle), the act of moving a load by drawing or pulling
+
+Uttalas: draft
+
+Substantiv: förslag, utkast, skiss, ideskiss, koncept, plan (proposal, suggestion, idea)
+Substabtiv: våtvara ur kärl (draft beer)
+Substantiv: dragande, drg (pull, draw)
+Substantiv: luftdrag, andedrag
+Substantiv: djupgående
+Substantiv: fångst (catch, capture)
+
+Exempel: The first draft of the book contained lot of error; 3 (Bokens första utkast innehöll mycket fel)
+Exmepl: Let's go and drink some draught beer; 6 (Kom så går vi och dricker lite öl på fat)
 ----- New word -----
 252. unprecedented
 (adjektiv) utan motstycke, oöverträffad, makalös
@@ -1621,22 +1632,79 @@ The granting to an employee of credits toward a pension even if separated from t
 1. fraktavgift (till sjöss) 2. fraktgods 3. frakt, last 4. frakta (verb) 5. freight car (godsvagn) 6. freight train (godståg)
 ----- New word -----
 268. harness
-1. sele (substantiv) 2. in harness (i arbete, i tagen) 3. utnyttja, ta i anspråk (harness nuclear power)
+
+Förklaring: 
+A set of straps and fittings by which a horse or other draft animal is fastened to a cart, plow, etc., and is controlled by its driver (sele)
+Control and make use of (natural resources), especially to produce energy (utnyttja, ta i anspråk)
+
+Substantiv: sele, rustning, säkerhetsbälte
+Verb: sela på, tämja, bygga ut
+
+Synonymer (sele): tack, tackle, equipment, trappings, yoke, equipage
+Synonymer (utnyttja, ta i anspråk): control, exploit, utilize, use, employ, make use of, put to use, channel, mobilize
+
+Exempel: How he managed to lift the heavy harness on the draught horses for ploughing was more than I could understand; 8 (Hur han lyckades lyfta den tunga seleen på arbetshästarna för plöjning var mer än jag kunde förstå)
+Exempel: The country attempts to harness solar energy; 5 (Landet försöker utnyttja solenergi)
 ----- New word -----
 269. ameliorate
-förbättra
+
+Förklaring: Make (something bad or unsatisfactory) better
+
+Verb: förbättra
+
+Synonymer: improve, enhance
+
+Exempel: The reform did much to ameliorate living standards; 6 (Reformen gjorde mycket för att förbättra levnadsstandarden)
 ----- New word -----
 270. abend
-abnormal end of task
+
+Förklaring: The unexpected failure of a piece of computer software
+
+Substantiv: krasch
+
+Exempel: I ran the program but it finished with an abend; 10 (Jag körde programmet men det slutade med en krasch)
 ----- New word -----
-271. concurrence
-1. instämmande, bifall (concurrence in) 2. samverkan, medverkan
+271. cuddle
+
+Förklaring: 
+A prolonged and affectionate hug (omfamning, substantiv)
+Hold close in one's arms as a way of showing love or affection (kela, verb)
+
+Uttalas: ˈkədl
+
+Substantiv: omfamning, kramning
+Verb: kela med, kela, krama, gosa med, kramas
+
+Exempel: I like to cuddle with my girlfriend; 4 (Jag tycker om att kela me min flickvän)
+
 ----- New word -----
 272. concur
-1. sammanfalla [med] (concur [with]), 2. samverka, medverka, bidraga 3. Instämma (I concur with the speaker)
+
+Förklaring: 
+Be of the same opinion; agree
+Happen or occur at the same time; coincide
+
+Uttalas: kənˈkər
+
+Substantiv (concurrence): sammanträffande, samverkan, instämmande
+Verb: instämma, sammanträffa, medverka
+
+Synonymer (instämma): agree
+Synonymer (sammanträffa): coincide
+Synonymer (medverka): contribute, assist, take part, cooperate
+
+Exempel: I concur with the last speaker; 2 (Jag instämmer med den sista talaren)
+Exempel: The concurrence we had was fantastic; 2 (Samverkan vi hade var fantastik)
+
 ----- New word -----
 273. rustle
-prassla, Aspen leaves rustle in the wind (Asplöv prasslar i vinden)
+
+Uttalas: ˈrəsəl
+
+Substantiv: prassel
+Verb: prassla, stjäla
+
+Exempel: Aspen leaves rustle in the wind; 3 (Asplöv prasslar i vinden)
 ----- New word -----
 274. grating
 1. rivande, gnisslande, skärande (adjektiv) 2. irriterande, pinsam, obehaglig 3. galler (substantiv)
@@ -2318,7 +2386,16 @@ tandtråd ([dental] floss)
 flingor
 ----- New word -----
 458. shove
-(verb) knuffa
+
+Uttalas: SHəv
+
+Substantiv: knuff, puff, stöt
+Verb: skjuta, knuffa, putta, fösa
+
+Synonymer: push, thrust, propel, drive, force, ram, knock, elbow, shoulder, jostle, hustle
+
+Exempel: A marching Queen's Guard shoved a tourist who stood in his way during a drill outside Windsor Castle; 5 (En av drottningens marscherande vakter knuffade en turist som stod i vägen för honom vid ett pass utanför Windsor Castle)
+
 ----- New word -----
 459. molest
 (verb) 1. ofreda, antasta 2. störa, besvära
@@ -2330,7 +2407,16 @@ dödsannons (obituary [notice])
 (verb) avstå från (let's waive this matter for the present)
 ----- New word -----
 462. feat
-(substantiv) 1. bragd, bedrift 2. kraftprov, konststycke, mästerverk, prestation
+
+Förklaring: An achievement that requires great courage, skill, or strength
+
+Uttalas: fēt
+
+Substantiv: bragd, bedrift, kraftprov, konststycke, mästerverk, prestation, dåd
+
+Synonymer: achievement, accomplishment, attainment, coup, triumph, undertaking, deed
+
+Exempel: The new printing presses were considerable feats of engineering; 7 (De nya tryckpressarna var avsevärda tekniska mästerverk)
 ----- New word -----
 463. deride
 (verb) skratta åt, håna, förlöjliga (The Czech-born tennis ace was mocked and derided but he is smiling now)
@@ -2804,7 +2890,16 @@ förvränga, förvrida, förvanska
 täppa till, blockera
 ----- New word -----
 588. aisle
-gång, mittgång
+
+Förklaring: A passage between rows of seats in a building such as a church or theater, an airplane, or a train
+
+Uttalas: īl
+
+Substantiv: gång, mittgång, avdelning, sidoskepp, skepp
+
+Synonymer (gång, mittgång): passage, passageway, gangway, walkway, corridor
+
+Exempel: The musical had the audience dancing in the aisles; 9 (Musikalen lät publiken dansa i mittgångarna)
 ----- New word -----
 589. allege
 
@@ -2815,7 +2910,16 @@ Synonymer: claim, assert, charge, accuse, declare, state, contend, argue, affirm
 Exempel: He alleged that he had been assaulted; 2 (Han påstod att han hade överfallits)
 ----- New word -----
 590. precipitation
-nederbörd
+
+Uttalas: priˌsipəˈtāSHən
+
+Substantiv: nederbörd, nedstörtande, brådska, påskyndande
+
+Exempel: In places where the warmer air extends to the ground, the precipitation will fall as rain; 12 (På de ställen där den varmare luften sträcker sig till marken kommer nedfallet att falla som regn)
+Exempel: Cora was already regretting her precipitation; 6 (Cora beklagar redan hennes påskyndande)
+
+
+
 ----- New word -----
 591. trolley
 vagn
@@ -2973,7 +3077,24 @@ framgång, efterträdad (adjektiv), he was succeeded by Barack Obama
 timmer, virke, trä (substantiv)
 ----- New word -----
 630. block
-blockera, avspärra, avstänga (verb), kloss, kvarter, hinder (substantiv)
+
+Förklaring: 
+A large solid piece of hard material, especially rock, stone, or wood, typically with flat surfaces on each side (block, kloss)
+The area bounded by four streets in a town or suburb (kvarter)
+Make the movement or flow in (a passage, pipe, road, etc.) difficult or impossible (blockera)
+
+Uttalas: bläk
+
+Substantiv: block, kloss, kvarter, stort hus, byggnadskomplex, hinder, blockering, skrivblock, aktiepost
+Verb: blockera, avstänga, avspärra
+
+Synonymer (block, kloss): chunk, hunk, lump, wedge, cube, brick, slab, bar, piece
+Synonymer (kvarter): quarter, area, parts
+Synonymer (blockera): clog (up), stop up, choke, plug, obstruct, gum up, dam up, congest, jam, close, gunge
+
+Exempel: You can't carry a block of marble; 5 (Du kan inte bära ett marmorblock)
+Exempel: She went for a run around the block; 8 (Hon gick ut och sprang runt kvarteret)
+Exempel: I can block up the holes with sticky tape; 3 (Jag kan blockera hålen med klisterremsa)
 ----- New word -----
 631. brick
 tegel, tegelsten, byggkloss
@@ -4277,145 +4398,137 @@ Substantiv: gåta, rebus, genomborra, skada
 
 Exempel: While I was waiting I solved a funny riddle; 9 (Medan jag väntade löste jag en rolig gåta)
 ----- New word -----
-752. ?????
-Å Ä Ö å ä ö
+752. jiggle
 
-Förklaring:
+Förklaring: 
+A quick light shake (substantiv)
+Move about lightly and quickly from side to side or up and down (verb)
 
-Uttalas:
+Uttalas: ˈjigəl
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: vicka, ruska på, rycka i
 
-Exempel: Word; 1 ()
+Synonymer (verb): shake, joggle, waggle, wiggle, fidget, wriggle, squirm, quiver, tremble, wag, tug
+
+Exempel: His head jiggles up and down as he speaks; 3 (Hans huvud vickar upp och ner när han talar)
 ----- New word -----
-753. ?????
-Å Ä Ö å ä ö
+753. scrap
 
 Förklaring:
+A small piece or amount of something, especially one that is left over after the greater part has been used (lapp)
+Discard or remove from service (a retired, old, or inoperative vehicle, vessel, or machine), especially so as to convert it to scrap metal (skrota)
 
-Uttalas:
+Uttalas: skrap
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: skrot, lapp, trasa, spår, metallskrot, urklipp, fajt, slagsmål, fnask
+Verb: skrota, kassera
 
-Exempel: Word; 1 ()
+Synonymer (lapp): fragment, piece, bit, snippet, shred, offcut, oddment, remnant; bit, speck, iota
+Synonymer (skrota): throw away, throw out, dispose of, get rid of, toss out, throw on the scrapheap, junk, dismantle
+
+Exempel: The decision was made to scrap the entire fleet; 6 (Beslut togs om att skrota hela flottan)
 ----- New word -----
-754. ?????
-Å Ä Ö å ä ö
+754. deed
 
 Förklaring:
+An action that is performed intentionally or consciously (handling, gärning, dåd)
+A legal document that is signed and delivered, especially one regarding the ownership of property or legal rights (kontrakt, dokument)
 
-Uttalas:
+Uttalas: dēd
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: handling, gärning, dåd, bragd, bedrift, stordåd, överlåtelsehandling, kontrakt, dokument
+Verb: kontraktsenligt överlåta
 
-Exempel: Word; 1 ()
+Synonymer (handling, gärning): act, action, feat, exploit, achievement, accomplishment, endeavor, undertaking
+Synonymer (kontrakt, dokument): legal document, contract, indenture, instrument
+
+Exempel: Let us do some deeds; 5 (Låt oss göra några stordåd)
+Exempel: They deeded their property to their children; 2 (De överlät sin egendom till sina barn)
 ----- New word -----
-755. ?????
-Å Ä Ö å ä ö
+755. dilate
 
-Förklaring:
+Förklaring: Make or become wider, larger, or more open
 
-Uttalas:
+Uttalas: dīˈlāt
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: utvidga, spärra upp, utvidgas, breda ut sig
 
-Exempel: Word; 1 ()
+Synonymer: enlarge, widen, expand, distend, extend
+
+Exempel: Her eyes dilated with horror; 3 (Hennes ögon spärrades upp av skräck)
 ----- New word -----
-756. ?????
+756. curtail
 Å Ä Ö å ä ö
 
-Förklaring:
+Förklaring: Reduce in extent or quantity; impose a restriction on.
 
-Uttalas:
+Uttalas: kərˈtāl
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: förkorta, stympa, avkorta, beskära, minska
 
-Exempel: Word; 1 ()
+Synonymer: reduce, shorten, cut, cut down, decrease, lessen, pare down, trim, retrench, restrict, limit
+
+Exempel: Civil liberties were further curtailed; 5 (De civila friheterna begränsades ytterligare)
 ----- New word -----
-757. ?????
-Å Ä Ö å ä ö
+757. flinch
 
-Förklaring:
+Förklaring: Make a quick, nervous movement of the face or body as an instinctive reaction to surprise, fear or pain
 
-Uttalas:
+Uttalas: flinCH
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: rygga tillbaka, rycka till, vika
 
-Exempel: Word; 1 ()
+Synonymer: wince, shudder, quiver, jerk, recoil, quail, blench
+
+Exempel: Alex Ovechkin takes puck to face, barely flinches; 8 (Alex Ovechkin får puck i ansiktet och ryggar knappast tillbaka)
 ----- New word -----
-758. ?????
-Å Ä Ö å ä ö
+758. tuition
 
-Förklaring:
+Uttalas: t(y)o͞oˈiSHən
 
-Uttalas:
+Substantiv: undervisning, handledning, avgift
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer (undervisning): teaching, education, instruction, training, tutelage
+Synonymer (handledning): tutorial
+Synonymer (avgift): charge, fee, commission, duty, toll
 
-Exempel: Word; 1 ()
+Exempel: I'm not paying next year's tuition; 6 (Jag betalar inte nästa års undervisningsavgift)
 ----- New word -----
-759. ?????
-Å Ä Ö å ä ö
+759. scold
 
-Förklaring:
+Uttalas: skōld
 
-Uttalas:
+Verb: skälla, gräla, skälla ut, gräla på, skälla på
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: bark, yelp, scream, bellow, bay, quarrel, argue, nag
 
-Exempel: Word; 1 ()
+Exempel: Prince William gets scolded by queen Elizabeth II; 4 (Prins William blir utskälld av drottning Elizabeth II)
 ----- New word -----
-760. ?????
-Å Ä Ö å ä ö
+760. savage
 
-Förklaring:
+Uttalas: ˈsavij
 
-Uttalas:
+Adjektiv: vild, vildsint, barbarisk, rasande, ilsken
+Substantiv: vilde, vildsint/rasande/våldsam person
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: This book contains tales of a savage beast; 7 (Denna bok innehåller berättelser om ett vilddjur)
 ----- New word -----
-761. ?????
-Å Ä Ö å ä ö
+761. sack
 
 Förklaring:
+A large bag made of a strong material such as burlap, thick paper, or plastic, used for storing and carrying goods.
+Dismiss from employment
 
-Uttalas:
+Uttalas: sak
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: säck, påse, kasse
+Verb: avskeda, ge sparken, få sparken, focka, plundra
 
-Exempel: Word; 1 ()
+Synonymer (säck): bag, pouch
+Synonymer (avskeda): dismiss, discharge, lay off, let go, terminate, get rid of, fire
+
+Exempel: Put all garbage in the sack; 6 (Lägg all skräp i säcken)
+Exempel: Any official found to be involved would be sacked on the spot; 9 (Varje tjänsteman som befunnits vara inblandad blir avskedad på fläcken)
 ----- New word -----
 762. ?????
 Å Ä Ö å ä ö
