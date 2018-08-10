@@ -479,6 +479,65 @@ namespace StaticMethods
 
             return returnValue;
         }
+
+        public static string Helper(int from, int to, string[] v, out int withExample, out int withOutExample)
+        {
+            int i;
+            StringBuilder sb = new StringBuilder("");
+            string str;
+
+            withExample = 0;
+            withOutExample = 0;
+
+            for (i = from; i <= to; i++)
+            {
+                str = string.Format("{0}. ", i.ToString());
+                if (v[i - 1].Substring(0, str.Length) != str)
+                {
+                    throw new Exception("(v[i - 1].Substring(0, str.Length) != str) in Helper!");
+                }
+
+                if (v[i - 1].IndexOf("?????") == -1)
+                {
+                    if (v[i - 1].IndexOf("Exempel: ") >= 0)
+                    {
+                        withExample++;
+                    }
+                    else
+                    {
+                        withOutExample++;
+
+                        if (string.IsNullOrEmpty(sb.ToString()))
+                        {
+                            sb.Append(i.ToString());
+                        }
+                        else
+                        {
+                            sb.Append(", " + i.ToString());
+                        }
+                    }
+                }
+            }
+
+            return sb.ToString();
+        }
+        public static string ReturnInfoAboutNumberOfWordsThatHaveAndNotHaveExample(string[] wordsAndExplanationArray)
+        {
+            string str;
+            int i, from, to, withExample, withOutExample;
+
+            StringBuilder sb = new StringBuilder("I parentes antal ord med exempel och antal utan och sedan lista med de utan\r\n");
+
+            for (i = 0; i < 10; i++)
+            {
+                from = 100 * i + 1;
+                to = 99 + from;
+                str = Helper(from, to, wordsAndExplanationArray, out withExample, out withOutExample);
+                sb.Append(string.Format("{0}-{1} ({2},{3}): {4}\r\n", from.ToString(), to.ToString(), withExample.ToString(), withOutExample.ToString(), str));
+            }
+
+            return sb.ToString();
+        }
     }
 }
 

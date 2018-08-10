@@ -7,3 +7,4 @@ et: Prints all examples translated
 ls: Show location and size for main form and textbox
 sls: Set location and size for main form and textbox, 8 blank separated integers: locationMainFormX, locationMainFormY, sizeMainFormWidth, sizeMainFormHeight, locationTextBoxX, locationTextBoxY, SizeTextBoxWidth, SizeTextBoxHeight
 study: study fromWord (an integer) toWord (an integer) showWordFirst (true or false)
+wei: Word Example Information (information about how many words that have and not have example)

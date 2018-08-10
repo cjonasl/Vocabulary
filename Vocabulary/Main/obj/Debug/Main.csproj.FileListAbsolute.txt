@@ -116,3 +116,4 @@ C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\de-DE\Main.resources.dll
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\Main.csproj.CopyComplete
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\Main.exe
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\Main.pdb
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\Main.csprojAssemblyReference.cache

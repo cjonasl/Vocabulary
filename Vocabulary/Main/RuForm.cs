@@ -331,6 +331,11 @@ namespace Main
                 this.buttonRun.Enabled = false;
             }
         }
+        private void Command_wei()
+        {
+            string str = Utility.ReturnInfoAboutNumberOfWordsThatHaveAndNotHaveExample(_wordsAndExplanationArray);
+            Print(str);
+        }
 
         private void buttonRun_Click(object sender, EventArgs e)
         {
@@ -494,6 +499,16 @@ namespace Main
                         _applicationRandomSampleOfVocabularieIsRunning = true;
 
                         Command_study();
+                    }
+                    break;
+                case "wei": //Word Example Information (information about how many words that have and not have example)
+                    if (v.Length != 1)
+                    {
+                        MessageBox.Show("Command \"wei\" should not have any parameters!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        Command_wei();
                     }
                     break;
                 default:
