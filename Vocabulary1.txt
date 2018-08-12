@@ -132,7 +132,7 @@ Verb: jaga, förfölja, rusa
 Synonymer (substantiv): pursuit, hunt, trail
 Synonymer (verb): pursue, run after, give chase to, follow, hunt, track, trail, tail
 
-Exempel: They captured the youths after a brief chase; 7 (De fångade ungdomarna efter en kort jakt)
+Exempel: They captured the youths after a brief chase; 8 (De fångade ungdomarna efter en kort jakt)
 ----- New word -----
 15. pervasive
 
@@ -286,7 +286,7 @@ Synonymer (substantiv): twitch, wriggle, squirm, jiggle, shuffle, tic, spasm
 Synonymer (verb): move restlessly, wriggle, squirm, twitch, jiggle, shuffle, be agitated, be jittery
 
 Exempel: She occasionally fidgeted with her watch; 3 (Hon pillade ibland nervöst med sin klocka)
-Exempel: He disturbed other people with convulsive fidgets; 7 (han störde andra människor med krampaktig oro)
+Exempel: He disturbed other people with convulsive fidgets; 7 (Han störde andra människor med krampaktig oro)
 ----- New word -----
 32. anticipate
 
@@ -309,7 +309,7 @@ Synonymer (verb, betydelse uppfatta): appreciate, recognize, discern, perceive, 
 Exempel: A warrant was issued but he has not been apprehended; 10 (En häktningsorder utfärdades men han har ännu inte gripits)
 Exempel: That is a field difficult to apprehend; 7 (Det är ett område som är svårt att förstå)
 ----- New word -----
-34. comprehend:
+34. comprehend
 
 Förklaring: grasp mentally; understand, or include, comprise, encompass
 
@@ -399,7 +399,7 @@ Verb: vrida [om], rycka, dra, nypa
 Synonymer (substantiv): pull, jerk, tug, twist, pinch, twitch, squeeze
 Synonymer (verb): pull, jerk, tug, twist, twitch, pinch, squeeze, adjust, modify, alter, change, adapt, refine
 
-Exempel: He gave my butt an affectionate tweak from time to time; 6 (Han gav min bak ett tillgivet nyp lite då och då)
+Exempel: He gave my butt an affectionate tweak from time to time; 7 (Han gav min bak ett tillgivet nyp lite då och då)
 Exempel: He tweaked the boy's ear; 2 (Han vred om örat på pojken)
 Exempel: You need to tweak that code a bit; 4 (Du måste förbättra den koden lite)
 ----- New word -----
@@ -2349,10 +2349,28 @@ kyrkoherde
 (verb) anpassa, vara förenlig,
 ----- New word -----
 378. venerable
-(adjektiv) vörnadsvärd, ärevördig
+
+Förklaring: Accorded a great deal of respect, especially because of age, wisdom, or character
+
+Uttalas: venərəbəl
+
+Adjektiv: vörnadsvärd, ärevördig
+
+Synonymer: respected, honored
+
+Exempel: Churchill was a venerable statesman; 4 (Churchill var en ärevördig statsman)
 ----- New word -----
 379. vulnerable
-(adjektiv) sårbar
+
+Förklaring: Susceptible (mottaglig) to physical or emotional attack or harm
+
+Uttalas: ˈvəln(ə)rəbəl
+
+Adjektiv: sårbar, känslig
+
+Synonymer: helpless, defenseless, powerless, weak, susceptible
+
+Exempel: We were in a vulnerable position; 5 (Vi befann oss i en sårbar position)
 ----- New word -----
 380. fringe
 1. frans 2. [skogs]bryn 3. marginal, periferi, ytterkant (fringe benefit = extraförmån)
@@ -5219,33 +5237,32 @@ Synonymer: grieve, sorrow, lament, bewail, grieve for, sorrow over, lament for, 
 
 Exempel: Isabel mourned her husband; 2 (Isabel sörjde sin man)
 ----- New word -----
-775. ?????
-Å Ä Ö å ä ö
+775. successor
 
-Förklaring:
+Förklaring: A person or thing that succeeds another.
 
-Uttalas:
+Uttalas: səkˈsesər
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: efterträdare, efterföljare, avlösare
 
-Exempel: Word; 1 ()
+Exempel: Lamar is successor to the venerable StructureMap library; 3 (Lamar är efterträdare till det ärevördig StructureMap-biblioteket)
 ----- New word -----
-776. ?????
-Å Ä Ö å ä ö
+776. accord
 
 Förklaring:
+An official agreement or treaty
+Give or grant someone (power, status, or recognition)
 
-Uttalas:
+Uttalas: əˈkôrd
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: överensstämmelse, samstämmighet, harmoni, samklang, förlikning, kompromiss
+Verb: bevilja, stämma överens, vara ense, skänka
 
-Exempel: Word; 1 ()
+Synonymer (substantiv): pact, treaty, agreement, settlement, deal, contract
+Synonymer (verb): give, grant
+
+Exempel: Peace accords were signed at the meeting; 2 (Fredöverenskommelser undertecknades vid mötet)
+Exempel: The powers accorded to the head of state were discussed at the meeting; 3 (De befogenheter som tilldelas statschefen diskuterades vid mötet)
 ----- New word -----
 777. ?????
 Å Ä Ö å ä ö
