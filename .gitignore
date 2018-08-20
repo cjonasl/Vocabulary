@@ -10,9 +10,13 @@
 *.cache
 *.ilk
 *.log
+*.exe
+*.pdb
+*.dll
 [Bb]in
-[Dd]ebug*/
+Debug/
 *.sbr
 obj/
-[Rr]elease*/
+.vs/
+Release/
 _ReSharper*/
