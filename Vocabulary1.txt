@@ -120,7 +120,7 @@ Förklaring: Show great enthusiasm for a cause or aim (Visa stor entusiasm för 
 
 Adjektiv: ivrig, nitisk
 
-Synonymer: eager, energic, enthusiastic, fervent, ardent, fervid, fanatical, passionate, impassioned, devout, devoted
+Synonymer: eager, excited, energic, enthusiastic, fervent, ardent, fervid, fanatical, passionate, impassioned, devout, devoted
 
 Exempel: The council was extremely zealous in the application of the regulations; 5 (Rådet var extremt ivriga vid tillämpningen av förordningarna)
 ----- New word -----
@@ -154,7 +154,7 @@ Exempel: The officer pursued the van; 3 (Polisen följde efter en skåpbil)
 
 Verb: fastställa, uppskatta, värdera, analysera, beskatta
 
-Synonymer: synonyms: evaluate, judge, gauge, rate, estimate, appraise, consider
+Synonymer: evaluate, judge, gauge, rate, estimate, appraise, consider
 
 Exempel: The committee must assess the relative importance of the issues; 4 (Utskottet måste bedöma problemets relativa betydelse)
 ----- New word -----
@@ -1050,10 +1050,29 @@ skada, men, nackdel (I know nothing to his detriment)
 klyka, vagga, ställning
 ----- New word -----
 105. badge
-märke, kännetecken
+
+Förklaring: A distinctive emblem worn as a mark of office, membership, achievement, licensed employment, etc..
+
+Substantiv: emblem, bricka, märke, kännetecken, medlemsmärke, kännetecken
+
+Synonymer: pin, brooch, button, emblem, crest
+
+Exempel: All visitors to the conference must have a badge; 9 (Alla besökare på konferensen måste ha ett märke)
+
+
+
+
 ----- New word -----
 106. excel
-vara främst; överträffa, excel one self (överträffa sig själv)
+
+Förklaring: Be exceptionally good at or proficient in an activity or subject
+
+Verb: vara främst, överträffa
+
+Synonymer: shine, be excellent, be outstanding, be skillful, be talented, be preeminent
+
+Exempel: I want to excel myself in next toutnament; 4 (Jag vill överträffa mig själv på nästa turnering)
+Exempel: He was a sturdy youth that excelled at football; 7 (Han var en stark ungdom som var främst på fotboll)
 ----- New word -----
 107. shield
 sköld, skärm (substantiv), skydda , shield the ball (täcka bollen) (verb)
@@ -1108,14 +1127,42 @@ Exempel: If you not pay me it is a breach of contract; 9 (Om du inte betalar mig
 118. deduct
 dra av, dra ifrån (after decucted the fee for the bank)
 ----- New word -----
-119. unilateral
-ensidig
+119. bloated
+
+Förklaring: (of part of the body) swollen with fluid or gas
+
+Uttalas: ˈblōtid
+
+Adjektiv: uppsvälld
+
+Synonymer: swollen, distended, tumefied, bulging, inflated, enlarged, expanded, dilated
+
+Exempel: He had a bloated, unshaven face; 4 (Han hade ett uppsvällt, orakat ansikte)
 ----- New word -----
 120. duly
-i rätt tid, because whatever you do, it has to be duly noted
+
+Förklaring: In accordance with what is required or appropriate; following proper procedure or arrangement
+
+Adverb: vederbörligen, i vederbörlig ordning, behörigen, som sig bör, i rätt tid, punktligt
+
+Synonymer: properly, correctly, appropriately, suitably, fittingly, in due course, punctually, on time
+
+Exempel: The document has to be duly signed by you and your partner; 6 (Dokumentet måste i vederbörlig ordning undertecknas av dig och din partner)
 ----- New word -----
 121. carriage
-transport, forsling, frakt, frakt[kostnad], hållning, sätt att föra sig, ekipage, vagn
+
+Förklaring:
+A means of conveyance, in particular (ekipage, vagn)
+The transporting of items or merchandise from one place to another (frakt)
+A moving part of a machine that carries other parts into the required position (åkdon)
+
+Substantiv: vagn, ekipage (wagon, trolley, coach)
+Substantiv: frakt, forsling (conveyance, transportation, cartage)
+Substantiv: fraktkostnad (freight)
+Substantiv: hållning, sätt att föra sig
+
+Exempel: The carriages in those days were usually ox or horse-drawn; 2 (Vagnarna på den tiden drogs vanligtvis av oxar eller hästar)
+Exempel: What is the carriage for this package; 4 (Vad är fraktkostnaden för detta paket)
 ----- New word -----
 122. hone
 
@@ -1668,7 +1715,14 @@ svalla (the waves surged against the shore), strömma, forsa (the water surged i
 1. sortering 2. sortiment, samling
 ----- New word -----
 242. estuary
-1. bred [flod]mynning påverkad av tidvattnet 2. havsfjord
+
+Förklaring: The tidal mouth of a large river, where the tide meets the stream
+
+Substantiv: bred [flod]mynning påverkad av tidvattnet, havsfjord
+
+Synonymer: (river) mouth, delta
+
+Exempel: The turtles spend most of their time in tidal estuaries; 10 (Sköldpaddorna spenderar mest av sin tid i flodmynningar)
 ----- New word -----
 243. suppress
 tysta ned, hemlighålla
@@ -1708,7 +1762,17 @@ Exempel: The cost of restoration has been immense; 7 (Kostnaden för restaurerin
 evighet, oändlighet, ändlöshet, odödlighet
 ----- New word -----
 250. versatile
-allsidig, mångsidig
+
+Förklaring: Able to adapt or be adapted to many different functions or activities
+
+Uttalas: ˈvərsətl
+
+Adjektiv: allsidig, mångsidig, användbar
+
+Synonymer: adaptable, flexible, all-around, multifaceted, multitalented, resourceful, adjustable, universal
+
+Exempel: I bought a versatile sewing machine; 4 (Jag köpte en mångsidig symaskin)
+
 ----- New word -----
 251. draught
 
@@ -1783,7 +1847,19 @@ antyda, vilja påstå, vilja göra gällande, mena
 papegoja
 ----- New word -----
 263. veil
-1. slöja (substantiv) 2. skyla, dölja (verb)
+
+Förklaring: A piece of fine material worn by women to protect or conceal the face (slöja)
+Förklaring: Cover (skyla, dölja)
+
+Uttalas: vāl
+
+Substantiv: slöja, täckmantel (mask, scarf)
+Substantiv: förlåt
+
+Verb: beslöja, skyla, dölja (hide, conceal, disguise, cover, obscure)
+
+Exempel: She had a white bridal veil; 6 (Hon hade en vit brudslöja)
+Exempel: She veiled her face; 2 (Hon dolde sitt ansikte)
 ----- New word -----
 264. cavity
 1. hål, hålighet 2. tandläkarhål
@@ -2010,7 +2086,16 @@ förtal
 förtala, baktala, smäda
 ----- New word -----
 305. defame
-ärekränka, svärta ned
+
+Förklaring: damage the good reputation of (someone)
+
+Uttalas: diˈfām
+
+Verb: ärekränka, svärta ned, förtala
+
+Synonymer: slander, vilify, asperse, libel
+
+Exempel: he claimed that the article defamed his family; 6 (Han hävdade att artikeln förtalade hans familj)
 ----- New word -----
 306. serrated
 
@@ -2045,10 +2130,31 @@ klar, tydlig, åskådlig, överskådlig, lättförståelig
 föryngra
 ----- New word -----
 312. scout
-1. spanare, spejare, observatör (substantiv) 2. juniorscout, patrullscout (substantiv) 3. undersöka, skaffa sig kännedom om (verb)
+
+Förklaring:
+A soldier or other person sent out ahead of a main force so as to gather information about the enemy's position, strength, or movements (lookout, outrider, advance guard, vanguard, spy)
+A Boy Scout or Girl Scout
+Make a search for someone or something in various places (search, look)
+
+Uttalas: skout
+
+Substantiv: spanare, spejare, observatör
+Substantiv: juniorscout, patrullscout
+Verb: undersöka, skaffa sig kännedom om
+
+Exempel: I was sent to scout around for a place to park the camper; 5 (Jag skickades ut för att spana efter en plats att parkera husbilen)
 ----- New word -----
 313. transcript
-avskrift, kopia; utskrift
+
+Förklaring: A written or printed version of material originally presented in another medium
+
+Utskrift: ˈtranˌskript
+
+Substantiv: avskrift, utskrift, kopia
+
+Exempel: Please give me a transcript of the conversation; 5 (Var snäll och ge mig en utskrift av samtalet)
+
+
 ----- New word -----
 314. grizzled
 gråhårig
@@ -2063,7 +2169,17 @@ medelklassare, borgare
 undertrycka (repress a revolt), dämpa, hejda (repress an impulse = dämpa en knuff), repressed = hämmad
 ----- New word -----
 318. crevice
-(uttalas krevis), ett substantiv, skreva, spricka, springa
+
+Förklaring: A narrow opening or fissure (spricka), especially in a rock or wall
+
+Uttalas: ˈkrevəs
+
+Synonymer: crack, fissure, cleft, chink, interstice, cranny, nook, slit, split, rift, fracture, breach
+
+Substantiv: skreva, spricka, springa, bergskreva
+
+Exempel: We explored the mountain and went into tight gaps and crevices and down narrow holes; 11 (Vi utforskade berget och gick in i snäva luckor och sprickor och ner smala hål)
+
 ----- New word -----
 319. rim
 1. (substantiv) kant, rand 2. (verb) förse med kant
@@ -2777,10 +2893,26 @@ Exempel: The new printing presses were considerable feats of engineering; 7 (De 
 (substantiv) under, underverk ([infant] prodigy = underbarn)
 ----- New word -----
 466. trait
-(substantiv) uttalas treit. (kännetecknande) drag; karaktärsdrag, egenskap
+
+Uttlas: trāt
+
+Substantiv: (kännetecknande) drag, karaktärsdrag, egenskap
+
+Synonymer: characteristic, attribute, feature, quality, property
+
+Exempel: He enjoys solving logical problems, a common trait among developers; 8 (Han gillar att lösa logiska problem, ett vanligt drag bland utvecklare)
 ----- New word -----
 467. resurrect
-(verb) 1. uppväcka (från de döda), återkalla till livet (be resurrected = återuppstå) 2. återuppliva, återuppta (resurrect an old custom)
+
+Förklaring: Restore (a dead person) to life
+
+Uttalas: ˌrezəˈrekt
+
+Verb: uppväcka (från de döda), återkalla till livet, återuppliva, återuppta, återuppstå
+
+Synonymer: raise from the dead, restore to life, revive
+
+Exempel: He was dead, but he was resurrected; 7 (Han var död, men han återuppstod)
 ----- New word -----
 468. crave
 (verb) 1. be om 2. längta (törsta) efter, ha behov av (I crave for love and happiness) 3. kräva, erfordra
@@ -2788,11 +2920,25 @@ Exempel: The new printing presses were considerable feats of engineering; 7 (De 
 469. lament
 (verb) 1. klaga, jämra [sig] 2. beklaga, sörja över 3. djupt saknad (your late lamented father = din [djupt saknade] bortgångne far
 ----- New word -----
-470. court
-1. plan, bana 2. gård, gårdsplan 3. rättssal 4. uppvakta, fria till, fjäska för
+470. gaffe
+
+Förklaring: An unintentional act or remark causing embarrassment to its originator; a blunder
+
+Uttalas: gaf
+
+Synonymer: blunder, goof
+
+Exempel: To fart loud in public is an unforgivable social gaffe; 10 (Att prutta högt på allmän plats är en oförlåtlig social gaffe)
 ----- New word -----
 471. woo
-(verb) 1. fria till, uppvakta 2. söka vinna, sträva efter
+
+Förklaring: Try to gain the love of (someone, typically a woman), especially with a view to marriage.
+
+Verb: uppvakta, fria till, eftertrakta, eftersträva, locka
+
+Synonymer: court
+
+Exempel: He wooed her with quotes from Shakespeare; 2 (Han uppvaktade henne med citat från Shakespeare)
 ----- New word -----
 472. scorn
 
@@ -2811,7 +2957,15 @@ Exempel: I was routinely ridiculed and scorned by conservatives and liberals ali
 (verb) tränga sig på, komma objuden (intruder=inkräktare (substantiv))
 ----- New word -----
 474. bruise
-(substantiv) blåmärke
+
+Uttalas: bro͞oz
+
+Substantiv: blåmärke
+
+Verb: krossa, slå gul och blå, mala sönder, stöta
+
+Exempel: He fell from the cliff and got many bruises on his body; 9 (Han föll från klippan och fick många blåmärken på sin kropp)
+Exempel: He bruised my knee; 2 (Han krossade mitt knä)
 ----- New word -----
 475. oust
 
@@ -2827,7 +2981,17 @@ Exempel: Melzer ousted in second round of the tournament; 2 (Melzer slogs ut i a
 Exempel: Parents ousted from mansion after giving their kids £600m; 2 (Föräldrar kastades ut från herrgården efter att ha givit sina barn 600 miljoner pund)
 ----- New word -----
 476. spell
-1. stava (verb) 2. omgång, tur (substantiv) 3. förtrollning, förhäxning (tennis: Hewitt Overcomes Federer Spell = Hewitt övervann Federers förhäxning)
+
+Förklaring: A form of words used as a magical charm or incantation (förtrollning, förhäxning)
+Förklaring: A short period
+Förklaring: Write or name the letters that form (a word) in correct sequence.
+
+Substantiv:
+Verb: stava, bokstavera, betyda
+Substantiv: förtrollning, förhäxning, period, skift
+
+Exempel: Hewitt overcame Federer's spell; 4 (Hewitt övervann Federers förhäxning)
+
 ----- New word -----
 477. deprive
 
@@ -3211,7 +3375,14 @@ fluga, modenyck, mani
 krigisk
 ----- New word -----
 547. dismal
-dyster
+
+Uttalas: ˈdizməl
+
+Adjektiv: dyster, sorglig, hemsk
+
+Synonumer: dim, dark, gloomy, dreary, drab, dull, bleak, cheerless, depressing
+
+Exempel: The dismal weather made the late afternoon seem like evening; 2 (Det dystra vädret gjorde så att den sena eftermiddagen verkade som kväll)
 ----- New word -----
 548. wobble
 
@@ -3230,7 +3401,12 @@ Synonymer (verb): rock, teeter, jiggle, sway, seesaw, shake, stagger
 Exempel: The table wobbles where the leg is too short; 3 (Bordet vinglar där benet är för kort)
 ----- New word -----
 549. wedge
-kil, trekant
+
+Substantiv: kil
+
+Exempel: The door keeps closing all the time so can we please use a wedge for it?; 14 (Dörren stängs hela tiden så kan vi använda en kil för den?)
+
+
 ----- New word -----
 550. chuffed
 jätteglad (adjektiv)
@@ -3421,10 +3597,29 @@ Exempel: Cora was already regretting her precipitation; 6 (Cora beklagar redan h
 vagn
 ----- New word -----
 592. cart
-vagn
+
+Substantiv: vagn (carriage, wagon, trolley, coach)
+
+Verb: köra (drive, ride)
+Verb: forsla (transport, convey)
+Verb: släpa (drag)
+
+Exempel: When shopping it is convenient to have a cart; 9 (När du handlar är det bekväm att ha en vagn)
+
+
+
 ----- New word -----
 593. indecent
-oanständig, opassande
+
+Förklaring: Not conforming with generally accepted standards of behavior or propriety; obscene
+
+Uttalas: inˈdēsənt
+
+Adjektiv: oanständig, opassande
+
+Synonymer: obscene, dirty, filthy, rude, coarse, naughty, vulgar, gross, crude
+
+Exempel: The film was grossly indecent; 5 (Filmen var grovt oanständig)
 ----- New word -----
 594. atrocity
 illdåd, grymhet
@@ -3523,10 +3718,31 @@ Synonymer: expert, specialist, master, guru, sage, savant, maven, whiz
 Exempel: He is a financial pundit giving many speeches; 5 (Han är en finansiell expert som ger många tal)
 ----- New word -----
 608. inquest
-undersökning, förhör, utredning, efterforskning
+
+Förklaring: A judicial inquiry to ascertain the facts relating to an incident, such as a death
+
+Uttalas: inˌkwest
+
+Substantiv: undersökning (investigation, survey, examination, inquiry, search)
+Substantiv: förhör (hearing, interrogation)
+Substantiv: utredning
+Substantiv: efterforskning
+
+Exempel: We will have an inquest to find out the reason to the poor result; 5 (Vi kommer att ha en utredning för att ta reda på orsaken till det dåliga resultatet)
+
+
 ----- New word -----
 609. enamoured
-förälskad, betagen
+
+Förklaring: Liking something a lot
+
+Uttalas: enamod (enligt https://dictionary.cambridge.org)
+
+Adjektiv: förälskad, betagen
+
+Exempel: I have to say I'm not exactly enamoured of this part of the country; 8 (Jag måste säga att jag inte exakt är betagen av denna del av landet)
+
+
 ----- New word -----
 610. disingenuous
 
@@ -3539,7 +3755,12 @@ Synonymer: insincere, dishonest, untruthful, false, deceitful, duplicitous, lyin
 Exempel: It is disingenuous to pretend that it is good entertainment; 3 (Det är oärlig att låtsas att det är bra underhållning)
 ----- New word -----
 611. sabbatical
-sabbatsår
+
+Uttalas: sa-ba-ti-cal (enligt https://dictionary.cambridge.org)
+
+Adjektiv: sabbatsår
+
+Exempel: she's away on sabbatical; 4 (Hon är borta på sabbatsdagen)
 ----- New word -----
 612. apprentice
 lärling
@@ -3665,10 +3886,31 @@ nyckelbricka
 rörmokare, rörarbetare
 ----- New word -----
 637. jumper
-jumper
+
+Substantiv: jumper
+Substantiv: hoppare
+Substantiv: stenborr, bergborr
+
+Exempel: It is cold so you need a jumper; 8 (Det är kallt så du behöver en jumper)
 ----- New word -----
 638. trespass
-1. intrång, lagöverträdelse (substantiv) 2. inkräkta, göra intrång, förbryta, överskrida, synda (verb)
+
+Förklaring:
+Entry to a person's land or property without their permission (intrång)
+A sin; an offense (synd)
+
+Uttalas: ˈtrespəs
+
+Substantiv: intrång (infringement, intrusion, encroachment, incursion, invasion, unlawful entry)
+Substantiv: lagöverträdelse (delict, delinquency)
+Verb: inkräkta (encroach, impinge, intrude)
+Verb: göra intrång (impinge)
+Verb: förbryta (offend)
+Verb: överskrida (exceed, overstep, outrun, overrun, overdraw)
+Verb: synda
+
+Exempel: The worst trespass against the goddess Venus is to see her naked; 3 (Det värsta synden mot gudinnan Venus är att se henne naken)
+Exempel: There is no excuse for trespassing on railroad property; 6 (Det finns ingen ursäkt för intrång på ett järnvägsområde)
 ----- New word -----
 639. grief
 
@@ -3945,7 +4187,7 @@ Exempel: It was boring and staid; 5 (Det var tråkigt och stelt)
 ----- New word -----
 667. bulge
 
-Förklaring: Uttalas belj
+Uttalas: bəlj
 
 Substantiv: utbuktning, rundning, uppgång, ökning
 Verb: bukta sig utåt
@@ -5264,33 +5506,27 @@ Synonymer (verb): give, grant
 Exempel: Peace accords were signed at the meeting; 2 (Fredöverenskommelser undertecknades vid mötet)
 Exempel: The powers accorded to the head of state were discussed at the meeting; 3 (De befogenheter som tilldelas statschefen diskuterades vid mötet)
 ----- New word -----
-777. ?????
-Å Ä Ö å ä ö
+777. impostor
 
-Förklaring:
+Förklaring: A person who pretends to be someone else in order to deceive others, especially for fraudulent gain
 
-Uttalas:
+Uttalas: imˈpästər
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: Bedragare
 
-Exempel: Word; 1 ()
+Synonymer: deceiver, scammer, fraudster, swindler
+
+Exempel: Masie Recruitment is an impostor; 5 (Masie Recruitment är en bedragare)
 ----- New word -----
-778. ?????
-Å Ä Ö å ä ö
+778. gratitude
 
-Förklaring:
+Uttalas: ˈgratəˌt(y)o͞od
 
-Uttalas:
+Substantiv: tacksamhet
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: gratefulness, thankfulness, appreciation, indebtedness, recognition, acknowledgment
 
-Exempel: Word; 1 ()
+Exempel: She expressed her gratitude to the committee for their support; 4 (Hon uttryckte sin tacksamhet till utskottet för sitt stöd)
 ----- New word -----
 779. ?????
 Å Ä Ö å ä ö
