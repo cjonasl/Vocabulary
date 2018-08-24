@@ -167,7 +167,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\KR_neu.png" />
-    <Content Include="Config.txt" />
+    <None Include="Config.txt" />
     <Content Include="KR.ico" />
     <Content Include="RuSplash\RuSplash.dll" />
     <Content Include="RuSplash\TextDisignerCSLibrary.dll" />

@@ -153,7 +153,7 @@ namespace StaticMethods
             return wordsArray;
         }
 
-        public static void ReadConfig(string dir, out string targetVocabularyFileFullPath, out string fileNameInfoFileFullPath, out int currentIndex, out Main.LocationSizeOfMainFormAndTextBox locationSizeOfMainFormAndTextBox)
+        public static void ReadConfig(string dir, out string targetVocabularyFileFullPath, out string fileNameInfoFileFullPath, out int currentIndex, out Main.LocationSizeOfMainFormAndTextBox locationSizeOfMainFormAndTextBox, out bool setLocationSizeOfMainFormAndTextBoxManuallyInCode)
         {
             string[] v = ReturnFileContents(dir + "\\Config.txt").Split(new string[] { "\r\n" }, StringSplitOptions.None);
             targetVocabularyFileFullPath = v[0];
@@ -169,6 +169,7 @@ namespace StaticMethods
             locationSizeOfMainFormAndTextBox.tly = int.Parse(ls[5]);
             locationSizeOfMainFormAndTextBox.tsw = int.Parse(ls[6]);
             locationSizeOfMainFormAndTextBox.tsh = int.Parse(ls[7]);
+            setLocationSizeOfMainFormAndTextBoxManuallyInCode = bool.Parse(v[4]);
         }
 
         public static bool HasEmptyWord(string[] v)

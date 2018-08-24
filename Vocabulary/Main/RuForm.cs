@@ -19,6 +19,7 @@ namespace Main
         private bool _infoTextIsShown, _applicationRandomSampleOfVocabularieIsRunning;
         private LocationSizeOfMainFormAndTextBox _locationSizeOfMainFormAndTextBox;
         private StudyRandomSampleOfVocabularies _studyRandomSampleOfVocabularies;
+        private bool _setLocationSizeOfMainFormAndTextBoxManuallyInCode;
 
         public Main()
         {
@@ -28,9 +29,46 @@ namespace Main
             try
             {
                 InitializeComponent();
-                
-                Utility.ReadConfig(Directory.GetCurrentDirectory(), out _targetVocabularyFileFullPath, out _fileNameInfoFileFullPath, out currentIndex, out _locationSizeOfMainFormAndTextBox);
-                UpdateLocationAndSiseForMainFormAndTextBox();
+
+                Utility.ReadConfig(Directory.GetCurrentDirectory(), out _targetVocabularyFileFullPath, out _fileNameInfoFileFullPath, out currentIndex, out _locationSizeOfMainFormAndTextBox, out _setLocationSizeOfMainFormAndTextBoxManuallyInCode);
+
+                if (_setLocationSizeOfMainFormAndTextBoxManuallyInCode)
+                {
+                    int mx = -7, my = 0, mw = 1380, mh = 735, tx = 15, ty = 110, tw = 1340, th = 565; //Default values
+
+                    if ((Screen.PrimaryScreen.WorkingArea.Width == 1366) && (Screen.PrimaryScreen.WorkingArea.Height == 728))
+                    {
+                        mx = -7;
+                        my = 0;
+                        mw = 1380;
+                        mh = 735;
+                        tx = 15;
+                        ty = 110;
+                        tw = 1340;
+                        th = 565;
+                    }
+                    else if ((Screen.PrimaryScreen.WorkingArea.Width == 1440) && (Screen.PrimaryScreen.WorkingArea.Height == 860))
+                    {
+                        mx = -10;
+                        my = 0;
+                        mw = 1460;
+                        mh = 867;
+                        tx = 15;
+                        ty = 110;
+                        tw = 1400;
+                        th = 700;
+                    }
+
+                    this.Location = new Point(mx, my);
+                    this.Size = new Size(mw, mh);
+                    this.textBox1.Location = new Point(tx, ty);
+                    this.textBox1.Size = new Size(tw, th);
+                }
+                else
+                {
+                    UpdateLocationAndSiseForMainFormAndTextBox();
+                }
+
                 _infoText = Utility.ReturnFileContents(_fileNameInfoFileFullPath);
                 _wordsAndExplanationArray = Utility.ReturnWordsAndExplanationArray(_targetVocabularyFileFullPath);
                 _wordsArray = Utility.ReturnWordsArray(_wordsAndExplanationArray);
@@ -160,7 +198,7 @@ namespace Main
         private void Main_FormClosing(object sender, FormClosingEventArgs e)
         {
             int currentIndex = hScrollBar1.Value - 1;
-            Utility.CreateNewFile(Directory.GetCurrentDirectory() + "\\Config.txt", string.Format("{0}\r\n{1}\r\n{2}\r\n{3}", _targetVocabularyFileFullPath, _fileNameInfoFileFullPath, currentIndex.ToString(), Utility.ReturnString(_locationSizeOfMainFormAndTextBox)));
+            Utility.CreateNewFile(Directory.GetCurrentDirectory() + "\\Config.txt", string.Format("{0}\r\n{1}\r\n{2}\r\n{3}\r\n{4}", _targetVocabularyFileFullPath, _fileNameInfoFileFullPath, currentIndex.ToString(), Utility.ReturnString(_locationSizeOfMainFormAndTextBox), _setLocationSizeOfMainFormAndTextBoxManuallyInCode.ToString()));
         }
 
         private void Command_NewWord(string newWord)
@@ -265,6 +303,17 @@ namespace Main
                 this.textBox1.Location.Y.ToString(),
                 this.textBox1.Size.Width.ToString(),
                 this.textBox1.Size.Height.ToString());
+
+            MessageBox.Show(message, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void Command_ps()
+        {
+            string message = string.Format("(X,Y,Width,Height)=({0},{1},{2},{3})",
+                Screen.PrimaryScreen.WorkingArea.X,
+                Screen.PrimaryScreen.WorkingArea.Y,
+                Screen.PrimaryScreen.WorkingArea.Width,
+                Screen.PrimaryScreen.WorkingArea.Height);
 
             MessageBox.Show(message, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
@@ -509,6 +558,16 @@ namespace Main
                     else
                     {
                         Command_wei();
+                    }
+                    break;
+                case "ps": //Show X, Y, Width and Heigh of primary screen
+                    if (v.Length != 1)
+                    {
+                        MessageBox.Show("Command \"ps\" should not have any parameters!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    else
+                    {
+                        Command_ps();
                     }
                     break;
                 default:
