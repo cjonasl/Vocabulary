@@ -4572,7 +4572,7 @@ Exempel: He is very fussy about what he eats; 4 (Han är väldigt noga med vad h
 Förklaring: a military operation in which enemy forces surround a town or building, cutting
 off essential supplies, with the aim of compelling the surrender of those inside
 
-Uttalas: sej
+Uttalas: sidsh
 
 Substantiv: belägring, lång besvärlig period
 
@@ -5679,19 +5679,22 @@ Verb: spåra ur
 
 Exempel: A hip injury derailed his career for the best part of a year; 4 (En höftskada gjorde så att hans karriär spåra ur under större delen av året)
 ----- New word -----
-783. ?????
-Å Ä Ö å ä ö
+783. hoard
 
 Förklaring:
+A stock or store of money or valued objects, typically one that is secret or carefully guarded (förråd, gömställe)
+Amass (money or valued objects) and hide or store away (hamstra, lägga på hög)
 
-Uttalas:
+Uttalas: hård
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: förråd, gömställe
+Verb: hamstra, lägga på hög
 
-Exempel: Word; 1 ()
+Synonymer (substantiv): cache, stockpile, stock, store, collection, supply, reserve, reservoir, fund, accumulation
+Synonymer (verb): stockpile, store, store up, stock up on, put aside, put by, lay by, lay up, set aside, stow away
+
+Exempel: He came back to rescue his little hoard of gold; 8 (Han kom tillbaka för att rädda sitt lilla gömställe av guld)
+Exempel: Thousands of antiques hoarded by a compulsive collector; 4 (Tusentals antikviteter hamstrades av en tvångsmässig samlare)
 ----- New word -----
 784. ?????
 Å Ä Ö å ä ö
