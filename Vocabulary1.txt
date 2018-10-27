@@ -480,6 +480,8 @@ Exempel: I continued my perusal of the instructions; 4 (Jag fortsatte min genoml
 ----- New word -----
 51. prevail
 
+Uttalas: preväjl
+
 Verb: segra, råda, vara rådande, vara allmänt utbredd, förmå, övertala, härska
 
 Synonymer: win, win out/through, triumph, be victorious, carry the day, come out on top, succeed
@@ -488,13 +490,26 @@ Exempel: The truth will prevail; 4 (Sanningen kommer att segra)
 ----- New word -----
 52. detain
 
+Förklaring:
+To force someone officially to stay in a place
+To delay someone for a short length of time
+
+Uttalas: detäjn
+
 Verb: uppehålla, försena, hindra, kvarhålla i häkte, internera, fördröja
 
 Synonymer: hold, take into custody, take (in), confine, imprison, lock up, put in jail, intern, arrest
 
 Exempel: She was detained in custody without trial for two years; 3 (Hon kvarhölls i häkte i två år utan rättegång)
+Exempel: I am sorry I am late, I was unavoidably detained; 10 (Jag är ledsen att jag är sen, jag kunde inte undvika fördröjningen)
 ----- New word -----
 53. expel
+
+Förklaring:
+To force someone to leave a school, organization, or country
+Deprive (beröva) someone of membership of or involvement in a school or other organization
+
+Uttalas: Som det stavas
 
 Verb: driva ut, kasta ut, fördriva, förvisa, utvisa, utestänga, relegera, exkludera
 
@@ -526,7 +541,7 @@ Synonymer (bära upp): bear, support
 Synonymer (uppehålla): detain, delay, keep, keep up, support
 Synonymer (lida): suffer
 Synonymer (hålla ut): persevere, stick it out, last, stay, hang in
-Synonymer (Strengthen or support physically or mentally): comfort, help, assist, encourage, succor, support, give strength to, buoy up, carry
+Synonymer (strengthen or support physically or mentally): comfort, help, assist, encourage, succor, support, give strength to, buoy up, carry
 Synonymer (undergo or suffer): undergo, experience, suffer, endure
 Synonymer (uphold, affirm, or confirm the justice or validity of): uphold, validate, ratify, vindicate, confirm, endorse, verify, corroborate, substantiate,
 
@@ -547,7 +562,7 @@ Exempel: Houses had been flooded and cars submerged; 7 (Hus hade översvämmats 
 57. immerse
 
 Förklaring: Dip or submerge in a liquid
-Förklaring: Involve oneself deeply in a particular activity or interest.
+Förklaring: Involve oneself deeply in a particular activity or interest
 
 Verb: fördjupa, doppa, sänka ner
 
@@ -577,7 +592,7 @@ Förklaring: The action of discharging someone from a hospital or from a job
 Förklaring: The action of discharging a liquid, gas, or other substance
 Förklaring: Tell (someone) officially that they can or must leave
 
-Substantiv: ansvarsfrihet, urladdning, uttömning, avsöndring, utskrivning, avlossande, avsked, rigivning
+Substantiv: ansvarsfrihet, urladdning, uttömning, avsöndring, utskrivning, avlossande, avsked, frigivning
 Verb: ladda ur, uppfylla, urladda, släppa ut
 
 Synonymer (The action of discharging someone from a hospital or from a job):  dismissal, release, removal, ejection, expulsion, cashiering, the sack, the boot
@@ -625,7 +640,7 @@ Exempel: The property was placed in the custody of a trustee; 7 (Fastigheten var
 Substantiv: dåre, dumbom
 Verb: lura, driva med, larva sig, skämta, flamsa
 
-Synonymer (substantiv):  idiot, ass, blockhead, dunce, dolt, ignoramus, imbecile, cretin, dullard, simpleton
+Synonymer (substantiv): idiot, ass, blockhead, dunce, dolt, ignoramus, imbecile, cretin, dullard, simpleton
 Synonymer (verb): deceive, trick, hoax, dupe, take in, mislead, delude, hoodwink, sucker, bluff, gull
 
 Exempel: What a fool I was to do this; 3 (Vilken dumbom jag var som gjorde detta)
@@ -642,6 +657,11 @@ Exempel: A careful archaeological sift must be made through the debris; 4 (En no
 ----- New word -----
 67. vengeful
 
+Förklaring:
+Expressing a strong wish to punish someone who has harmed you or your family or friends
+
+Uttalas: vendshful
+
 Adjektiv: hämndlysten
 
 Synonymer: vindictive, revengeful, out for revenge, unforgiving
@@ -652,6 +672,8 @@ Exempel: The prisoner turned a vengeful eye toward his former captors; 5 (Fånge
 
 Konjunktion: om än
 
+Uttalas: ålbet
+
 Synonymer: although, even though
 
 Exempel: Clear albeit cold weather; 2 (Klart om än kallt väder)
@@ -659,7 +681,7 @@ Exempel: He was making progress albeit rather slowly; 5 (Han gjorde framsteg om 
 ----- New word -----
 69. sponge
 
-Uttalas: spənj
+Uttalas: spandsh
 
 Substantiv: svamp, tvättsvamp, badsvamp, jäst deg, snyltare
 Verb: snylta, parasitera, torka, leva på andras bekostnad
@@ -674,6 +696,8 @@ Exempel: She sponged him down in an attempt to cool his fever; 2 (Hon torkade ho
 
 Substantiv: avhjälpa, botemedel, läkemedel, råd, hjälp, utväg
 Verb: bota
+
+Uttalas: remedi
 
 Synonymer (botemedel): treatment, cure, medicine, medication, medicament, drug
 Synonymer (avhjälpa): rectify, solve, sort out, straighten out, resolve
@@ -695,29 +719,29 @@ Exempel: It was an innocuous question; 4 (Det var en oskyldig fråga)
 ----- New word -----
 72. cringe
 
-Uttalas: krinj
+Uttalas: krindsh
 
-Förklaring: Bend one's head and body in fear or in a servile manner (Böja huvudet och kroppen i rädsla eller på ett tjänligt sätt.)
+Förklaring: Bend one's head and body in fear or in a servile manner (Böja huvudet och kroppen i rädsla eller på ett tjänligt sätt)
 
 Substantiv: inställsamhet
 Verb: krypa, krypa ihop
 
-Synonymer: Cower, shrink, recoil, shy away, flinch, blench, draw back, shake, tremble, quiver
+Synonymer: cower, shrink, recoil, shy away, flinch, blench, draw back, shake, tremble, quiver
 
-Exempel: He cringed away from the blow; 2 (Han kröp ihop bort från vinden)
+Exempel: He cringed away from the blow; 2 (Han kröp ihop bort från blåsten)
 ----- New word -----
 73. toggle
 
 Förklaring (verb): Switch from one effect, feature, or state to another by using a toggle
 
 Substantiv: avlång knapp, pinne
-Verb: Växla
+Verb: växla
 
 Exempel: There's a button which toggles between upper case lower case and numbers; 5 (Det finns en knapp som växlar mellan stora bokstäver små bokstäver och siffror)
 ----- New word -----
 74. legible
 
-Uttalas: lejəbəl
+Uttalas: led-ju-bul
 
 Adjektiv: läsbar, läslig, tydlig
 
@@ -744,7 +768,7 @@ Exempel: The air was tainted by fumes from the cars; 4 (Luften var förorenad av
 
 Förklaring: Difficult to carry or move because of its size, shape, or weight
 
-Uttalas: ənˈwēldē
+Uttalas: unvildi
 
 Adjektiv: tungrodd, klumpig, ohanterlig
 
@@ -760,12 +784,14 @@ Förklaring (verb): Apply a sample of (paint, makeup, etc.) to a surface or one'
 
 Substantiv: provbit, provkarta
 
-Exempel: We come to the house with all our materials colour and fabric swatches; 13 (Vi kommer till huset med allt vårt material färger och tygprov)
+Exempel: We come to the house with all our materials, colour and fabric swatches; 13 (Vi kommer till huset med allt vårt material, färger och tygprover)
 ----- New word -----
 78. emboss
 
 Förklaring: To decorate an object, especially with letters, using special tools which make a raised
 mark on its surface
+
+Uttalas: imboss
 
 Verb: prägla
 
@@ -794,6 +820,8 @@ Exempel: A table of oblong shape stood midway between the drawing-room walls; 4 
 
 Förklaring: Showing great attention to detail; very careful and precise
 
+Uttalas: me-ti-cu-lus
+
 Adjektiv: noggrann, minutiös, petig
 
 Synonymer: careful, conscientious, diligent, scrupulous, punctilious, painstaking, accurate, thorough
@@ -810,7 +838,7 @@ Exempel: I recall considering grabbing the gutter on the roof edge; 6 (Jag kom i
 ----- New word -----
 83. prompt
 
-Uttalas: prämpt
+Uttalas: Som det stavas
 
 Adjektiv: snabb, omgående, flink, punktlig
 Substantiv: viskning [från sufflören]
@@ -845,7 +873,7 @@ Exempel: A sucking swirl dimpled the water; 4 (En sugande virvel skapade gropar 
 
 Förklaring: Careful attention, pay attention to; take notice of
 
-Uttalas: hēd
+Uttalas: hiiid
 
 Substantiv: beaktande
 Verb: bry sig om, beakta
@@ -858,7 +886,7 @@ Exempel: He should have heeded the warnings; 4 (Han borde ha brytt sig om varnin
 ----- New word -----
 87. garble
 
-Uttalas: ˈgärbəl
+Uttalas: ga-bel
 
 Verb: förvanska, vanställa, stympa
 
@@ -870,7 +898,7 @@ Exempel: The connection was awful and kept garbling his voice; 7 (Anslutningen v
 
 Förklaring: Make a choice from a range of possibilities
 
-Uttalas: äpt
+Uttalas: åpt
 
 Verb: välja
 
@@ -930,7 +958,7 @@ Exempel: When you hear the hum of insects you know you are in the nature; 5 (Nä
 ----- New word -----
 93. drone
 
-Uttalas: drōn
+Uttalas: dråne
 
 Substantiv: brummande, surrande
 Verb: surra, brumma
@@ -945,7 +973,7 @@ Förklaring:
 Treating serious issues with deliberately inappropriate humor
 Not meant to be taken seriously or literally
 
-Uttalas: fəˈsēSHəs
+Uttalas: fe-she-shus
 
 Synonymer: flippant, flip, glib, frivolous, tongue-in-cheek, ironic, sardonic, joking, jokey
 
@@ -957,7 +985,7 @@ Exempel: You learn very soon never to tell a joke or make a facetious remark; 13
 
 Förklaring: Uncalled for; lacking good reason; unwarranted
 
-Uttalas: grəˈt(y)o͞oitəs
+Uttalas: gra-tui-tos
 
 Synonymer: unjustified, uncalled for, unwarranted, unprovoked, undue, indefensible
 
@@ -2793,50 +2821,6 @@ Verb: stenlägga, stensätta, belägga, täcka
 
 Exempel: Negotiations is needed to pave the way for trade talks; 5 (Förhandlingar behövs för att bana väg för handelsförhandlingar)
 Exempel: The yard at the front was paved with flagstones; 7 (Gården på framsidan var belaggd med trottoarsten)
------ New word ----
-
-
-betray: (verb) 1. förråda, bedra 2. röja, avslöja (betray a secret)
-deceit: (substantiv) bedrägeri, svek
-deceive: (verb) bedra, vilseleda, lura
-roller coaster: berg-och-dalbana
-dismay: (substantiv) bestörtning, förfäran (much to my dismay = till min bestörtning)
-prank: (substantiv) upptåg, hyss, busstreck, skoj
-grip: (substantiv) förståelse, grepp
-squad: 1. militär. en grupp 2. [speciellt avdelad] grupp (styrka), patrull, polisbil (squad car), sport. trupp
-board: (substantiv) 1. bräde, bräda, träplanka 2. anslagstavla 3. råd, styrelse, nämnd
-funnel: tratt
-idle: (uttalas aidl) 1. (adjektiv) sysslolös, overksam, ledig, arbetslös, oanvänd 2. teknik. stillastående, på tomgång 3. (verb) slösa bort tiden, lata sig, slöa
-pound: 1. (verb) banka, bulta, hamra 2. (substantiv) bankande, bultande, hamrande 3. (substantiv) pund (mynt)
-skid: 1. (verb) sladda, slira (om fordon) 2. (substantiv) sladdning, slirning
-retension: (substantiv) 1. kvarhållande, fasthållande 2. [bi]behållande, bevarande (power of retension = minnesförmåga)
-despair: uttalas dispär,  (substantiv) förtvivlan, hopplöshet, (verb) förtvivla, misströsta
-disbursement: (substantiv) utbetalning, [kontant]utlägg; utgift (disburse är motsvarande verb = betala ut, lägga ut [pengar])
-doom: uttalas "dum", (substantiv) ont öde, [olycklig] lott, undergång, död, dödsdom (the day of doom = domens dag)
-spark: uttalas "spak", ett ljushuvud (a bright spark), en lustigkurre, en glad lax, gnista (substantiv), gnistra (verb)
-sparkle: 1. gnistra, spraka, tindra (verb) 2. gnistrande, tindrande (substantiv)
-endeavour: (verb) sträva, bemöda sig, försöka att göra, (substantiv) strävan, bemödan, försök (make every endeavour to = anstränga sig på alla sätt för att)
-hoax: (verb) lura, narra, (substantiv) skämt, upptåg, skoj, bluff, [tidnings]anka
-herb: ört, växt
-salvage: 1. (substantiv) bärgning, räddning (från skeppsbrott o.d.), (verb) bärga, rädda 2. återanvändning, återvinning
-foul: 1. (adjektiv) illaluktande, stinkande, vidrig 2. äcklig 3. ojust, regelvidrig, ogiltig 4. No fouling = ingen nedsmutsning
-mount: 1. (substantiv) berg 2. (verb) gå (springa) uppför (mount the stairs), 3. (verb) sätta upp, installera, klistra [in i album] (mount stamps in an album) 4. (substantiv) [rid]häst 5. kartong, papper, underlag o.d. som bakgrund till bilder m.m.
-sacred: (uttalas "seikrid") (adjektiv) helgad, invigd, sacred to = ägnad åt, sacred songs = andliga sånger,  sacred cow = helig ko, This song is sacred to those who fought in Vietnam (mening hittad på Internet)
-forger: förfalskare
-forgery: förfalskning (juridik: urkundsförfalskning)
-invincible: (adjektiv) oövervinnlig
-fairy: (substantiv) fe, älva (uttalas "feri")
-fairytale: (substantiv) a story about fairies; told to amuse children
-beet: (substantiv) beta, rödbeta ([red] beet [root])
-dour: (adjektiv) sträng, envis, ihärdig, trumpen, butter, kärv, seg
-oblivious: (adjektiv) 1. glömsk 2. omedveten
-dividend: (substantiv) utdelning (på aktier o. d.), återbäring
-litter: 1. skräp 2. kull (ungar) 3. (verb) föda (få) en kull ungar
-fly: 1. flyga 2. fluga 3. gylf
-dilapidate: 1. (verb) [låta] förfalla 2. dilapidated (adjektiv) förfallen, vanvårdad 3. dilapidation (substantiv) förfall, vanvård
-destitute: 1. (adjektiv) utblottad, nödlidande 2. destitution (substantiv) brist, nöd
-peninsula: (substantiv) halvö
-manor: (substantiv) herrgård, gods
 ----- New word -----
 410. betray
 (verb) 1. förråda, bedra 2. röja, avslöja (betray a secret)
@@ -3253,7 +3237,7 @@ Exempel: It was a deliberate attempt to provoke conflict; 3 (Det var ett noga av
 ----- New word -----
 486. savour
 
-Uttalas: ˈsāvər
+Uttalas: säjver
 
 Substantiv: smak, arom, doft, atmosfär
 Verb: njuta av, avnjuta, smaka på, lukta på
@@ -3262,6 +3246,7 @@ Synonymer (substantiv): smell, aroma, fragrance, scent, perfume, bouquet, taste,
 Synonymer (verb): enjoy, relish, revel
 
 Exempel: Söderling savours first master 1000 crown; 2 (Söderling njuter av första masterssegern)
+Exempel: We will bring you a breakfast you truly can savour; 10 (Vi kommer att ge dig en frukost du verkligen kan njuta av)
 ----- New word -----
 487. secluded
 avskild, undangömd (seclude är motsvarande verb = avstänga, isolera)
@@ -3337,8 +3322,6 @@ Verb: pressa ut, avtvinga, tvinga fram, framtvinga
 Synonymer: force, extract, wring, wrest, screw, squeeze
 
 Exempel: He was convicted of trying to extort $1 million from a developer; 7 (Han dömdes för att försöka utpressa 1 miljon dollar från en utvecklare)
-
-
 ----- New word -----
 502. resuscitate
 återuppväcka, åter få liv, återuppliva
@@ -3383,7 +3366,14 @@ kommunfullmäktige, stadsfullmäktige, stadsdel (Boroughs of New York)
 1. bedöva, göra döv 2. förbluffa, chocka (the news stunned him)
 ----- New word -----
 513. sedate
-1. stillsam, lugn, sansad (adjektiv) 2. ge lugnande medel åt
+
+Adjektiv: stillsam, lugn, ge lugnande medel åt
+
+Synonymer: quiet, calm, peaceful
+
+Exempel: In the old days, business was carried on at a rather more sedate pace; 14 (Förr i tiden var tempot i verksamheten betydligt lugnare)
+Exempel: She was heavily sedated; 4 (Hon var tungt nersövd)
+
 ----- New word -----
 514. stalk
 1. stjälk 2. [hög] skorsten 3. hög fot (på vinglas), skaft 4. gå med stolta steg (verb) 5. smyga sig på (efter)
@@ -6055,145 +6045,142 @@ Synonymer: doubtful, unsure, dubious, wary, chary, skeptical, distrustful, mistr
 
 Exempel: Her behaviour was very suspicious; 5 (Hennes beteende var mycket misstänksamt)
 ----- New word -----
-790. ?????
-Å Ä Ö å ä ö
+790. fatigue
 
 Förklaring:
+Extreme tiredness, typically resulting from mental or physical exertion (ansträngning) or illness (substantiv)
+Cause someone to feel tired or exhausted (verb)
 
-Uttalas:
+Uttalas: fetig
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: trötthet, utmattning, ansträngning
+Verb: trötta, trötta ut
 
-Exempel: Word; 1 ()
+Synonymer (substantiv): tiredness, weariness, sleepiness, drowsiness, exhaustion, enervation, languor, lethargy
+Synonymer (verb): tire (out), exhaust, wear out, drain, weary, wash out, overtire, prostrate, enervate, knock out
+
+Exempel: He was nearly dead with fatigue; 6 (Han var nästan död av trötthet)
+Exempel: They were fatigued by their journey; 6 (De blev uttröttade av deras resa)
 ----- New word -----
-791. ?????
-Å Ä Ö å ä ö
+791. tantrum
 
-Förklaring:
+Förklaring: A sudden period of uncontrolled anger like a young child's
 
-Uttalas:
+Uttalas: Som det stavas
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: raseriutbrott, misshumör
 
-Exempel: Word; 1 ()
+Synonym: outburst
+
+Exempel: Charlie had a tantrum in the shop because I wouldn't buy him any sweets; 4 (Charlie hade ett utbrott i affären eftersom jag inte köpte något godis till honom)
 ----- New word -----
-792. ?????
-Å Ä Ö å ä ö
+792. verge
 
-Förklaring:
+Förklaring: The edge or border of something
 
-Uttalas:
+Uttalas: verds
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: gränsa (border)
+Verb: luta åt (tend to)
+Verb: avgränsa (define, delimit, demarcate, delimitate)
+Verb: luta (lean, tilt, lute, incline, dip)
+Verb: slutta (slope, decline, incline, fall, shelve)
 
-Exempel: Word; 1 ()
+Substantiv: kant (edge, border, rim, lug, margin)
+Substantiv: rand (stripe, rand, edge, brim, brink)
+Substantiv: gräns (limit, border, frontier, bounds, confine)
+Substantiv: brant (precipice, edge, verge, scarp)
+
+Exempel: They set up camp on the verge of the desert; 6 (De satte upp ett läger på gränsen till öknen)
 ----- New word -----
-793. ?????
-Å Ä Ö å ä ö
+793. seize
 
-Förklaring:
+Uttalas: sis
 
-Uttalas:
+Verb: gripa (catch, capture, lay hold of, apprehend, snap up)
+Verb: beslagta, ta i beslag (confiscate, impound, sequestrate, sequester, levy)
+Verb: fånga (catch, capture, trap, fetch, engage)
+Verb: fatta (grasp, understand)
+Verb: hugga (chop, cut, carve, strike, hew)
+Verb: ta tag i (catch hold of, lay hold of)
+Verb: ta fast (catch)
+Verb: intaga (occupy, take, enrol, enroll, carry)
+Verb: erövra (conquer, capture, win, take, carry)
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: The customs seized 3 kg cocaine; 3 (Tullen beslagtog 3 kg kokain)
 ----- New word -----
-794. ?????
-Å Ä Ö å ä ö
+794. solicit
 
-Förklaring:
+Förklaring: Ask for or try to obtain (something) from someone.
 
-Uttalas:
+Uttalas: Som det stavas
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: värva (recruit, enlist, sign on, enroll)
+Verb: be om enträget (implore)
+Verb: bjuda ut sig (put out)
 
-Exempel: Word; 1 ()
+Synonymer: ask for, request, seek, apply for, put in for, call for, press for, beg, plead for
+
+Exempel: It is illegal for public officials to solicit gifts or money in exchange for favours; 8 (Det är olagligt för offentliga tjänstemän att begära gåvor eller pengar i utbyte mot förmåner)
 ----- New word -----
-795. ?????
-Å Ä Ö å ä ö
+795. revolve
 
-Förklaring:
+Förklaring: To move or cause something to move around a central point or line
 
-Uttalas:
+Uttalas: Som det stavas
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: rotate
 
-Exempel: Word; 1 ()
+Exempel: The earth revolves around the sun; 3 (Jorden roterar runt solen)
 ----- New word -----
-796. ?????
-Å Ä Ö å ä ö
+796. geek
 
 Förklaring:
+Someone who is intelligent but not fashionable or popular
+Someone who is very interested in a particular subject and knows a lot about it:
 
-Uttalas:
+Uttalas: Som det stavas
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: nörd
 
-Exempel: Word; 1 ()
+Exempel: His attempts to play a socially inept geek are awkward; 7 (Hans försök att spela en socialt opassande nörd är pinsam)
 ----- New word -----
-797. ?????
-Å Ä Ö å ä ö
+797. inept
 
-Förklaring:
+Förklaring: Having or showing no skill; clumsy
 
-Uttalas:
+Uttalas: Som det stavas
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Adjektiv: olämplig (inappropriate, improper, unsuited, unfitting, unfit)
+Adjektiv: opassande (unseemly, indecent, unbecoming)
+Adjektiv: klumpig (clumsy, awkward, cumbersome, unwieldy)
+Adjektiv: inkompetent (incompetent, incapable, ineffective, inefficient, unqualified)
 
-Exempel: Word; 1 ()
+Exempel: He was always rather inept at sport; 5 (Han var alltid ganska olämplig i sporter)
 ----- New word -----
-798. ?????
-Å Ä Ö å ä ö
+798. creepy
 
-Förklaring:
+Förklaring: Causing an unpleasant feeling of fear or unease
 
-Uttalas:
+Uttalas: kripi
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Adjektiv: kuslig (weird, uncanny, gruesome, gloomy)
+Adjektiv: terrible, awful, uncanny
 
-Exempel: Word; 1 ()
+Exempel: It was a creepy film; 4 (Det var en kuslig film)
 ----- New word -----
-799. ?????
-Å Ä Ö å ä ö
+799. unease
 
-Förklaring:
+Förklaring: A feeling of being worried about something
 
-Uttalas:
+Uttalas: uniis
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: oro (concern, anxiety, worry)
+Substantiv: ängslan (fear, nervousness)
+Substantiv: spänning (tension, stress)
 
-Exempel: Word; 1 ()
+
+Exempel: Polls show an unease over the depth of the government cuts; 4 (Marknadsundersökning visar en oro över omfattningen av regeringens nedskärningar)
 ----- New word -----
 800. ?????
 Å Ä Ö å ä ö
