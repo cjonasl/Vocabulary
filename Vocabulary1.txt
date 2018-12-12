@@ -2351,7 +2351,7 @@ Exempel: She was in a defiant mood; 5 (Hon var på ett trotsigt humör)
 (substantiv) prästerskap, präster
 ----- New word -----
 329. persecute
-förfölja (the Christians were prosecuted)
+förfölja (the Christians were persecuted)
 ----- New word -----
 330. eradicate
 utrota, lyckas bekämpa (få bukt med) (eradicate a crime)
@@ -6182,19 +6182,17 @@ Substantiv: spänning (tension, stress)
 
 Exempel: Polls show an unease over the depth of the government cuts; 4 (Marknadsundersökning visar en oro över omfattningen av regeringens nedskärningar)
 ----- New word -----
-800. ?????
-Å Ä Ö å ä ö
+800. fierce
 
-Förklaring:
+Förklaring: Having or displaying an intense or ferocious aggressiveness
 
-Uttalas:
+Uttalas: feers
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Adjektiv: våldsam, häftig, vild, grym, ilsken, bister, otrevlig
 
-Exempel: Word; 1 ()
+Synonymer: savage, vicious, aggressive, violent, cruel, severe, unplesant
+
+Exempel: As women, we need to accept that we can be fierce, cunning, and predatory; 11 (som kvinna måste vi acceptera att vi kan vara ilsken, knepig och utnyttjande)
 ----- New word -----
 801. ?????
 Å Ä Ö å ä ö
