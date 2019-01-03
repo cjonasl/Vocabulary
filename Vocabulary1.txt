@@ -6194,61 +6194,52 @@ Synonymer: savage, vicious, aggressive, violent, cruel, severe, unplesant
 
 Exempel: As women, we need to accept that we can be fierce, cunning, and predatory; 11 (som kvinna måste vi acceptera att vi kan vara ilsken, knepig och utnyttjande)
 ----- New word -----
-801. ?????
-Å Ä Ö å ä ö
+801. avail
 
 Förklaring:
+Use or take advantage of (an opportunity or available resource)
+Help or benefit
 
-Uttalas:
+Uttalas: öväjl
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: nytta
+Verb: tjäna till
 
-Exempel: Word; 1 ()
+Synonymer: use, utility, usefulness, service, benefit, advantage
+
+Exempel: My daughter did not avail herself of my advice; 5 (Min dotter utnyttjade sig inte av mina råd)
+Exempel: No amount of struggle availed Charles; 5 (Ingen kamp hjälpte Charles)
 ----- New word -----
-802. ?????
-Å Ä Ö å ä ö
+802. ambush
 
 Förklaring:
+To suddenly attack someone after hiding and waiting for them
 
-Uttalas:
+Substantiv: bakhåll
+Verb: ligga i bakhåll
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: Five soldiers died after their bus was ambushed on a country road; 8 (Fem soldater dog efter att deras buss var attackerad på en landsväg)
 ----- New word -----
-803. ?????
-Å Ä Ö å ä ö
+803. cunning
 
 Förklaring:
+Cunning people are clever at planning something so that they get
+what they want, especially by tricking other people, or things that
+are cleverly made for a particular purpose
 
-Uttalas:
+Adjektiv: listig, slug, skicklig, slipad, rävaktig
+Substantiv: slughet, skicklighet
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: He is a very cunning man; 5 (Han är en mycket listig man)
 ----- New word -----
-804. ?????
-Å Ä Ö å ä ö
+804. glitch
 
 Förklaring:
+A sudden, usually temporary malfunction or irregularity of equipment
 
-Uttalas:
+Substantiv: tekniskt fel
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: The system has been plagued with glitches ever since its launch; 7 (Systemet har plågats av fel ända sedan starten)
 ----- New word -----
 805. ?????
 Å Ä Ö å ä ö
