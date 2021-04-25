@@ -2916,7 +2916,7 @@ Förklaring: Save from beeing lost or destroyed. Rescue a ship or its cargo from
 Uttalas: salvij
 
 Substantiv: bärgning, räddning (från skeppsbrott o.d.), återanvändning, återvinning
-Verb: bärga, rädda,
+Verb: bärga, rädda
 
 Synonymer: save, recover, retrive, reclaim
 
@@ -3431,7 +3431,7 @@ ifall, för att
 ----- New word -----
 528. judicious
 
-Förklaringa; Having, showing, or done with good judgment or sense
+Förklaringa: Having, showing, or done with good judgment or sense
 
 Uttalas: jo͞oˈdiSHəs
 
@@ -6241,257 +6241,159 @@ Substantiv: tekniskt fel
 
 Exempel: The system has been plagued with glitches ever since its launch; 7 (Systemet har plågats av fel ända sedan starten)
 ----- New word -----
-805. ?????
-Å Ä Ö å ä ö
+805. lent
 
-Förklaring:
+Förklaring: The period preceding Easter that in the Christian Church is devoted to fasting
 
-Uttalas:
+Substantiv: fastan
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: The fifth Sunday before lent; 5 (Femte söndagen innan fastan)
 ----- New word -----
-806. ?????
-Å Ä Ö å ä ö
+806. reminisce
 
-Förklaring:
+Förklaring: Indulge in enjoyable recollection of past events
 
-Uttalas:
+Uttalas: reminis
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: minnas
 
-Exempel: Word; 1 ()
+Exempel: They reminisced about their summers abroad; 2 (De mindes sina somrar utomlands)
 ----- New word -----
-807. ?????
-Å Ä Ö å ä ö
+807. knight
 
-Förklaring:
+Förklaring: A man of high social position trained to fight as a soldier on a horse
 
-Uttalas:
+Uttalas: najt
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: riddare
 
-Exempel: Word; 1 ()
+Exempel: The princess was rescued by a handsome knight; 8 (Prinsessan räddades av en vacker riddare)
 ----- New word -----
-808. ?????
-Å Ä Ö å ä ö
+808. loo
 
-Förklaring:
+Substantiv: toa
 
-Uttalas:
-
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: Please do not put hand towels down the loo as they cause blockage; 9 (Snälla lägg inte pappershanddukar i toan eftersom de orsakar blockering)
 ----- New word -----
-809. ?????
-Å Ä Ö å ä ö
+809. wary
 
-Förklaring:
+Förklaring: Feeling or showing caution about possible dangers or problems
 
-Uttalas:
+Uttalas: väri
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Adjektiv: försiktig, på sin vakt, varsam
 
-Exempel: Word; 1 ()
+Exempel: Dogs that have been mistreated often remain very wary of strangers; 9 (Hundar som har blivit mishandlade förbli ofta mycket försiktiga med främlingar)
 ----- New word -----
-810. ?????
-Å Ä Ö å ä ö
+810. feral
 
-Förklaring:
+Uttalas: förel
 
-Uttalas:
+Adjektiv: vild, förvildad
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: That is a feral cat; 4 (Det är en förvildad katt)
 ----- New word -----
-811. ?????
-Å Ä Ö å ä ö
+811. heist
 
-Förklaring:
+Förklaring: A crime in which valuable things are taken illegally and often violently from a place or person
 
-Uttalas:
+Uttalas: haijst
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: kupp
 
-Exempel: Word; 1 ()
+Exempel: It was a $2 million jewellery heist; 7 (Det var en $2 miljoner smyckeskupp)
 ----- New word -----
-812. ?????
-Å Ä Ö å ä ö
+812. entitled
 
-Förklaring:
+Uttalas: entajteld
 
-Uttalas:
+Adjektiv: berättigad
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: If you're entitled to Universal Credit, you'll be paid in 29 days; 3 (Om du har rätt till Universal Credit så får du utbetalning inom 29 dagar)
 ----- New word -----
-813. ?????
-Å Ä Ö å ä ö
+813. retention
 
-Förklaring:
+Substantiv: bibehållande, kvarhållande, behållande
 
-Uttalas:
-
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: This helps moisture retention and provides nutrients; 4 (Detta hjälper till att hålla kvar fukt och ger näringsämnen)
 ----- New word -----
-814. ?????
-Å Ä Ö å ä ö
+814. inadvertently
 
-Förklaring:
+Förklaring: Without intention; accidentally
 
-Uttalas:
+Adjektiv: oavsiktligt
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: His name had been inadvertently omitted from the list; 5 (Hans namn hade oavsiktligt utelämnats från listan)
 ----- New word -----
-815. ?????
-Å Ä Ö å ä ö
+815. cease
 
-Förklaring:
+Förklaring: Bring or come to an end
 
-Uttalas:
+Uttalas: sis
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: upphöra
 
-Exempel: Word; 1 ()
+Exempel: They were asked to cease all military activity; 5 (De ombads att upphöra med all militär aktivitet)
 ----- New word -----
-816. ?????
-Å Ä Ö å ä ö
+816. subpoena
 
-Förklaring:
+Förklaring: To order someone to go to a law court to answer questions
 
-Uttalas:
+Uttalas: söpena
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: stämning
+Verb: kalla inför rätta
 
-Exempel: Word; 1 ()
+Exempel: The Queen is above the law and cannot be subpoenaed; 1 (Drottningen är över lagen och kan inte stämmas)
 ----- New word -----
-817. ?????
-Å Ä Ö å ä ö
+817. legacy
 
-Förklaring:
+Förklaring: An amount of money or property left to someone in a will
 
-Uttalas:
+Substantiv: arv
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: He got a lot of money in an legacy; 9 (Han fick mycket pengar i ett arv)
 ----- New word -----
-818. ?????
-Å Ä Ö å ä ö
+818. scathing
 
-Förklaring:
+Förklaring: Severely critical
 
-Uttalas:
+Adjektiv: skarp, svidande, bitande, dräpande
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: The family of teen Harry Dunn have accused the government of treating them like dirt in a scathing letter; 18 (Familjen till tonåringen Harry Dunn har anklagat regeringen för att ha behandlat dem som smuts i ett svidande brev)
 ----- New word -----
-819. ?????
-Å Ä Ö å ä ö
+819. trailing
 
-Förklaring:
+Substantiv: Efterföljande
 
-Uttalas:
-
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: Chomp removes any trailing newline character at the end of its argument; 4 (Chomp tar bort alla efterföljande nyradstecken i slutet av argumentet)
 ----- New word -----
-820. ?????
-Å Ä Ö å ä ö
+820. perplexing 
 
-Förklaring:
+Verb: förbrylla, förvirra
 
-Uttalas:
+Exempel: Donald Trump's marriage was perplexing to almost everybody around him; 5 (Donald Trumps äktenskap var förvirrande för nästan alla omkring honom)
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
 ----- New word -----
-821. ?????
-Å Ä Ö å ä ö
+821. vanity
 
-Förklaring:
+Förklaring: Excessive pride in or admiration of one's own appearance or achievements
 
-Uttalas:
+Uttalas: väniti
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: fåfänga, flärd
 
-Exempel: Word; 1 ()
+Exempel: He wants the job purely for reasons of vanity and ambition; 9 (Han vill ha jobbet enbart av fåfänga och ambition)
 ----- New word -----
-822. ?????
-Å Ä Ö å ä ö
+822. reciprocate
 
-Förklaring:
+Förklaring: To share the same feelings as someone else, or to behave in the same way as someone else
 
-Uttalas:
+Uttalas: resipricate
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: återgälda, göra en gentjänst, röra sig fram och tillbaka, besvara, samverka
 
-Exempel: Word; 1 ()
+Exempel: Sadly, my feelings for him were not reciprocated; 8 (Tyvärr var mina känslor för honom inte besvara)
 ----- New word -----
 823. ?????
 Å Ä Ö å ä ö

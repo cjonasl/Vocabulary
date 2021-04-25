@@ -176,7 +176,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jonas\\.nuget\\packages\\": {},
+    "C:\\Users\\Home\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -185,14 +185,14 @@
       "projectUniqueName": "C:\\git_cjonasl\\Vocabulary\\Vocabulary\\StaticMethods\\StaticMethods.csproj",
       "projectName": "StaticMethods",
       "projectPath": "C:\\git_cjonasl\\Vocabulary\\Vocabulary\\StaticMethods\\StaticMethods.csproj",
-      "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
       "outputPath": "C:\\git_cjonasl\\Vocabulary\\Vocabulary\\StaticMethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -117,3 +117,11 @@ C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\Main.csproj.CopyComplete
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\Main.exe
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\Main.pdb
 C:\git_cjonasl\Vocabulary\Vocabulary\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\git_cjonasl\Vocabulary\Vocabulary\Main\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
