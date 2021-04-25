@@ -1911,10 +1911,17 @@ Substantiv: djupgående
 Substantiv: fångst (catch, capture)
 
 Exempel: The first draft of the book contained lot of error; 3 (Bokens första utkast innehöll mycket fel)
-Exmepl: Let's go and drink some draught beer; 6 (Kom så går vi och dricker lite öl på fat)
+Exempel: Let's go and drink some draught beer; 6 (Kom så går vi och dricker lite öl på fat)
 ----- New word -----
 252. unprecedented
-(adjektiv) utan motstycke, oöverträffad, makalös
+
+Uttalas: unpresidentid
+
+Adjektiv: utan motstycke, som aldrig tidigare förekommit, oöverträffad, makalös
+
+Synonymer: outstanding, unparalleled, unequal, uncommon
+
+Exempel: Unemployment has reached an unprecedented level; 5 (Arbetslösheten har nått en makalös nivå)
 ----- New word -----
 253. fend of
 avvärja, parera, hålla undan
@@ -6395,33 +6402,26 @@ Verb: återgälda, göra en gentjänst, röra sig fram och tillbaka, besvara, sa
 
 Exempel: Sadly, my feelings for him were not reciprocated; 8 (Tyvärr var mina känslor för honom inte besvara)
 ----- New word -----
-823. ?????
-Å Ä Ö å ä ö
+823. council
 
-Förklaring:
+Förklaring: A group of people elected or chosen to make decisions or give advice on a particular subject, to represent a particular group of people, or to run a particular organization
 
-Uttalas:
+Uttalas: kansol
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: råd, kyrkoförsamling, fullmäktig, rådsförsamling
 
-Exempel: Word; 1 ()
+Exempel: The local council has decreed that the hospital should close; 3 (Kommunfullmäktige har beslutat att sjukhuset ska stängas.)
 ----- New word -----
-824. ?????
-Å Ä Ö å ä ö
+824. decree
 
-Förklaring:
+Förklaring: An official statement that something must happen
 
-Uttalas:
+Uttalas: dekrii
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Substantiv: dom, beslut
+Verb: bestämma
 
-Exempel: Word; 1 ()
+Exempel: More than 200 people were freed by military decree; 9 (Mer än 200 personer befriades genom militärt beslut)
 ----- New word -----
 825. ?????
 Å Ä Ö å ä ö
