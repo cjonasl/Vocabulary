@@ -4179,7 +4179,6 @@ Verb: kartlägga (map, chart)
 
 Exempel: The movie has a very simple plot; 7 (Filmen har en mycket enkel handling)
 
-
 ----- New word -----
 628. succeeded
 
@@ -4381,11 +4380,13 @@ Exempel: A kettle is specialized for boiling water; 2 (En vattenkokare är gjord
 ----- New word -----
 648. entitle
 
-Verg: berättiga
+Verb: berättiga
+Adjektiv: berättigad
 
 Synonymer: qualify, make eligible, authorize, allow, permit, enable, empower
 
 Exempel: Employees are normally entitled to severance pay; 4 (Anställda har normalt rätt till avgångsvederlag)
+Exempel: If you're entitled to Universal Credit, you'll be paid in 29 days; 3 (Om du har rätt till Universal Credit så får du utbetalning inom 29 dagar)
 ----- New word -----
 649. conception
 
@@ -6310,13 +6311,15 @@ Substantiv: kupp
 
 Exempel: It was a $2 million jewellery heist; 7 (Det var en $2 miljoner smyckeskupp)
 ----- New word -----
-812. entitled
+812. eligible
 
-Uttalas: entajteld
+Uttalas: äligible
 
-Adjektiv: berättigad
+Adjektiv: berättigad, lämplig, valbar, passande, önskvärd
 
-Exempel: If you're entitled to Universal Credit, you'll be paid in 29 days; 3 (Om du har rätt till Universal Credit så får du utbetalning inom 29 dagar)
+Synonymer: önskvärd, permitted, allowed, qualified, suitable, appropriate, 
+
+Exempel: You have to be employed six months to be eligible for medical benefits; 10 (Du måste vara anställd i sex månader för att vara berättigad till medicinska förmåner)
 ----- New word -----
 813. retention
 
@@ -6423,75 +6426,59 @@ Verb: bestämma
 
 Exempel: More than 200 people were freed by military decree; 9 (Mer än 200 personer befriades genom militärt beslut)
 ----- New word -----
-825. ?????
-Å Ä Ö å ä ö
+825. surreptitiously
 
-Förklaring:
+Förklaring: In a way that attempts to avoid notice or attention.
 
-Uttalas:
+Uttalas: sareptisosly
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Adverb: i hemlighet
 
-Exempel: Word; 1 ()
+Synonymer: secretly
+
+Exempel: Mary surreptitiously slipped from the room; 2 (Mary gled i smyg ut från rummet)
 ----- New word -----
-826. ?????
-Å Ä Ö å ä ö
+826. poised
 
-Förklaring:
+Uttalas: pojsd
 
-Uttalas:
+Adjektiv: redo
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: It is poised to continue its growth as the go-to solution for hybrid mobile developers; 3 (Den är redo att fortsätta sin tillväxt som den bästa lösningen för hybridmobilutvecklare)
 ----- New word -----
-827. ?????
-Å Ä Ö å ä ö
+827. digest
 
 Förklaring:
+1. Break down (food) in the alimentary canal into substances that can be absorbed and used by the body.
+2. A compilation or summary of material or information.
 
-Uttalas:
+Substantiv: sammandrag
+Verb: smälta, smälta maten, göra ett sammandrag av, klassificera, systematisera
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Synonymer: summary, brief, abstract, dissolve, assimilate
 
-Exempel: Word; 1 ()
+Exempel: A digest of the research findings is now available; 2 (En sammanfattning av forskningsresultaten är nu tillgänglig)
 ----- New word -----
-828. ?????
-Å Ä Ö å ä ö
+828. aspire
 
-Förklaring:
+Förklaring: Direct one's hopes or ambitions towards achieving something.
 
-Uttalas:
+Uttalas: aspiör
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
+Verb: sträva, längta
 
-Exempel: Word; 1 ()
+Synonymer: long, yearn
+
+Exempel: Most of his students aspired to a career in business; 5 (De flesta av hans studenter längtade efter en karriär inom affärssektorn)
 ----- New word -----
-829. ?????
-Å Ä Ö å ä ö
+829. batter
 
-Förklaring:
+Substantiv: smet
+Verb: slå in, illa tilltyga, kritisera, buckla till
 
-Uttalas:
+Synonymer: hurt, harm, injure, beat up, damage
 
-Adjektiv:
-Adverb:
-Substantiv:
-Verb:
-
-Exempel: Word; 1 ()
+Exempel: He was battered and falsely imprisoned by the officers; 3 (Han blev misshandlad och felaktigt fängslad av officerarna)
 ----- New word -----
 830. ?????
 Å Ä Ö å ä ö
