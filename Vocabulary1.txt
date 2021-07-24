@@ -3874,7 +3874,7 @@ Verb: bevilja (grant, allow)
 Verb: ge upp (give up, abandon, relinquish)
 Verb: överge (surrender, yield, relinquish)
 
-Exempel: I had to concede that I overreacted; 4 (Jag måste erkänna att jag överreagerade)
+Exempel: I have to concede that I overreacted; 4 (Jag måste erkänna att jag överreagerade)
 ----- New word -----
 602. farce
 
@@ -5418,7 +5418,7 @@ Exempel: Fire trucks, ambulances, hearses and the vehicles of law enforcement of
 
 Förklaring: A claim or dispute brought to a court of law for adjudication
 
-Uttalas: ˈlôˌso͞ot
+Uttalas: låsut
 
 Substantiv: rättegång, process, mål, stämning
 
