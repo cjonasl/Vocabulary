@@ -1516,13 +1516,13 @@ Synonymer: unresolved, undecided, unsettled, awaiting decision/action, undetermi
 Exempel: The lawsuit was pending; 4 (målet var inte avgjort)
 ----- New word -----
 170. comply
-gå med på, samtycka till, lyda
+gå med på, samtycka till, lyda, följa
 ----- New word -----
 171. affinity
 1. släktskap; frändskap (mellan djur) 2. samhörighet, affinity group (intressegrupp)
 ----- New word -----
 172. deem
-anse, tro
+anse, tro, mena
 ----- New word -----
 173. emulate
 tävla med, söka [efter]likna, ta efter, söka överträffa
@@ -2687,7 +2687,7 @@ Synonymer: helpless, defenseless, powerless, weak, susceptible
 Exempel: We were in a vulnerable position; 5 (Vi befann oss i en sårbar position)
 ----- New word -----
 380. fringe
-1. frans 2. [skogs]bryn 3. marginal, periferi, ytterkant (fringe benefit = extraförmån)
+1. frans 2. [skogs]bryn 3. marginal, periferi, ytterkant (fringe benefit = extraförmån), lugg
 ----- New word -----
 381. hyphen
 (uttalas haifen) bindestreck
@@ -3107,6 +3107,8 @@ Exempel: He was dead, but he was resurrected; 7 (Han var död, men han återupps
 Förklaring: An unintentional act or remark causing embarrassment to its originator; a blunder
 
 Uttalas: gaf
+
+Substantiv: tabbe
 
 Synonymer: blunder, goof
 
@@ -6307,7 +6309,7 @@ Förklaring: A crime in which valuable things are taken illegally and often viol
 
 Uttalas: haijst
 
-Substantiv: kupp
+Substantiv: kupp, rån
 
 Exempel: It was a $2 million jewellery heist; 7 (Det var en $2 miljoner smyckeskupp)
 ----- New word -----
